@@ -1,0 +1,41 @@
+{
+  "feeds": [
+    "https://feeds.reuters.com/reuters/worldNews",
+    "https://apnews.com/hub/ap-top-news?output=rss",
+    "https://www.aljazeera.com/xml/rss/all.xml",
+    "http://feeds.bbci.co.uk/news/world/rss.xml"
+  ],
+  "keywords": [
+    "iran",
+    "usa",
+    "trump",
+    "strait of hormuz",
+    "hormuz",
+    "oil",
+    "sanctions",
+    "war",
+    "missile",
+    "gulf",
+    "israel",
+    "shipping",
+    "prices",
+    "fuel",
+    "ceasefire",
+    "attack",
+    "blockade"
+  ],
+  "weights": {
+    "conflict": 4,
+    "money_impact": 5,
+    "big_country": 3,
+    "urgency": 4,
+    "clarity": 2
+  },
+  "default_hashtags": [
+    "#wojna",
+    "#ropa",
+    "#paliwo",
+    "#gospodarka",
+    "#geopolityka"
+  ]
+}

@@ -1,0 +1,16 @@
+Prompt do Codexa:
+
+1. Przejrzyj repo i uruchom projekt lokalnie.
+2. Dodaj scheduler uruchamiający bota codziennie o 08:00 i 18:00.
+3. Dodaj obsługę większej liczby źródeł RSS.
+4. Dodaj scoring pod polski viral:
+   - większa waga dla tematów wpływających na ceny paliw, życie, portfel
+   - kara za zbyt ogólne tematy geopolityczne
+5. Dodaj eksport do jednego pliku markdown z gotową sekcją:
+   - miniatura
+   - tekst rolki
+   - tekst pod post
+   - hook follow
+   - 5 hashtagów
+6. Dodaj prosty log błędów i plik .env pod przyszłe integracje.
+7. Nie zmieniaj tonu Fabian Talks: konkretnie, mocno, bez lania wody.
