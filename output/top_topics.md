@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-04-22 21:11)
+# Fabian Talks — top tematy (2026-04-23 10:54)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
 **Score:** 33
@@ -31,25 +31,24 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ORMUZ ZAPŁONIE?
-**Score:** 26
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** US and Iran in blockade standoff as Pakistan pushes for talks
-**Link:** https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss
+## 2. CENY PÓJDĄ W GÓRĘ?
+**Score:** 28
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Lufthansa cuts 20,000 flights as Iran war causes jet fuel shortage
+**Link:** https://www.aljazeera.com/news/2026/4/23/lufthansa-cuts-20000-flights-as-iran-war-causes-jet-fuel-shortage?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US and Iran in blockade standoff as Pakistan pushes for talks
+Lufthansa cuts 20,000 flights as Iran war causes jet fuel shortage
 
-The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.
+The German airline says 20,000 short-haul flights would be removed from its ⁠schedule between now and October.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,24 +62,25 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 21
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Trump buys time for Iran deal after frantic day of diplomacy
-**Link:** https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss
+## 3. ORMUZ ZAPŁONIE?
+**Score:** 22
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** Iran releases video of IRGC seizing ship in the Strait of Hormuz
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/4/23/iran-releases-video-of-irgc-seizing-ship-in-the-strait-of-hormuz?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Trump buys time for Iran deal after frantic day of diplomacy
+Iran releases video of IRGC seizing ship in the Strait of Hormuz
 
-The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time.
+Iran’s revolutionary guard has released a video said to show its forces seizing a ship in the Strait of Hormuz.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
