@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-04-23 21:07)
+# Fabian Talks — top tematy (2026-04-24 10:51)
 
 ## 1. PALIWO WYSTRZELI?
-**Score:** 35
+**Score:** 40
 **Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz, mocny trigger portfel/paliwo
-**Tytuł źródła:** US-Israeli war on Iran will push 30 million back into poverty, UN warns
-**Link:** https://www.aljazeera.com/news/2026/4/23/us-israeli-war-on-iran-will-push-30-million-back-into-poverty-un-warns?traffic_source=rss
+**Tytuł źródła:** Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz
+**Link:** https://www.aljazeera.com/economy/2026/4/24/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz?traffic_source=rss
 
 ### Tekst na rolkę
 USA i Iran znowu grają Ormuzem.
@@ -21,9 +21,9 @@ Pytanie nie brzmi czy.
 Pytanie brzmi — kiedy to poczujesz.
 
 ### Tekst pod post
-US-Israeli war on Iran will push 30 million back into poverty, UN warns
+Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz
 
-Disruption to fuel and fertiliser supplies due to the Strait of Hormuz closure will hit crop yields, UNDP chief warns.
+Jump in prices comes as Donald Trump says vessels will need permission of US Navy to transit key waterway.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -38,10 +38,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 33
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Lufthansa cuts 20,000 summer flights as fuel prices surge
-**Link:** https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss
+**Score:** 24
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** US boards ship carrying Iran oil as Trump threatens mine-laying vessels
+**Link:** https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -52,9 +52,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Lufthansa cuts 20,000 summer flights as fuel prices surge
+US boards ship carrying Iran oil as Trump threatens mine-laying vessels
 
-The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring.
+Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -68,25 +68,24 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ORMUZ ZAPŁONIE?
-**Score:** 22
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Trump says he is keeping Strait of Hormuz closed, not Iran
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/4/23/trump-says-he-is-keeping-strait-of-hormuz-closed-not-iran?traffic_source=rss
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 18
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side
+**Link:** https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump says he is keeping Strait of Hormuz closed, not Iran
+Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side
 
-Donald Trump said he is the one keeping the Strait of Hormuz closed, not Iran.
+Death toll from Israel&#039;s ongoing genocidal war on Gaza has reached 72,568 with 172,338 wounded: Gaza&#039;s Health Ministry.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
