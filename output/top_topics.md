@@ -1,29 +1,24 @@
-# Fabian Talks — top tematy (2026-04-24 10:51)
+# Fabian Talks — top tematy (2026-04-24 20:07)
 
-## 1. PALIWO WYSTRZELI?
-**Score:** 40
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz, mocny trigger portfel/paliwo
-**Tytuł źródła:** Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz
-**Link:** https://www.aljazeera.com/economy/2026/4/24/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz?traffic_source=rss
+## 1. ORMUZ ZAPŁONIE?
+**Score:** 35
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different
+**Link:** https://www.aljazeera.com/news/2026/4/24/iran-iraq-tanker-war-redux-why-the-strait-of-hormuz-crisis-is-different?traffic_source=rss
 
 ### Tekst na rolkę
-USA i Iran znowu grają Ormuzem.
-👉 Przez tę cieśninę idzie ogromna część światowej ropy.
-👉 Jedna decyzja… i ceny mogą ruszyć w górę.
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-To nie jest daleki konflikt.
-
-👉 To jest Twoja stacja paliw.
-👉 Twój rachunek.
-👉 Twój portfel.
-
-Pytanie nie brzmi czy.
-Pytanie brzmi — kiedy to poczujesz.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz
+Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different
 
-Jump in prices comes as Donald Trump says vessels will need permission of US Navy to transit key waterway.
+The Tanker War between Iran and Iraq in the 1980s also disrupted global shipping. But the situation today is different.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -38,10 +33,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 24
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** US boards ship carrying Iran oil as Trump threatens mine-laying vessels
-**Link:** https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss
+**Score:** 21
+**Powody:** wpływ na ceny/handel, mocny trigger portfel/paliwo
+**Tytuł źródła:** Trump government extends Jones Act waiver by 90 days to dampen oil prices
+**Link:** https://www.aljazeera.com/economy/2026/4/24/trump-government-extends-jones-act-waiver-by-90-days-to-dampen-oil-prices?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -52,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US boards ship carrying Iran oil as Trump threatens mine-laying vessels
+Trump government extends Jones Act waiver by 90 days to dampen oil prices
 
-Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.
+Move is part of a broader US push to curb politically sensitive fuel price spikes before November’s midterm elections.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -69,10 +64,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 18
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side
-**Link:** https://www.aljazeera.com/news/liveblog/2026/4/24/iran-war-live-lebanon-truce-extended-trump-says-time-not-on-tehrans-side?traffic_source=rss
+**Score:** 16
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Can Europe help the Middle East resolve the war on Iran?
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/4/24/can-europe-help-the-middle-east-resolve-the-war-on-iran?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -83,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war live: Lebanon truce extended; Trump says time not on Tehran’s side
+Can Europe help the Middle East resolve the war on Iran?
 
-Death toll from Israel&#039;s ongoing genocidal war on Gaza has reached 72,568 with 172,338 wounded: Gaza&#039;s Health Ministry.
+Al Jazeera’s Rory Challands reports from the EU summit in Cyprus.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
