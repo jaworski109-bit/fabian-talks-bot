@@ -1,24 +1,23 @@
-# Fabian Talks — top tematy (2026-04-24 20:07)
+# Fabian Talks — top tematy (2026-04-25 08:38)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 35
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different
-**Link:** https://www.aljazeera.com/news/2026/4/24/iran-iraq-tanker-war-redux-why-the-strait-of-hormuz-crisis-is-different?traffic_source=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 23
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** US sanctions China’s ‘teapot’ refinery for buying Iranian oil
+**Link:** https://www.aljazeera.com/news/2026/4/25/us-sanctions-chinas-teapot-refinery-for-buying-iranian-oil?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran-Iraq Tanker War redux? Why the Strait of Hormuz crisis is different
+US sanctions China’s ‘teapot’ refinery for buying Iranian oil
 
-The Tanker War between Iran and Iraq in the 1980s also disrupted global shipping. But the situation today is different.
+The Hengli refinery has generated hundreds of millions of dollars for Iran&#039;s military, says US Treasury.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -33,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 21
-**Powody:** wpływ na ceny/handel, mocny trigger portfel/paliwo
-**Tytuł źródła:** Trump government extends Jones Act waiver by 90 days to dampen oil prices
-**Link:** https://www.aljazeera.com/economy/2026/4/24/trump-government-extends-jones-act-waiver-by-90-days-to-dampen-oil-prices?traffic_source=rss
+**Score:** 16
+**Powody:** wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** China car giant BYD says it can thrive without US
+**Link:** https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump government extends Jones Act waiver by 90 days to dampen oil prices
+China car giant BYD says it can thrive without US
 
-Move is part of a broader US push to curb politically sensitive fuel price spikes before November’s midterm elections.
+With the price of fuel rising China's BYD says it is positioning itself to benefit from the global shift away from fossil fuels.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 16
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Can Europe help the Middle East resolve the war on Iran?
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/4/24/can-europe-help-the-middle-east-resolve-the-war-on-iran?traffic_source=rss
+**Score:** 14
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Capture of ships by US, Iran violates international law, shipping body says
+**Link:** https://www.aljazeera.com/economy/2026/4/25/capture-of-ships-by-us-iran-violates-international-law-shipping-body-says?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Can Europe help the Middle East resolve the war on Iran?
+Capture of ships by US, Iran violates international law, shipping body says
 
-Al Jazeera’s Rory Challands reports from the EU summit in Cyprus.
+US and Iran should immediately release crews of captured vessels, says International Chamber of Shipping director.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
