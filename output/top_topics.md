@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-04-26 09:16)
+# Fabian Talks — top tematy (2026-04-26 19:59)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
 **Score:** 17
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Iran war: What’s happening on day 58 as Tehran-Washington talks stall?
-**Link:** https://www.aljazeera.com/news/2026/4/26/iran-war-whats-happening-on-day-58-as-tehran-washington-talks-stall?traffic_source=rss
+**Tytuł źródła:** US-Iran conflict: What’s the latest as the Islamabad talks stall?
+**Link:** https://www.aljazeera.com/news/2026/4/26/us-iran-conflict-whats-the-latest-as-the-islamabad-talks-stall?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war: What’s happening on day 58 as Tehran-Washington talks stall?
+US-Iran conflict: What’s the latest as the Islamabad talks stall?
 
-Trump calls off planned trip to Pakistan by his envoys, in the latest setback to efforts to end the war with Iran.
+Washington and Tehran stick to their positions as mediators hope for a diplomatic breakthrough in US-Israel war on Iran.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -65,8 +65,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Hundreds of Israelis rally as US-Iran peace talks stall
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/4/26/hundreds-of-israelis-rally-as-us-iran-peace-talks-stall?traffic_source=rss
+**Tytuł źródła:** Iran shifts economic focus to essentials during war uncertainty
+**Link:** https://www.aljazeera.com/news/2026/4/26/iran-shifts-economic-focus-to-essentials-amid-war-uncertainty?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Hundreds of Israelis rally as US-Iran peace talks stall
+Iran shifts economic focus to essentials during war uncertainty
 
-Crowds of protesters took to the streets of Tel Aviv on Sunday, amid fears the US-Israeli war on Iran will resume.
+The government is partly reversing a currency decision for basic items and tapping into the country&#039;s sovereign fund.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
