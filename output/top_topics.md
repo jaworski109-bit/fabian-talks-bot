@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-04-27 12:07)
+# Fabian Talks — top tematy (2026-04-27 21:36)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 18
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Oil prices rise as US-Iran peace talks stall
-**Link:** https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss
+**Score:** 24
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Will the Iran war push millions back into poverty?
+**Link:** https://www.aljazeera.com/video/counting-the-cost/2026/4/27/will-the-iran-war-push-millions-back-into-poverty?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Oil prices rise as US-Iran peace talks stall
+Will the Iran war push millions back into poverty?
 
-President Trump said the US had cancelled plans to send a team to Pakistan for negotiations.
+US-Israel war on Iran drives up fuel and food costs, putting 32.5 million people at risk of poverty worldwide.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,24 +31,25 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 17
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** War and neglect fuel deadly measles epidemic in Sudan’s Darfur
-**Link:** https://www.aljazeera.com/news/2026/4/27/war-and-neglect-fuel-deadly-measles-epidemic-in-sudans-darfur?traffic_source=rss
+## 2. ORMUZ ZAPŁONIE?
+**Score:** 15
+**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** Suspected pirates steer cargo vessel towards Somalia
+**Link:** https://www.aljazeera.com/news/2026/4/27/suspected-pirates-steer-cargo-vessel-towards-somalia?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-War and neglect fuel deadly measles epidemic in Sudan’s Darfur
+Suspected pirates steer cargo vessel towards Somalia
 
-Measles kills 70 in East Darfur&#039;s Labado in a few weeks as healthcare collapse leaves families without medicines.
+Hijacking reported as maritime traffic is diverted towards Africa while Strait of Hormuz is essentially closed.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +64,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 14
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Iran’s top diplomat visits Russia as part of efforts to end the war
-**Link:** https://www.aljazeera.com/news/2026/4/27/iran-foreign-minister-in-russia-for-putin-talks?traffic_source=rss
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Who holds the cards in Iran-US talks?
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/4/27/who-holds-the-cards-in-iran-us-talks?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran’s top diplomat visits Russia as part of efforts to end the war
+Who holds the cards in Iran-US talks?
 
-Pakistan and Oman remain involved in backchannel efforts to prevent a return to open US-Israel war on Iran.
+Both the US and Iran claim to have the upper hand in negotiations over the war, but who holds the cards?
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 

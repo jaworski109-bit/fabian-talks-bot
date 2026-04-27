@@ -1,19 +1,21 @@
 {
-  "generated_at": "2026-04-27T12:07:53.136947",
+  "generated_at": "2026-04-27T21:36:46.577940",
   "topics": [
     {
-      "title": "Oil prices rise as US-Iran peace talks stall",
-      "summary": "President Trump said the US had cancelled plans to send a team to Pakistan for negotiations.",
-      "link": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
-      "score": 18,
+      "title": "Will the Iran war push millions back into poverty?",
+      "summary": "US-Israel war on Iran drives up fuel and food costs, putting 32.5 million people at risk of poverty worldwide.",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/4/27/will-the-iran-war-push-millions-back-into-poverty?traffic_source=rss",
+      "score": 24,
       "reasons": [
+        "konflikt/eskalacja",
         "wpływ na ceny/handel",
+        "duże państwa/geopolityka",
         "czytelny tytuł",
         "mocny trigger portfel/paliwo"
       ],
       "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Oil prices rise as US-Iran peace talks stall\n\nPresident Trump said the US had cancelled plans to send a team to Pakistan for negotiations.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Will the Iran war push millions back into poverty?\n\nUS-Israel war on Iran drives up fuel and food costs, putting 32.5 million people at risk of poverty worldwide.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -24,19 +26,18 @@
       ]
     },
     {
-      "title": "War and neglect fuel deadly measles epidemic in Sudan’s Darfur",
-      "summary": "Measles kills 70 in East Darfur&#039;s Labado in a few weeks as healthcare collapse leaves families without medicines.",
-      "link": "https://www.aljazeera.com/news/2026/4/27/war-and-neglect-fuel-deadly-measles-epidemic-in-sudans-darfur?traffic_source=rss",
-      "score": 17,
+      "title": "Suspected pirates steer cargo vessel towards Somalia",
+      "summary": "Hijacking reported as maritime traffic is diverted towards Africa while Strait of Hormuz is essentially closed.",
+      "link": "https://www.aljazeera.com/news/2026/4/27/suspected-pirates-steer-cargo-vessel-towards-somalia?traffic_source=rss",
+      "score": 15,
       "reasons": [
-        "konflikt/eskalacja",
         "wpływ na ceny/handel",
         "czytelny tytuł",
-        "mocny trigger portfel/paliwo"
+        "silny trigger Ormuz"
       ],
-      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "War and neglect fuel deadly measles epidemic in Sudan’s Darfur\n\nMeasles kills 70 in East Darfur&#039;s Labado in a few weeks as healthcare collapse leaves families without medicines.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "thumbnail": "ORMUZ ZAPŁONIE?",
+      "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
+      "post_text": "Suspected pirates steer cargo vessel towards Somalia\n\nHijacking reported as maritime traffic is diverted towards Africa while Strait of Hormuz is essentially closed.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -47,17 +48,18 @@
       ]
     },
     {
-      "title": "Iran’s top diplomat visits Russia as part of efforts to end the war",
-      "summary": "Pakistan and Oman remain involved in backchannel efforts to prevent a return to open US-Israel war on Iran.",
-      "link": "https://www.aljazeera.com/news/2026/4/27/iran-foreign-minister-in-russia-for-putin-talks?traffic_source=rss",
-      "score": 14,
+      "title": "Who holds the cards in Iran-US talks?",
+      "summary": "Both the US and Iran claim to have the upper hand in negotiations over the war, but who holds the cards?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/27/who-holds-the-cards-in-iran-us-talks?traffic_source=rss",
+      "score": 13,
       "reasons": [
         "konflikt/eskalacja",
-        "duże państwa/geopolityka"
+        "duże państwa/geopolityka",
+        "czytelny tytuł"
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Iran’s top diplomat visits Russia as part of efforts to end the war\n\nPakistan and Oman remain involved in backchannel efforts to prevent a return to open US-Israel war on Iran.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Who holds the cards in Iran-US talks?\n\nBoth the US and Iran claim to have the upper hand in negotiations over the war, but who holds the cards?\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
