@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-04-26 19:59)
+# Fabian Talks — top tematy (2026-04-27 12:07)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** US-Iran conflict: What’s the latest as the Islamabad talks stall?
-**Link:** https://www.aljazeera.com/news/2026/4/26/us-iran-conflict-whats-the-latest-as-the-islamabad-talks-stall?traffic_source=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 18
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Oil prices rise as US-Iran peace talks stall
+**Link:** https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US-Iran conflict: What’s the latest as the Islamabad talks stall?
+Oil prices rise as US-Iran peace talks stall
 
-Washington and Tehran stick to their positions as mediators hope for a diplomatic breakthrough in US-Israel war on Iran.
+President Trump said the US had cancelled plans to send a team to Pakistan for negotiations.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 16
-**Powody:** wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** China car giant BYD says it can thrive without US
-**Link:** https://www.bbc.com/news/articles/cy01ele412yo?at_medium=RSS&at_campaign=rss
+**Score:** 17
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** War and neglect fuel deadly measles epidemic in Sudan’s Darfur
+**Link:** https://www.aljazeera.com/news/2026/4/27/war-and-neglect-fuel-deadly-measles-epidemic-in-sudans-darfur?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-China car giant BYD says it can thrive without US
+War and neglect fuel deadly measles epidemic in Sudan’s Darfur
 
-With the price of fuel rising China's BYD says it is positioning itself to benefit from the global shift away from fossil fuels.
+Measles kills 70 in East Darfur&#039;s Labado in a few weeks as healthcare collapse leaves families without medicines.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Iran shifts economic focus to essentials during war uncertainty
-**Link:** https://www.aljazeera.com/news/2026/4/26/iran-shifts-economic-focus-to-essentials-amid-war-uncertainty?traffic_source=rss
+**Score:** 14
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** Iran’s top diplomat visits Russia as part of efforts to end the war
+**Link:** https://www.aljazeera.com/news/2026/4/27/iran-foreign-minister-in-russia-for-putin-talks?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran shifts economic focus to essentials during war uncertainty
+Iran’s top diplomat visits Russia as part of efforts to end the war
 
-The government is partly reversing a currency decision for basic items and tapping into the country&#039;s sovereign fund.
+Pakistan and Oman remain involved in backchannel efforts to prevent a return to open US-Israel war on Iran.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
