@@ -1,12 +1,13 @@
 {
-  "generated_at": "2026-04-29T11:56:02.222081",
+  "generated_at": "2026-04-29T21:43:00.407572",
   "topics": [
     {
-      "title": "Ukraine targets Druzhba pipeline to sever Russian oil, influence in EU",
-      "summary": "Hungary and Slovakia are still buying Russian oil. Seeing weakness in Brussels, Kyiv means to stop that trade.",
-      "link": "https://www.aljazeera.com/news/2026/4/29/ukraine-targets-druzhba-pipeline-to-sever-russian-oil-influence-in-eu?traffic_source=rss",
-      "score": 21,
+      "title": "Oil price briefly hits $120 after reports of 'extended' Iran blockade",
+      "summary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
+      "link": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
+      "score": 28,
       "reasons": [
+        "konflikt/eskalacja",
         "wpływ na ceny/handel",
         "duże państwa/geopolityka",
         "czytelny tytuł",
@@ -14,7 +15,7 @@
       ],
       "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Ukraine targets Druzhba pipeline to sever Russian oil, influence in EU\n\nHungary and Slovakia are still buying Russian oil. Seeing weakness in Brussels, Kyiv means to stop that trade.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Oil price briefly hits $120 after reports of 'extended' Iran blockade\n\nThe price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -25,19 +26,20 @@
       ]
     },
     {
-      "title": "Iran war: What’s happening on day 61 as UAE exits OPEC?",
-      "summary": "Trump says Iran is in a &#039;state of collapse&#039; as Gulf leaders meet in Saudi Arabia.",
-      "link": "https://www.aljazeera.com/news/2026/4/29/iran-war-whats-happening-on-day-61-as-uae-exits-opec?traffic_source=rss",
-      "score": 18,
+      "title": "Trump vows to maintain Iran blockade, Tehran threatens ‘practical’ action",
+      "summary": "US president says Washington&#039;s naval siege on Iranian ports is &#039;more effective than the bombing&#039; as oil price soars.",
+      "link": "https://www.aljazeera.com/news/2026/4/29/trump-vows-to-maintain-iran-blockade-tehran-threaten-practical-action?traffic_source=rss",
+      "score": 24,
       "reasons": [
         "konflikt/eskalacja",
         "wpływ na ceny/handel",
         "duże państwa/geopolityka",
-        "czytelny tytuł"
+        "czytelny tytuł",
+        "mocny trigger portfel/paliwo"
       ],
-      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
+      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Iran war: What’s happening on day 61 as UAE exits OPEC?\n\nTrump says Iran is in a &#039;state of collapse&#039; as Gulf leaders meet in Saudi Arabia.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Trump vows to maintain Iran blockade, Tehran threatens ‘practical’ action\n\nUS president says Washington&#039;s naval siege on Iranian ports is &#039;more effective than the bombing&#039; as oil price soars.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -48,18 +50,19 @@
       ]
     },
     {
-      "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
-      "summary": "In the two months since the deadly strike, the US defence department has said only that the incident is under investigation.",
-      "link": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
+      "title": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
+      "summary": "Russia says the annual commemoration of Soviet victory in World War Two will not feature military vehicles or cadets.",
+      "link": "https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss",
       "score": 17,
       "reasons": [
         "konflikt/eskalacja",
         "duże państwa/geopolityka",
+        "pilność/tempo",
         "czytelny tytuł"
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Former US officials criticise Pentagon silence on deadly Iran school attack\n\nIn the two months since the deadly strike, the US defence department has said only that the incident is under investigation.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine\n\nRussia says the annual commemoration of Soviet victory in World War Two will not feature military vehicles or cadets.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",

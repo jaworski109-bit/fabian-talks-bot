@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-04-29 11:56)
+# Fabian Talks — top tematy (2026-04-29 21:43)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 21
-**Powody:** wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Ukraine targets Druzhba pipeline to sever Russian oil, influence in EU
-**Link:** https://www.aljazeera.com/news/2026/4/29/ukraine-targets-druzhba-pipeline-to-sever-russian-oil-influence-in-eu?traffic_source=rss
+**Score:** 28
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Oil price briefly hits $120 after reports of 'extended' Iran blockade
+**Link:** https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Ukraine targets Druzhba pipeline to sever Russian oil, influence in EU
+Oil price briefly hits $120 after reports of 'extended' Iran blockade
 
-Hungary and Slovakia are still buying Russian oil. Seeing weakness in Brussels, Kyiv means to stop that trade.
+The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 18
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Iran war: What’s happening on day 61 as UAE exits OPEC?
-**Link:** https://www.aljazeera.com/news/2026/4/29/iran-war-whats-happening-on-day-61-as-uae-exits-opec?traffic_source=rss
+## 2. CENY PÓJDĄ W GÓRĘ?
+**Score:** 24
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Trump vows to maintain Iran blockade, Tehran threatens ‘practical’ action
+**Link:** https://www.aljazeera.com/news/2026/4/29/trump-vows-to-maintain-iran-blockade-tehran-threaten-practical-action?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war: What’s happening on day 61 as UAE exits OPEC?
+Trump vows to maintain Iran blockade, Tehran threatens ‘practical’ action
 
-Trump says Iran is in a &#039;state of collapse&#039; as Gulf leaders meet in Saudi Arabia.
+US president says Washington&#039;s naval siege on Iranian ports is &#039;more effective than the bombing&#039; as oil price soars.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,9 +64,9 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Former US officials criticise Pentagon silence on deadly Iran school attack
-**Link:** https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Russia scales back Moscow Victory Day parade, blaming threat from Ukraine
+**Link:** https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Former US officials criticise Pentagon silence on deadly Iran school attack
+Russia scales back Moscow Victory Day parade, blaming threat from Ukraine
 
-In the two months since the deadly strike, the US defence department has said only that the incident is under investigation.
+Russia says the annual commemoration of Soviet victory in World War Two will not feature military vehicles or cadets.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
