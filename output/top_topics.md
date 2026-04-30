@@ -1,23 +1,24 @@
-# Fabian Talks — top tematy (2026-04-29 21:43)
+# Fabian Talks — top tematy (2026-04-30 11:55)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 28
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Oil price briefly hits $120 after reports of 'extended' Iran blockade
-**Link:** https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss
+## 1. ORMUZ ZAPŁONIE?
+**Score:** 36
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** Pakistan opens up road trade routes into Iran amid Hormuz blockade
+**Link:** https://www.aljazeera.com/news/2026/4/30/pakistan-opens-up-road-trade-routes-into-iran-amid-hormuz-blockade?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Oil price briefly hits $120 after reports of 'extended' Iran blockade
+Pakistan opens up road trade routes into Iran amid Hormuz blockade
 
-The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.
+With shipping disrupted by US-Iran tensions, Islamabad activates overland corridor to move stranded cargo into Iran.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +33,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 24
+**Score:** 27
 **Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Trump vows to maintain Iran blockade, Tehran threatens ‘practical’ action
-**Link:** https://www.aljazeera.com/news/2026/4/29/trump-vows-to-maintain-iran-blockade-tehran-threaten-practical-action?traffic_source=rss
+**Tytuł źródła:** Will the Iran war reshape the global energy order?
+**Link:** https://www.aljazeera.com/video/counting-the-cost/2026/4/30/will-the-iran-war-reshape-the-global-energy-order?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump vows to maintain Iran blockade, Tehran threatens ‘practical’ action
+Will the Iran war reshape the global energy order?
 
-US president says Washington&#039;s naval siege on Iranian ports is &#039;more effective than the bombing&#039; as oil price soars.
+As oil markets shift, OPEC&#039;s grip is under pressure, US exports rise, and China drives the push towards renewables.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +63,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Russia scales back Moscow Victory Day parade, blaming threat from Ukraine
-**Link:** https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 18
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, mocny trigger portfel/paliwo
+**Tytuł źródła:** Oil price hits highest since 2022 after report Trump to be briefed on new Iran options
+**Link:** https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Russia scales back Moscow Victory Day parade, blaming threat from Ukraine
+Oil price hits highest since 2022 after report Trump to be briefed on new Iran options
 
-Russia says the annual commemoration of Soviet victory in World War Two will not feature military vehicles or cadets.
+Axios reported that US Central Command has prepared a plan for a wave of "short and powerful" strikes on Iran.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
