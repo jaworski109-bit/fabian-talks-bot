@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-05-01 20:38)
+# Fabian Talks — top tematy (2026-05-02 09:45)
 
 ## 1. PALIWO WYSTRZELI?
-**Score:** 31
+**Score:** 26
 **Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz, mocny trigger portfel/paliwo
-**Tytuł źródła:** UAE exit from OPEC signals closer alignment with US interests, experts say
-**Link:** https://www.aljazeera.com/economy/2026/5/1/uae-exit-from-opec-signals-closer-alignment-with-us-interests-experts-say?traffic_source=rss
+**Tytuł źródła:** Trump says US forces are ‘like pirates’ taking Iranian oil
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss
 
 ### Tekst na rolkę
 USA i Iran znowu grają Ormuzem.
@@ -21,9 +21,9 @@ Pytanie nie brzmi czy.
 Pytanie brzmi — kiedy to poczujesz.
 
 ### Tekst pod post
-UAE exit from OPEC signals closer alignment with US interests, experts say
+Trump says US forces are ‘like pirates’ taking Iranian oil
 
-UAE wants to supply more oil than its OPEC quota and that could help push down prices once the Strait of Hormuz opens.
+Donald Trump says US forces are ‘like pirates’ taking over Iranian ships and cargo near the Strait of Hormuz.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -69,10 +69,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ORMUZ ZAPŁONIE?
-**Score:** 23
-**Powody:** wpływ na ceny/handel, pilność/tempo, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** US warns shippers against paying Strait of Hormuz tolls, ‘donations’
-**Link:** https://www.aljazeera.com/news/2026/5/1/us-warns-shippers-against-paying-strait-of-hormuz-tolls-donations?traffic_source=rss
+**Score:** 22
+**Powody:** wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** China’s UN Envoy: Hormuz closure will dominate Trump-Xi talks
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/5/2/chinas-un-envoy-hormuz-closure-will-dominate-trump-xi-talks?traffic_source=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -84,9 +84,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-US warns shippers against paying Strait of Hormuz tolls, ‘donations’
+China’s UN Envoy: Hormuz closure will dominate Trump-Xi talks
 
-Latest warning comes as Iranian state media reports Tehran has presented new peace proposal to US.
+China&#039;s UN Ambassador Fu Cong says maintaining the ceasefire and reopening the Strait of Hormuz are “urgent” priorities.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
