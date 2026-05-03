@@ -1,24 +1,23 @@
-# Fabian Talks — top tematy (2026-05-02 20:03)
+# Fabian Talks — top tematy (2026-05-03 09:57)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 30
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Trump says US Navy acting ‘like pirates’ to enforce Iran blockade
-**Link:** https://www.aljazeera.com/news/2026/5/2/trump-says-us-navy-acting-like-pirates-to-enforce-iran-blockade?traffic_source=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 24
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Billions of meals at risk due to Iran war, says fertiliser boss
+**Link:** https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump says US Navy acting ‘like pirates’ to enforce Iran blockade
+Billions of meals at risk due to Iran war, says fertiliser boss
 
-The US president says the ongoing naval blockade of the Strait of Hormuz is &#039;a very profitable business&#039;.
+A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,30 +31,24 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. PALIWO WYSTRZELI?
-**Score:** 26
-**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz, mocny trigger portfel/paliwo
-**Tytuł źródła:** Syria becomes alternative energy corridor for oil as Hormuz effectively blo
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/5/2/syria-becomes-alternative-energy-corridor-for-oil-as-hormuz-effectively-blo?traffic_source=rss
+## 2. CENY PÓJDĄ W GÓRĘ?
+**Score:** 22
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Cuba condemns new US sanctions as 'illegal' and 'abusive'
+**Link:** https://www.bbc.com/news/articles/cwy21n1970vo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
-USA i Iran znowu grają Ormuzem.
-👉 Przez tę cieśninę idzie ogromna część światowej ropy.
-👉 Jedna decyzja… i ceny mogą ruszyć w górę.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest daleki konflikt.
-
-👉 To jest Twoja stacja paliw.
-👉 Twój rachunek.
-👉 Twój portfel.
-
-Pytanie nie brzmi czy.
-Pytanie brzmi — kiedy to poczujesz.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Syria becomes alternative energy corridor for oil as Hormuz effectively blo
+Cuba condemns new US sanctions as 'illegal' and 'abusive'
 
-Syria is receiving hundreds of Iraqi oil trucks hauling crude overland as an alternative energy corridor to Europe.
+The new measures come on top of a US blockade of oil to Cuba that has caused widespread blackouts and fuel shortages.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -70,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 24
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Prices surge, jobs disappear as war strains Iran’s economy
-**Link:** https://www.aljazeera.com/economy/2026/5/2/prices-surge-jobs-disappear-as-war-strains-irans-economy?traffic_source=rss
+**Score:** 20
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Iran war live: Trump to review 14-point plan; Israel pounds Lebanon
+**Link:** https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -84,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Prices surge, jobs disappear as war strains Iran’s economy
+Iran war live: Trump to review 14-point plan; Israel pounds Lebanon
 
-New Supreme Leader Mojtaba Khamenei says the country must defeat its enemies in an economic and cultural struggle, as we
+US president says he will &#039;soon be reviewing the plan Iran has just sent to us&#039;, but doesn&#039;t think he can make a deal.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
