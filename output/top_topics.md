@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-05-04 21:44)
+# Fabian Talks — top tematy (2026-05-05 11:05)
 
 ## 1. ORMUZ ZAPŁONIE?
 **Score:** 30
 **Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Iran-US clash over alleged warship attack in Strait of Hormuz
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/5/4/iran-us-clash-over-alleged-warship-attack-in-strait-of-hormuz?traffic_source=rss
+**Tytuł źródła:** Iran war: What’s happening on day 67 as Hormuz crisis deepens?
+**Link:** https://www.aljazeera.com/news/2026/5/5/iran-war-whats-happening-on-day-67-as-hormuz-crisis-deepens?traffic_source=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -16,9 +16,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-Iran-US clash over alleged warship attack in Strait of Hormuz
+Iran war: What’s happening on day 67 as Hormuz crisis deepens?
 
-Iran claims its navy forced a US warship to turn back from the Strait of Hormuz as Washington denies any clash.
+The UAE says it intercepted Iranian missiles after a suspected drone attack, with no comment from Iran.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -35,8 +35,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 2. ORMUZ ZAPŁONIE?
 **Score:** 22
 **Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Hormuz tensions push ceasefire to the brink as Trump threatens Iran
-**Link:** https://www.aljazeera.com/news/2026/5/4/hormuz-tensions-push-ceasefire-to-the-brink-as-trump-threatens-iran?traffic_source=rss
+**Tytuł źródła:** Iran says US military killed five civilians in attacks on passenger boats
+**Link:** https://www.aljazeera.com/news/2026/5/5/iran-says-us-military-killed-five-civilians-in-attacks-on-passenger-boats?traffic_source=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -48,9 +48,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-Hormuz tensions push ceasefire to the brink as Trump threatens Iran
+Iran says US military killed five civilians in attacks on passenger boats
 
-US military says it is encouraging ships to pass through Hormuz Strait, but Iran says it is in full control of waterway.
+Iranian commander says US military attacked two passenger boats, not IRGC vessels, in the Strait of Hormuz on Monday.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,25 +64,24 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ORMUZ ZAPŁONIE?
-**Score:** 15
-**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Captain warns ‘no ship will be a hero’ by risking Hormuz transit
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/5/4/captain-warns-no-ship-will-be-a-hero-by-risking-hormuz-transit?traffic_source=rss
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 16
+**Powody:** wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Deadly China plane crash was caused by fuel cut-off, says report
+**Link:** https://www.bbc.com/news/articles/ckgpy223y9go?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Captain warns ‘no ship will be a hero’ by risking Hormuz transit
+Deadly China plane crash was caused by fuel cut-off, says report
 
-Captain Raman Kapoor says no vessel will attempt to exit the Strait of Hormuz without assurance of safety.
+The Boeing 737 plane crashed into a Chinese hillside in 2022, killing all 132 people on board.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
