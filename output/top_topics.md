@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-05-06 12:17)
+# Fabian Talks — top tematy (2026-05-06 21:44)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
 **Score:** 27
@@ -31,30 +31,24 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. PALIWO WYSTRZELI?
-**Score:** 26
-**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz, mocny trigger portfel/paliwo
-**Tytuł źródła:** Saudi Arabia posts $33.5bn budget deficit amid drop in oil sales
-**Link:** https://www.aljazeera.com/economy/2026/5/6/saudi-arabia-posts-33-5bn-budget-deficit-amid-drop-in-oil-sales?traffic_source=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 17
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Israel bombs Beirut’s southern suburb as it targets Hezbollah commander
+**Link:** https://www.aljazeera.com/news/2026/5/6/israel-bombs-beiruts-southern-suburb-as-it-targets-radwan-force-commander?traffic_source=rss
 
 ### Tekst na rolkę
-USA i Iran znowu grają Ormuzem.
-👉 Przez tę cieśninę idzie ogromna część światowej ropy.
-👉 Jedna decyzja… i ceny mogą ruszyć w górę.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest daleki konflikt.
-
-👉 To jest Twoja stacja paliw.
-👉 Twój rachunek.
-👉 Twój portfel.
-
-Pytanie nie brzmi czy.
-Pytanie brzmi — kiedy to poczujesz.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Saudi Arabia posts $33.5bn budget deficit amid drop in oil sales
+Israel bombs Beirut’s southern suburb as it targets Hezbollah commander
 
-Kingdom announces sharp rise in budget shortfall amid the effective closure of the Strait of Hormuz.
+It was the first attack on Beirut&#039;s southern suburbs since a truce in the Israel-Hezbollah war went into force on April 17.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -69,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 24
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** US petrol prices 50 percent higher than before war on Iran
-**Link:** https://www.aljazeera.com/news/2026/5/6/gasoline-in-the-us-costs-50-more-now-than-before-iran-war?traffic_source=rss
+**Score:** 15
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal
+**Link:** https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -83,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US petrol prices 50 percent higher than before war on Iran
+Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal
 
-The average price of petrol in the United States has reached $4.48 per gallon, according to AAA.
+Momentum could be building for Washington and Tehran to strike a deal that could ultimately end the war.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
