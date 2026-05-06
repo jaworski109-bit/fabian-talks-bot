@@ -1,66 +1,67 @@
 {
-  "generated_at": "2026-05-05T21:40:06.070514",
+  "generated_at": "2026-05-06T12:17:13.758607",
   "topics": [
     {
-      "title": "Miscalculation over Strait of Hormuz could ‘bring an all-out war’",
-      "summary": "Neither the US nor Iran are willing to compromise on the Strait of Hormuz, increasing the chance of miscalculation.",
-      "link": "https://www.aljazeera.com/video/quotable/2026/5/5/miscalculation-over-strait-of-hormuz-could-bring-an-all-out?traffic_source=rss",
+      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+      "summary": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
+      "link": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+      "score": 27,
+      "reasons": [
+        "konflikt/eskalacja",
+        "wpływ na ceny/handel",
+        "duże państwa/geopolityka",
+        "mocny trigger portfel/paliwo"
+      ],
+      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
+      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
+      "post_text": "Oil prices drop and stock markets rise after reports of deal to end Iran war\n\nReports have raised hopes of an agreement between the US and Iran after days of escalation.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
+      "hashtags": [
+        "#wojna",
+        "#ropa",
+        "#paliwo",
+        "#gospodarka",
+        "#geopolityka"
+      ]
+    },
+    {
+      "title": "Saudi Arabia posts $33.5bn budget deficit amid drop in oil sales",
+      "summary": "Kingdom announces sharp rise in budget shortfall amid the effective closure of the Strait of Hormuz.",
+      "link": "https://www.aljazeera.com/economy/2026/5/6/saudi-arabia-posts-33-5bn-budget-deficit-amid-drop-in-oil-sales?traffic_source=rss",
       "score": 26,
+      "reasons": [
+        "wpływ na ceny/handel",
+        "czytelny tytuł",
+        "silny trigger Ormuz",
+        "mocny trigger portfel/paliwo"
+      ],
+      "thumbnail": "PALIWO WYSTRZELI?",
+      "reel_text": "USA i Iran znowu grają Ormuzem.\n👉 Przez tę cieśninę idzie ogromna część światowej ropy.\n👉 Jedna decyzja… i ceny mogą ruszyć w górę.\n\nTo nie jest daleki konflikt.\n\n👉 To jest Twoja stacja paliw.\n👉 Twój rachunek.\n👉 Twój portfel.\n\nPytanie nie brzmi czy.\nPytanie brzmi — kiedy to poczujesz.",
+      "post_text": "Saudi Arabia posts $33.5bn budget deficit amid drop in oil sales\n\nKingdom announces sharp rise in budget shortfall amid the effective closure of the Strait of Hormuz.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
+      "hashtags": [
+        "#wojna",
+        "#ropa",
+        "#paliwo",
+        "#gospodarka",
+        "#geopolityka"
+      ]
+    },
+    {
+      "title": "US petrol prices 50 percent higher than before war on Iran",
+      "summary": "The average price of petrol in the United States has reached $4.48 per gallon, according to AAA.",
+      "link": "https://www.aljazeera.com/news/2026/5/6/gasoline-in-the-us-costs-50-more-now-than-before-iran-war?traffic_source=rss",
+      "score": 24,
       "reasons": [
         "konflikt/eskalacja",
         "wpływ na ceny/handel",
         "duże państwa/geopolityka",
         "czytelny tytuł",
-        "silny trigger Ormuz"
-      ],
-      "thumbnail": "ORMUZ ZAPŁONIE?",
-      "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
-      "post_text": "Miscalculation over Strait of Hormuz could ‘bring an all-out war’\n\nNeither the US nor Iran are willing to compromise on the Strait of Hormuz, increasing the chance of miscalculation.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
-      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
-      "hashtags": [
-        "#wojna",
-        "#ropa",
-        "#paliwo",
-        "#gospodarka",
-        "#geopolityka"
-      ]
-    },
-    {
-      "title": "Could OPEC break lead to era of energy volatility?",
-      "summary": "How unstable is the global oil market?",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/5/5/aje-onl-tt_uae_opec_video_v1-050526?traffic_source=rss",
-      "score": 18,
-      "reasons": [
-        "wpływ na ceny/handel",
-        "czytelny tytuł",
         "mocny trigger portfel/paliwo"
       ],
-      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
+      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Could OPEC break lead to era of energy volatility?\n\nHow unstable is the global oil market?\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
-      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
-      "hashtags": [
-        "#wojna",
-        "#ropa",
-        "#paliwo",
-        "#gospodarka",
-        "#geopolityka"
-      ]
-    },
-    {
-      "title": "Deadly China plane crash was caused by fuel cut-off, says report",
-      "summary": "The Boeing 737 plane crashed into a Chinese hillside in 2022, killing all 132 people on board.",
-      "link": "https://www.bbc.com/news/articles/ckgpy223y9go?at_medium=RSS&at_campaign=rss",
-      "score": 16,
-      "reasons": [
-        "wpływ na ceny/handel",
-        "duże państwa/geopolityka",
-        "czytelny tytuł",
-        "mocny trigger portfel/paliwo"
-      ],
-      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Deadly China plane crash was caused by fuel cut-off, says report\n\nThe Boeing 737 plane crashed into a Chinese hillside in 2022, killing all 132 people on board.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "US petrol prices 50 percent higher than before war on Iran\n\nThe average price of petrol in the United States has reached $4.48 per gallon, according to AAA.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
