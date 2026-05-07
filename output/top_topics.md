@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-05-06 21:44)
+# Fabian Talks — top tematy (2026-05-07 12:20)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 27
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, mocny trigger portfel/paliwo
-**Tytuł źródła:** Oil prices drop and stock markets rise after reports of deal to end Iran war
-**Link:** https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss
+**Score:** 29
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Africa sees winners and losers as Iran war pushes up oil prices
+**Link:** https://www.aljazeera.com/news/2026/5/7/africa-sees-winners-and-losers-as-iran-war-pushes-up-oil-prices?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Oil prices drop and stock markets rise after reports of deal to end Iran war
+Africa sees winners and losers as Iran war pushes up oil prices
 
-Reports have raised hopes of an agreement between the US and Iran after days of escalation.
+Several African countries have sought financial help due to economic uncertainty caused by the war on Iran.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,24 +31,25 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Israel bombs Beirut’s southern suburb as it targets Hezbollah commander
-**Link:** https://www.aljazeera.com/news/2026/5/6/israel-bombs-beiruts-southern-suburb-as-it-targets-radwan-force-commander?traffic_source=rss
+## 2. ORMUZ ZAPŁONIE?
+**Score:** 26
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** French warship moves towards Hormuz for possible defensive mission
+**Link:** https://www.aljazeera.com/economy/2026/5/7/french-warship-moves-towards-hormuz-for-possible-defensive-mission?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Israel bombs Beirut’s southern suburb as it targets Hezbollah commander
+French warship moves towards Hormuz for possible defensive mission
 
-It was the first attack on Beirut&#039;s southern suburbs since a truce in the Israel-Hezbollah war went into force on April 17.
+Iran says it is reviewing a US proposal that Donald Trump says could bring the war to an end.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +63,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 15
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal
-**Link:** https://www.aljazeera.com/news/2026/5/6/trump-says-had-very-good-talks-with-iran-as-tehran-reviews-us-proposal?traffic_source=rss
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 26
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, mocny trigger portfel/paliwo
+**Tytuł źródła:** Shell latest oil giant to see profits surge due to Iran war impact
+**Link:** https://www.bbc.com/news/articles/ce3p0x54drwo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump says had ‘very good talks’ with Iran as Tehran reviews US proposal
+Shell latest oil giant to see profits surge due to Iran war impact
 
-Momentum could be building for Washington and Tehran to strike a deal that could ultimately end the war.
+The energy giant's profits jump by nearly a quarter as it benefits from the recent volatility in the oil price
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
