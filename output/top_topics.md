@@ -1,29 +1,23 @@
-# Fabian Talks — top tematy (2026-05-09 20:09)
+# Fabian Talks — top tematy (2026-05-10 10:43)
 
-## 1. PALIWO WYSTRZELI?
-**Score:** 38
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz, mocny trigger portfel/paliwo
-**Tytuł źródła:** Oil prices rise after US and Iran exchange fire in Hormuz strait
-**Link:** https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 18
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** Iran war day 72: Tehran yet to reply to US plan; Israel bombs Lebanon
+**Link:** https://www.aljazeera.com/news/2026/5/10/iran-war-day-72-tehran-yet-to-reply-to-us-plan-israel-bombs-lebanon?traffic_source=rss
 
 ### Tekst na rolkę
-USA i Iran znowu grają Ormuzem.
-👉 Przez tę cieśninę idzie ogromna część światowej ropy.
-👉 Jedna decyzja… i ceny mogą ruszyć w górę.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest daleki konflikt.
-
-👉 To jest Twoja stacja paliw.
-👉 Twój rachunek.
-👉 Twój portfel.
-
-Pytanie nie brzmi czy.
-Pytanie brzmi — kiedy to poczujesz.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Oil prices rise after US and Iran exchange fire in Hormuz strait
+Iran war day 72: Tehran yet to reply to US plan; Israel bombs Lebanon
 
-US President Donald Trump says the ceasefire between Washington and Tehran is still in place.
+Israel kills at least 24 people in Lebanon in one day as Tehran&#039;s response to US proposal to end the war is awaited.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -38,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ORMUZ ZAPŁONIE?
-**Score:** 22
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** ‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks
-**Link:** https://www.aljazeera.com/news/2026/5/9/on-level-of-atomic-bomb-iran-highlights-hormuz-importance-amid-us-talks?traffic_source=rss
+**Score:** 18
+**Powody:** wpływ na ceny/handel, silny trigger Ormuz
+**Tytuł źródła:** UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission
+**Link:** https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -53,9 +47,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks
+UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission
 
-The strait represents &#039;a capability that can affect the entire global economy with a single decision&#039;, politician says.
+The Ministry of Defence says the ship will prepare to join an international mission to safeguard shipping, but only when fighting in the region ends.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -69,11 +63,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. CENY PÓJDĄ W GÓRĘ?
-**Score:** 22
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** ‘A year of resistance’: Cuba’s private sector faces Trump’s oil blockade
-**Link:** https://www.aljazeera.com/economy/2026/5/9/a-year-of-resistance-cubas-private-sector-faces-trumps-oil-blockade?traffic_source=rss
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 14
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Lebanon says Israeli strikes killed 39
+**Link:** https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -84,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-‘A year of resistance’: Cuba’s private sector faces Trump’s oil blockade
+Lebanon says Israeli strikes killed 39
 
-US oil blockade on Cuba is a significant blow to small family firms struggling with power outages and fuel shortages.
+Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
