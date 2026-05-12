@@ -1,24 +1,23 @@
-# Fabian Talks — top tematy (2026-05-12 12:28)
+# Fabian Talks — top tematy (2026-05-12 21:57)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 24
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
-**Tytuł źródła:** Snack giant switches to black and white packaging as Iran war hits ink supplies
-**Link:** https://www.bbc.com/news/articles/c78k405j8pdo?at_medium=RSS&at_campaign=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 25
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Why is Iran increasingly targeting the UAE in its war messaging?
+**Link:** https://www.aljazeera.com/news/2026/5/12/why-is-iran-increasingly-targeting-the-uae-in-its-war-messaging?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Snack giant switches to black and white packaging as Iran war hits ink supplies
+Why is Iran increasingly targeting the UAE in its war messaging?
 
-The effective closure of the Strait of Hormuz has severely disrupted global supplies of energy and petrochemicals.
+The UAE&#039;s close ties to the US and Israel have placed the Gulf country under Iranian suspicion.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** ‘Whole morning revolves around gas’: Pakistan’s fuel crisis enters kitchens
-**Link:** https://www.aljazeera.com/features/2026/5/12/whole-morning-revolves-around-gas-pakistans-fuel-crisis-enters-kitchens?traffic_source=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 25
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Israel sent Iron Dome anti-missile batteries and personnel to UAE: US envoy
+**Link:** https://www.aljazeera.com/news/2026/5/12/israel-sent-iron-dome-anti-missile-batteries-and-personnel-to-uae-us-envoy?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-‘Whole morning revolves around gas’: Pakistan’s fuel crisis enters kitchens
+Israel sent Iron Dome anti-missile batteries and personnel to UAE: US envoy
 
-The crisis sees women waking up early, cooking quickly, rearranging meals and planning days around the prospect of gas.
+Mike Huckabee calls on Gulf states to &#039;pick a side&#039; in the war between Israel and Iran as he heaps praise on Abu Dhabi.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Trump says Iran ceasefire is on 'massive life support'
-**Link:** https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss
+**Score:** 24
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** US faces rising costs with Iran war driving energy prices, inflation higher
+**Link:** https://www.aljazeera.com/economy/2026/5/12/us-faces-rising-costs-with-iran-war-driving-energy-prices-inflation-higher?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump says Iran ceasefire is on 'massive life support'
+US faces rising costs with Iran war driving energy prices, inflation higher
 
-The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is "unbelievably weak".
+Consumer prices spike in April, driven by soaring energy costs, with petrol prices up nearly 30 percent since last year.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
