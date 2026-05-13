@@ -1,24 +1,23 @@
-# Fabian Talks — top tematy (2026-05-13 13:38)
+# Fabian Talks — top tematy (2026-05-13 22:42)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 15
-**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** UN resolution calls for freedom of navigation in the Strait of Hormuz
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/5/13/un-resolution-calls-for-freedom-of-navigation-in-the-strait-of-hormuz?traffic_source=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 25
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** UAE denies Netanyahu visited in ‘secret’ during US-Israel war on Iran
+**Link:** https://www.aljazeera.com/news/2026/5/13/netanyahu-visited-uae-in-secret-during-us-israel-war-on-iran-office-says?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-UN resolution calls for freedom of navigation in the Strait of Hormuz
+UAE denies Netanyahu visited in ‘secret’ during US-Israel war on Iran
 
-UN resolution calls for freedom of navigation in the Strait of Hormuz
+The Gulf country says its ties with Israel &#039;are not based on secrecy or clandestine arrangements&#039;.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -33,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Trump needs Xi much more than Xi needs Trump
-**Link:** https://www.aljazeera.com/opinions/2026/5/13/trump-needs-xi-much-more-than-xi-needs-trump?traffic_source=rss
+**Score:** 15
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka
+**Tytuł źródła:** Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi
+**Link:** https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump needs Xi much more than Xi needs Trump
+Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi
 
-As the Iran war reshapes global power dynamics, Beijing enters the Trump-Xi summit with more leverage over Washington.
+The US president says his first request to Xi would be to "open up" China, while Beijing is expected to press Trump on the status of Taiwan.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -66,8 +65,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Activist confronts Iran’s former crown prince over war on Iran
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/5/13/activist-confronts-irans-former-crown-prince-over-war-on-iran?traffic_source=rss
+**Tytuł źródła:** Republicans break ranks, but Senate fails to curb Trump’s Iran war powers
+**Link:** https://www.aljazeera.com/news/2026/5/13/three-republicans-break-ranks-but-senate-fails-to-curb-trumps-war-powers?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Activist confronts Iran’s former crown prince over war on Iran
+Republicans break ranks, but Senate fails to curb Trump’s Iran war powers
 
-Activist confronts Iran’s former crown prince over war on Iran
+The bill falls short, but vote shows cracks are growing in the Republican support for the US-Israel war on Iran.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
