@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-05-14 12:12)
+# Fabian Talks — top tematy (2026-05-14 21:55)
 
 ## 1. ORMUZ ZAPŁONIE?
 **Score:** 26
@@ -33,10 +33,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 24
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Japanese snacks go black-and-white: Why Iran war is driving up ink prices
-**Link:** https://www.aljazeera.com/news/2026/5/14/japanese-snacks-go-black-and-white-why-iran-war-is-driving-up-ink-prices?traffic_source=rss
+**Score:** 18
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing
+**Link:** https://www.aljazeera.com/video/the-take-2/2026/5/14/aje-onl-chn_trumpvisit2026_av_v2-140526?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Japanese snacks go black-and-white: Why Iran war is driving up ink prices
+Iran, Taiwan, and trade: Trump’s high‑stakes return to Beijing
 
-Calbee says it would temporarily use only black and white colours on 14 of its products due to a lack of printing ink.
+As Trump meets Xi in Beijing for the first time in nine years, can trade war, Taiwan and Iran tensions be contained?
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,11 +63,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 21
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon
-**Link:** https://www.aljazeera.com/news/2026/5/14/iran-war-day-76-vance-says-progress-made-in-talks-israel-pounds-lebanon?traffic_source=rss
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 18
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Cuba plunged deeper into fuel crisis amid 22-hour blackouts
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/5/14/cuba-plunged-deeper-into-fuel-crisis-amid-22-hour-blackouts?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war day 76: Vance says progress made in talks; Israel pounds Lebanon
+Cuba plunged deeper into fuel crisis amid 22-hour blackouts
 
-US Vice President Vance says progress is being made in talks with Iran as President Trump begins his trip to China.
+Cuba faced nationwide disruption after officials say the country had completely run out of diesel and fuel oil.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
