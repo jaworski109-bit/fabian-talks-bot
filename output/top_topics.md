@@ -1,10 +1,47 @@
-# Fabian Talks — top tematy (2026-05-15 12:22)
+# Fabian Talks — top tematy (2026-05-15 21:38)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 30
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** India hikes fuel prices as Iran crisis bites
-**Link:** https://www.aljazeera.com/economy/2026/5/15/india-hikes-fuel-prices-as-iran-crisis-bites?traffic_source=rss
+## 1. PALIWO WYSTRZELI?
+**Score:** 26
+**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz, mocny trigger portfel/paliwo
+**Tytuł źródła:** UAE to accelerate oil pipeline project to bypass Strait of Hormuz
+**Link:** https://www.aljazeera.com/news/2026/5/15/uae-to-accelerate-oil-pipeline-project-to-bypass-hormuz?traffic_source=rss
+
+### Tekst na rolkę
+USA i Iran znowu grają Ormuzem.
+👉 Przez tę cieśninę idzie ogromna część światowej ropy.
+👉 Jedna decyzja… i ceny mogą ruszyć w górę.
+
+To nie jest daleki konflikt.
+
+👉 To jest Twoja stacja paliw.
+👉 Twój rachunek.
+👉 Twój portfel.
+
+Pytanie nie brzmi czy.
+Pytanie brzmi — kiedy to poczujesz.
+
+### Tekst pod post
+UAE to accelerate oil pipeline project to bypass Strait of Hormuz
+
+The crown prince of the UAE says the project would help &#039;meet global demands&#039;.
+
+Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
+
+Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
+
+### Hook follow
+Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
+
+### Hashtagi
+#wojna #ropa #paliwo #gospodarka #geopolityka
+
+---
+
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 20
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** BRICS talks end without joint statement as divisions over Iran war deepen
+**Link:** https://www.aljazeera.com/news/2026/5/15/brics-talks-end-without-joint-statement-as-divisions-over-iran-war-deepen?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,41 +52,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-India hikes fuel prices as Iran crisis bites
+BRICS talks end without joint statement as divisions over Iran war deepen
 
-The world&#039;s third-largest oil importer announced increased fuel prices and austerity measures due to the energy crisis.
-
-Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
-
-Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
-
-### Hook follow
-Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
-
-### Hashtagi
-#wojna #ropa #paliwo #gospodarka #geopolityka
-
----
-
-## 2. ORMUZ ZAPŁONIE?
-**Score:** 29
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** How Xi-Trump summit failed to yield Iran war breakthrough
-**Link:** https://www.aljazeera.com/news/2026/5/15/how-xi-trump-summit-failed-to-yield-iran-war-breakthrough?traffic_source=rss
-
-### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
-
-To nie jest tylko geopolityka.
-To jest koszt życia.
-
-### Tekst pod post
-How Xi-Trump summit failed to yield Iran war breakthrough
-
-US officials have nudged China to do more on the blocked Hormuz strait. President Xi doesn&#039;t appear to have budged.
+Iran&#039;s FM had urged member states to condemn &#039;violations of international law by the United States and Israel&#039;.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,25 +68,24 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ORMUZ ZAPŁONIE?
-**Score:** 26
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS
-**Link:** https://www.aljazeera.com/news/2026/5/15/iran-war-day-77-trump-xi-discuss-hormuz-as-tehran-rallies-brics?traffic_source=rss
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 20
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Trump says 20-year nuclear programme suspension by Iran would be enough
+**Link:** https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war day 77: Trump, Xi discuss Hormuz as Tehran rallies BRICS
+Trump says 20-year nuclear programme suspension by Iran would be enough
 
-The US and Chinese leaders agreed during talks that the Strait of Hormuz should remain open to ensure global supplies.
+The US president says Tehran has to show "real" commitment to removing nuclear fuel and stopping uranium enrichment.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
