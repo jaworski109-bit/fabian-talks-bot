@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-05-16 10:43)
+# Fabian Talks — top tematy (2026-05-16 20:32)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 26
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo
-**Tytuł źródła:** Iran war live: Tehran warns more economic woes for US over ‘war of choice’
-**Link:** https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss
+**Score:** 17
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Why is Ireland not taking part in this year's Eurovision?
+**Link:** https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war live: Tehran warns more economic woes for US over ‘war of choice’
+Why is Ireland not taking part in this year's Eurovision?
 
-Iranian FM&#039;s warning comes as Israel continues to attack Lebanon, hours after agreeing to a 45-day ceasefire extension.
+Ireland's boycott is the latest in a series of moves that has seen the country at odds with Israel over its war in Gaza.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,24 +31,25 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 20
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Trump says 20-year nuclear programme suspension by Iran would be enough
-**Link:** https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss
+## 2. ORMUZ ZAPŁONIE?
+**Score:** 15
+**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** Al Jazeera’s exclusive report from the Strait of Hormuz
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/5/16/al-jazeeras-exclusive-report-from-the-strait-of-hormuz?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Trump says 20-year nuclear programme suspension by Iran would be enough
+Al Jazeera’s exclusive report from the Strait of Hormuz
 
-The US president says Tehran has to show "real" commitment to removing nuclear fuel and stopping uranium enrichment.
+Heavy ship traffic and rising regional tensions over one of the world’s most critical energy routes.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +64,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Hamas confirms top commander killed in Israeli air strike
-**Link:** https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Hamas confirms killing of Qassam Brigades leader in Israeli attack
+**Link:** https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Hamas confirms top commander killed in Israeli air strike
+Hamas confirms killing of Qassam Brigades leader in Israeli attack
 
-Friday's strike is the latest launched by Israel on Gaza despite a ceasefire with Hamas.
+Israel targeted Izz al-Din al-Haddad, the head of Hamas&#039;s armed wing in Gaza, in an attack that killed seven others.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
