@@ -1,23 +1,24 @@
-# Fabian Talks — top tematy (2026-05-16 20:32)
+# Fabian Talks — top tematy (2026-05-17 10:52)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Why is Ireland not taking part in this year's Eurovision?
-**Link:** https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss
+## 1. ORMUZ ZAPŁONIE?
+**Score:** 31
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
+**Tytuł źródła:** Iran war day 79: Tehran to unveil Hormuz toll plan; Israel bombs Lebanon
+**Link:** https://www.aljazeera.com/news/2026/5/17/iran-war-day-79-tehran-to-unveil-hormuz-toll-plan-israel-bombs-lebanon?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Why is Ireland not taking part in this year's Eurovision?
+Iran war day 79: Tehran to unveil Hormuz toll plan; Israel bombs Lebanon
 
-Ireland's boycott is the latest in a series of moves that has seen the country at odds with Israel over its war in Gaza.
+Iran says it will soon reveal the plan as Trump warns Tehran it will have a &#039;very bad time&#039; if deal not reached soon.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +33,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ORMUZ ZAPŁONIE?
-**Score:** 15
-**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Al Jazeera’s exclusive report from the Strait of Hormuz
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/5/16/al-jazeeras-exclusive-report-from-the-strait-of-hormuz?traffic_source=rss
+**Score:** 25
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
+**Tytuł źródła:** Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/5/17/al-jazeera-reports-from-strait-of-hormuz-on-irans-plan-to-manage-shipping?traffic_source=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -47,9 +48,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-Al Jazeera’s exclusive report from the Strait of Hormuz
+Al Jazeera reports from Strait of Hormuz on Iran’s plan to manage shipping
 
-Heavy ship traffic and rising regional tensions over one of the world’s most critical energy routes.
+Al Jazeera’s Tohid Asadi reports from the strait and explains Tehran’s newest plan to manage shipping.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,10 +65,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
+**Score:** 17
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Hamas confirms killing of Qassam Brigades leader in Israeli attack
-**Link:** https://www.aljazeera.com/news/2026/5/16/hamas-confirms-killing-of-top-hamas-leader-in-israeli-attack?traffic_source=rss
+**Tytuł źródła:** The strike that changed the geometry of war
+**Link:** https://www.aljazeera.com/opinions/2026/5/17/the-strike-that-changed-the-geometry-of-war?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +79,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Hamas confirms killing of Qassam Brigades leader in Israeli attack
+The strike that changed the geometry of war
 
-Israel targeted Izz al-Din al-Haddad, the head of Hamas&#039;s armed wing in Gaza, in an attack that killed seven others.
+Israel&#039;s attacks on Doha and Tehran demonstrate a new capability that may make warfare more unpredictable.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
