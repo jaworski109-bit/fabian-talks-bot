@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-05-20 17:42)
+# Fabian Talks — top tematy (2026-05-20 22:55)
 
 ## 1. ORMUZ ZAPŁONIE?
 **Score:** 24
@@ -33,37 +33,6 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 20
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage
-**Link:** https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage?traffic_source=rss
-
-### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
-
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
-
-### Tekst pod post
-The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage
-
-New approaches to war propaganda are reshaping the conflict between Israel, Hezbollah, and Iran.
-
-Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
-
-Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
-
-### Hook follow
-Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
-
-### Hashtagi
-#wojna #ropa #paliwo #gospodarka #geopolityka
-
----
-
-## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 14
 **Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
 **Tytuł źródła:** Controlled reopening ends Iran’s lengthy stock market shutdown
@@ -81,6 +50,37 @@ a kończą w Twoim portfelu.
 Controlled reopening ends Iran’s lengthy stock market shutdown
 
 Stocks in companies hit by US and Israeli strikes, such as energy and steel firms, didn&#039;t take part in the reopening.
+
+Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
+
+Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
+
+### Hook follow
+Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
+
+### Hashtagi
+#wojna #ropa #paliwo #gospodarka #geopolityka
+
+---
+
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers
+**Link:** https://www.aljazeera.com/news/2026/5/20/us-condemns-israels-ben-gvir-while-sanctioning-gaza-flotilla-organisers?traffic_source=rss
+
+### Tekst na rolkę
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
+
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
+
+### Tekst pod post
+US condemns Israel’s Ben-Gvir while sanctioning Gaza flotilla organisers
+
+Mike Huckabee says Ben-Gvir &#039;betrayed dignity&#039; in video taunting flotilla activists, day after US sanctioned organisers.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
