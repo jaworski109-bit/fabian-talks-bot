@@ -1,23 +1,24 @@
-# Fabian Talks — top tematy (2026-05-19 22:41)
+# Fabian Talks — top tematy (2026-05-20 17:42)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 25
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** High prices in Iran’s stunted housing market leave tenants with few options
-**Link:** https://www.aljazeera.com/news/2026/5/19/high-prices-in-iran-stunted-housing-market-leave-tenants-with-few-options?traffic_source=rss
+## 1. ORMUZ ZAPŁONIE?
+**Score:** 24
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
+**Tytuł źródła:** Iran claims it coordinated passage of 26 vessels out of Hormuz in 24 hours
+**Link:** https://www.aljazeera.com/news/2026/5/20/iran-says-it-coordinated-crossing-of-26-vessels-out-of-strait-of-hormuz?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-High prices in Iran’s stunted housing market leave tenants with few options
+Iran claims it coordinated passage of 26 vessels out of Hormuz in 24 hours
 
-Tenants face bleak prospects as economic uncertainty persists amid a potential resumption of fighting.
+The IRGC claims to maintain control over the Strait of Hormuz despite the US blockade on Iran&#039;s ports.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,11 +32,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 24
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Video shows oil spill on Iranian island after refinery attack last month
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/5/19/video-shows-oil-spill-on-iranian-island-after-refinery-attack-last-month?traffic_source=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 20
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage
+**Link:** https://www.aljazeera.com/features/2026/5/20/the-battle-of-perception-from-israels-fauda-to-hezbollahs-fpv-footage?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Video shows oil spill on Iranian island after refinery attack last month
+The battle of perception: From Israel’s Fauda to Hezbollah’s FPV footage
 
-The impact of an oil spill caused by an attack on Iran’s Lavan refinery last month has been revealed.
+New approaches to war propaganda are reshaping the conflict between Israel, Hezbollah, and Iran.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +64,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 20
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo
-**Tytuł źródła:** Trump says he called off new Iran attack at request of Gulf states
-**Link:** https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss
+**Score:** 14
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Controlled reopening ends Iran’s lengthy stock market shutdown
+**Link:** https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump says he called off new Iran attack at request of Gulf states
+Controlled reopening ends Iran’s lengthy stock market shutdown
 
-The US president says he is holding off on an attack planned for Tuesday as "serious negotiations are now taking place".
+Stocks in companies hit by US and Israeli strikes, such as energy and steel firms, didn&#039;t take part in the reopening.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
