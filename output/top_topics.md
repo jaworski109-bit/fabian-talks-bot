@@ -1,6 +1,37 @@
-# Fabian Talks — top tematy (2026-05-22 08:52)
+# Fabian Talks — top tematy (2026-05-22 19:26)
 
-## 1. ORMUZ ZAPŁONIE?
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 24
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Economic confidence plummets in US amid Iran war, poll shows
+**Link:** https://www.aljazeera.com/news/2026/5/22/economic-confidence-plummets-in-us-amid-iran-war-poll-shows?traffic_source=rss
+
+### Tekst na rolkę
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
+
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
+
+### Tekst pod post
+Economic confidence plummets in US amid Iran war, poll shows
+
+As petrol prices rise, new survey suggests economic confidence in the US is at -45, the worst since 2022.
+
+Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
+
+Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
+
+### Hook follow
+Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
+
+### Hashtagi
+#wojna #ropa #paliwo #gospodarka #geopolityka
+
+---
+
+## 2. ORMUZ ZAPŁONIE?
 **Score:** 22
 **Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
 **Tytuł źródła:** Iran steps up claim to control Strait of Hormuz
@@ -32,42 +63,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 15
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says
-**Link:** https://www.aljazeera.com/news/2026/5/22/us-pausing-14bn-arms-sale-to-taiwan-due-to-iran-war-navy-chief-says?traffic_source=rss
-
-### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
-
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
-
-### Tekst pod post
-US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says
-
-Acting Navy Secretary Hung Cao&#039;s remarks come as US President Donald Trump gives mixed signals on the sale.
-
-Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
-
-Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
-
-### Hook follow
-Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
-
-### Hashtagi
-#wojna #ropa #paliwo #gospodarka #geopolityka
-
----
-
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 15
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo
-**Tytuł źródła:** Iran war live: Signs of progress amid efforts to reach US-Iran peace deal
-**Link:** https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** US navy chief says $14bn arms sale to Taiwan paused due to Iran war
+**Link:** https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war live: Signs of progress amid efforts to reach US-Iran peace deal
+US navy chief says $14bn arms sale to Taiwan paused due to Iran war
 
-A new opinion poll in the US suggests that 60 percent of Americans now oppose President Donald Trump&#039;s war on Iran.
+Hung Cao told a Senate hearing they were "doing a pause" on the sale to make sure they had munitions for the Iran war.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 

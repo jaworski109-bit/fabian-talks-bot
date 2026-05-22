@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-22T08:52:53.505046",
+  "generated_at": "2026-05-22T19:26:35.150314",
   "topics": [
+    {
+      "title": "Economic confidence plummets in US amid Iran war, poll shows",
+      "summary": "As petrol prices rise, new survey suggests economic confidence in the US is at -45, the worst since 2022.",
+      "link": "https://www.aljazeera.com/news/2026/5/22/economic-confidence-plummets-in-us-amid-iran-war-poll-shows?traffic_source=rss",
+      "score": 24,
+      "reasons": [
+        "konflikt/eskalacja",
+        "wpływ na ceny/handel",
+        "duże państwa/geopolityka",
+        "czytelny tytuł",
+        "mocny trigger portfel/paliwo"
+      ],
+      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
+      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
+      "post_text": "Economic confidence plummets in US amid Iran war, poll shows\n\nAs petrol prices rise, new survey suggests economic confidence in the US is at -45, the worst since 2022.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
+      "hashtags": [
+        "#wojna",
+        "#ropa",
+        "#paliwo",
+        "#gospodarka",
+        "#geopolityka"
+      ]
+    },
     {
       "title": "Iran steps up claim to control Strait of Hormuz",
       "summary": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
@@ -26,9 +50,9 @@
       ]
     },
     {
-      "title": "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says",
-      "summary": "Acting Navy Secretary Hung Cao&#039;s remarks come as US President Donald Trump gives mixed signals on the sale.",
-      "link": "https://www.aljazeera.com/news/2026/5/22/us-pausing-14bn-arms-sale-to-taiwan-due-to-iran-war-navy-chief-says?traffic_source=rss",
+      "title": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
+      "summary": "Hung Cao told a Senate hearing they were \"doing a pause\" on the sale to make sure they had munitions for the Iran war.",
+      "link": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss",
       "score": 15,
       "reasons": [
         "konflikt/eskalacja",
@@ -36,29 +60,7 @@
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says\n\nActing Navy Secretary Hung Cao&#039;s remarks come as US President Donald Trump gives mixed signals on the sale.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
-      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
-      "hashtags": [
-        "#wojna",
-        "#ropa",
-        "#paliwo",
-        "#gospodarka",
-        "#geopolityka"
-      ]
-    },
-    {
-      "title": "Iran war live: Signs of progress amid efforts to reach US-Iran peace deal",
-      "summary": "A new opinion poll in the US suggests that 60 percent of Americans now oppose President Donald Trump&#039;s war on Iran.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss",
-      "score": 15,
-      "reasons": [
-        "konflikt/eskalacja",
-        "duże państwa/geopolityka",
-        "pilność/tempo"
-      ],
-      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Iran war live: Signs of progress amid efforts to reach US-Iran peace deal\n\nA new opinion poll in the US suggests that 60 percent of Americans now oppose President Donald Trump&#039;s war on Iran.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war\n\nHung Cao told a Senate hearing they were \"doing a pause\" on the sale to make sure they had munitions for the Iran war.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
