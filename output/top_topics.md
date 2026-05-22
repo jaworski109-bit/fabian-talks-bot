@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-05-21 19:46)
+# Fabian Talks — top tematy (2026-05-22 08:52)
 
 ## 1. ORMUZ ZAPŁONIE?
 **Score:** 22
@@ -32,11 +32,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
+## 2. ŚWIAT WCHODZI W CHAOS?
 **Score:** 15
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, mocny trigger portfel/paliwo
-**Tytuł źródła:** Dozens of vehicles burnt as Mali jihadists enforce blockade ahead of Eid holiday
-**Link:** https://www.bbc.com/news/articles/cx21g1pdm92o?at_medium=RSS&at_campaign=rss
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says
+**Link:** https://www.aljazeera.com/news/2026/5/22/us-pausing-14bn-arms-sale-to-taiwan-due-to-iran-war-navy-chief-says?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Dozens of vehicles burnt as Mali jihadists enforce blockade ahead of Eid holiday
+US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says
 
-The blockade has led to shortages of fuel and food ahead of next week's Muslim holiday of Eid.
+Acting Navy Secretary Hung Cao&#039;s remarks come as US President Donald Trump gives mixed signals on the sale.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,10 +64,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Poll finds nearly three-quarters of Democratic voters oppose aid to Israel
-**Link:** https://www.aljazeera.com/news/2026/5/21/poll-finds-nearly-three-quarters-of-democratic-voters-oppose-aid-to-israel?traffic_source=rss
+**Score:** 15
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo
+**Tytuł źródła:** Iran war live: Signs of progress amid efforts to reach US-Iran peace deal
+**Link:** https://www.aljazeera.com/news/liveblog/2026/5/22/iran-war-live-signs-of-progress-amid-efforts-to-reach-us-iran-peace-deal?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Poll finds nearly three-quarters of Democratic voters oppose aid to Israel
+Iran war live: Signs of progress amid efforts to reach US-Iran peace deal
 
-The US ally has seen support plummet in recent years amid widespread anger over its genocidal war on Gaza.
+A new opinion poll in the US suggests that 60 percent of Americans now oppose President Donald Trump&#039;s war on Iran.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
