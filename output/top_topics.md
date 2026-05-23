@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-05-22 19:26)
+# Fabian Talks — top tematy (2026-05-23 08:09)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 24
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 20
 **Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Economic confidence plummets in US amid Iran war, poll shows
-**Link:** https://www.aljazeera.com/news/2026/5/22/economic-confidence-plummets-in-us-amid-iran-war-poll-shows?traffic_source=rss
+**Tytuł źródła:** Rubio visits India to sell energy as Iran oil shock persists
+**Link:** https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Economic confidence plummets in US amid Iran war, poll shows
+Rubio visits India to sell energy as Iran oil shock persists
 
-As petrol prices rise, new survey suggests economic confidence in the US is at -45, the worst since 2022.
+The top US diplomat has made statements offering to support India’s energy needs - but should Delhi give in?
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,25 +31,24 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ORMUZ ZAPŁONIE?
-**Score:** 22
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Iran steps up claim to control Strait of Hormuz
-**Link:** https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Iran war day 85: Tehran says major gaps remain in US talks
+**Link:** https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran steps up claim to control Strait of Hormuz
+Iran war day 85: Tehran says major gaps remain in US talks
 
-Iran publishes a map claiming "armed forces oversight" across more than 22,000 sq km of the waterway.
+Pakistan army chief Asim Munir arrives in Tehran as mediation efforts to secure a US-Iran peace deal intensify.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 15
+**Score:** 11
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** US navy chief says $14bn arms sale to Taiwan paused due to Iran war
-**Link:** https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss
+**Tytuł źródła:** Iran war live: Tehran says diplomacy continues but no deal yet with US
+**Link:** https://www.aljazeera.com/news/liveblog/2026/5/23/iran-war-live-tehran-says-diplomacy-continues-but-no-deal-yet-with-us?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US navy chief says $14bn arms sale to Taiwan paused due to Iran war
+Iran war live: Tehran says diplomacy continues but no deal yet with US
 
-Hung Cao told a Senate hearing they were "doing a pause" on the sale to make sure they had munitions for the Iran war.
+Israeli attacks on Lebanon have killed at least 3,111 people since March 2, with 9,432 injured: Health Ministry.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
