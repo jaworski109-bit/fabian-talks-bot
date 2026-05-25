@@ -1,30 +1,6 @@
 {
-  "generated_at": "2026-05-25T09:54:52.658722",
+  "generated_at": "2026-05-25T19:19:56.045371",
   "topics": [
-    {
-      "title": "Oil prices fall amid mixed signals on US-Iran peace deal",
-      "summary": "Japan&#039;s stock market surges to record high on hopes of an end to US-Israel war on Iran.",
-      "link": "https://www.aljazeera.com/economy/2026/5/25/oil-prices-fall-amid-mixed-signals-on-us-iran-peace-deal?traffic_source=rss",
-      "score": 34,
-      "reasons": [
-        "konflikt/eskalacja",
-        "wpływ na ceny/handel",
-        "duże państwa/geopolityka",
-        "czytelny tytuł",
-        "mocny trigger portfel/paliwo"
-      ],
-      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Oil prices fall amid mixed signals on US-Iran peace deal\n\nJapan&#039;s stock market surges to record high on hopes of an end to US-Israel war on Iran.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
-      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
-      "hashtags": [
-        "#wojna",
-        "#ropa",
-        "#paliwo",
-        "#gospodarka",
-        "#geopolityka"
-      ]
-    },
     {
       "title": "Oil prices slide on hopes of US-Iran peace deal",
       "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
@@ -49,20 +25,40 @@
       ]
     },
     {
-      "title": "Rubio says US will find ‘another way’ if Iran talks fail",
-      "summary": "US secretary of state says a &#039;pretty solid&#039; deal is on the table in terms of opening up the Strait of Hormuz.",
-      "link": "https://www.aljazeera.com/news/2026/5/25/rubio-says-us-will-find-another-way-if-iran-talks-fail?traffic_source=rss",
-      "score": 22,
+      "title": "In Lebanon, everything and nothing has changed since 2000",
+      "summary": "A local war has gone regional, drawing in Iran and the US, but its root cause is unchanged: Palestine.",
+      "link": "https://www.aljazeera.com/opinions/2026/5/25/in-lebanon-everything-and-nothing-has-changed-since-2000?traffic_source=rss",
+      "score": 13,
       "reasons": [
         "konflikt/eskalacja",
-        "wpływ na ceny/handel",
         "duże państwa/geopolityka",
-        "czytelny tytuł",
-        "silny trigger Ormuz"
+        "czytelny tytuł"
       ],
-      "thumbnail": "ORMUZ ZAPŁONIE?",
-      "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
-      "post_text": "Rubio says US will find ‘another way’ if Iran talks fail\n\nUS secretary of state says a &#039;pretty solid&#039; deal is on the table in terms of opening up the Strait of Hormuz.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
+      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
+      "post_text": "In Lebanon, everything and nothing has changed since 2000\n\nA local war has gone regional, drawing in Iran and the US, but its root cause is unchanged: Palestine.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
+      "hashtags": [
+        "#wojna",
+        "#ropa",
+        "#paliwo",
+        "#gospodarka",
+        "#geopolityka"
+      ]
+    },
+    {
+      "title": "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls",
+      "summary": "Analysts warn Netanyahu is exploiting a failing &quot;ceasefire&quot; to prolong the destruction of Gaza ahead of Israeli election",
+      "link": "https://www.aljazeera.com/news/2026/5/25/israel-escalates-gaza-attacks-as-netanyahu-stalls-ceasefire-for-polls?traffic_source=rss",
+      "score": 9,
+      "reasons": [
+        "konflikt/eskalacja",
+        "duże państwa/geopolityka",
+        "czytelny tytuł"
+      ],
+      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
+      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
+      "post_text": "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls\n\nAnalysts warn Netanyahu is exploiting a failing &quot;ceasefire&quot; to prolong the destruction of Gaza ahead of Israeli election\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
