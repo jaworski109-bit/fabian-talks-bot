@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-05-26 09:41)
+# Fabian Talks — top tematy (2026-05-26 20:04)
 
 ## 1. ORMUZ ZAPŁONIE?
-**Score:** 24
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
-**Tytuł źródła:** Iran war day 88: US attacks near Strait of Hormuz; talks under way in Qatar
-**Link:** https://www.aljazeera.com/news/2026/5/26/iran-war-day-88-us-attacks-near-strait-of-hormuz-talks-under-way-in-qatar?traffic_source=rss
+**Score:** 26
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** Iranian fishermen struggle to survive amid Hormuz blockade
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/5/26/iranian-fishermen-struggle-to-survive-amid-hormuz-blockade?traffic_source=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -16,9 +16,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-Iran war day 88: US attacks near Strait of Hormuz; talks under way in Qatar
+Iranian fishermen struggle to survive amid Hormuz blockade
 
-US forces carry out series of attacks in the country&#039;s south as Iranian delegation holds talks in Qatar.
+The livelihoods of Iranian fishermen have taken a hit amid the US blockade on Iran’s ports in the Strait of Hormuz.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -33,10 +33,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 18
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** More than 1.5m foreign pilgrims begin Hajj despite Iran war fears
-**Link:** https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss
+**Score:** 21
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** ‘Leave Kyiv’: Why Russia’s latest Ukraine threat is a major escalation
+**Link:** https://www.aljazeera.com/news/2026/5/26/leave-kyiv-why-russias-latest-ukraine-threat-is-a-major-escalation?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-More than 1.5m foreign pilgrims begin Hajj despite Iran war fears
+‘Leave Kyiv’: Why Russia’s latest Ukraine threat is a major escalation
 
-Saudi Arabia says that is 11,000 more than the number of Muslims who travelled to the Gulf kingdom last year.
+Russia and Ukraine have been at war since February 2022 and have not yet agreed on a peace deal.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,10 +64,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
+**Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** US launches new strikes on Iran, targeting missile sites and boats
-**Link:** https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss
+**Tytuł źródła:** Tehran labels US attacks ‘gross violation’, says it is prepared to respond
+**Link:** https://www.aljazeera.com/news/2026/5/26/tehran-labels-us-attacks-gross-violation-says-it-is-prepared-to-respond?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US launches new strikes on Iran, targeting missile sites and boats
+Tehran labels US attacks ‘gross violation’, says it is prepared to respond
 
-US Central Command says the strikes were taken in "self-defense". It comes as senior Iranian negotiators are in Qatar for talks to end the war.
+The US says it struck boats and missile sites in Iran, shortly after both sides had indicated progress in peace talks.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
