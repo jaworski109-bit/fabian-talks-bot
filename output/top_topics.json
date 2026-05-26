@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-05-25T19:19:56.045371",
+  "generated_at": "2026-05-26T09:41:05.515194",
   "topics": [
     {
-      "title": "Oil prices slide on hopes of US-Iran peace deal",
-      "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
-      "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
-      "score": 31,
+      "title": "Iran war day 88: US attacks near Strait of Hormuz; talks under way in Qatar",
+      "summary": "US forces carry out series of attacks in the country&#039;s south as Iranian delegation holds talks in Qatar.",
+      "link": "https://www.aljazeera.com/news/2026/5/26/iran-war-day-88-us-attacks-near-strait-of-hormuz-talks-under-way-in-qatar?traffic_source=rss",
+      "score": 24,
       "reasons": [
+        "konflikt/eskalacja",
         "wpływ na ceny/handel",
-        "czytelny tytuł",
-        "silny trigger Ormuz",
-        "mocny trigger portfel/paliwo"
+        "duże państwa/geopolityka",
+        "silny trigger Ormuz"
       ],
-      "thumbnail": "PALIWO WYSTRZELI?",
-      "reel_text": "USA i Iran znowu grają Ormuzem.\n👉 Przez tę cieśninę idzie ogromna część światowej ropy.\n👉 Jedna decyzja… i ceny mogą ruszyć w górę.\n\nTo nie jest daleki konflikt.\n\n👉 To jest Twoja stacja paliw.\n👉 Twój rachunek.\n👉 Twój portfel.\n\nPytanie nie brzmi czy.\nPytanie brzmi — kiedy to poczujesz.",
-      "post_text": "Oil prices slide on hopes of US-Iran peace deal\n\nTrump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "thumbnail": "ORMUZ ZAPŁONIE?",
+      "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
+      "post_text": "Iran war day 88: US attacks near Strait of Hormuz; talks under way in Qatar\n\nUS forces carry out series of attacks in the country&#039;s south as Iranian delegation holds talks in Qatar.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -25,18 +25,19 @@
       ]
     },
     {
-      "title": "In Lebanon, everything and nothing has changed since 2000",
-      "summary": "A local war has gone regional, drawing in Iran and the US, but its root cause is unchanged: Palestine.",
-      "link": "https://www.aljazeera.com/opinions/2026/5/25/in-lebanon-everything-and-nothing-has-changed-since-2000?traffic_source=rss",
-      "score": 13,
+      "title": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
+      "summary": "Saudi Arabia says that is 11,000 more than the number of Muslims who travelled to the Gulf kingdom last year.",
+      "link": "https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss",
+      "score": 18,
       "reasons": [
         "konflikt/eskalacja",
+        "wpływ na ceny/handel",
         "duże państwa/geopolityka",
         "czytelny tytuł"
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "In Lebanon, everything and nothing has changed since 2000\n\nA local war has gone regional, drawing in Iran and the US, but its root cause is unchanged: Palestine.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears\n\nSaudi Arabia says that is 11,000 more than the number of Muslims who travelled to the Gulf kingdom last year.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -47,10 +48,10 @@
       ]
     },
     {
-      "title": "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls",
-      "summary": "Analysts warn Netanyahu is exploiting a failing &quot;ceasefire&quot; to prolong the destruction of Gaza ahead of Israeli election",
-      "link": "https://www.aljazeera.com/news/2026/5/25/israel-escalates-gaza-attacks-as-netanyahu-stalls-ceasefire-for-polls?traffic_source=rss",
-      "score": 9,
+      "title": "US launches new strikes on Iran, targeting missile sites and boats",
+      "summary": "US Central Command says the strikes were taken in \"self-defense\". It comes as senior Iranian negotiators are in Qatar for talks to end the war.",
+      "link": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
+      "score": 17,
       "reasons": [
         "konflikt/eskalacja",
         "duże państwa/geopolityka",
@@ -58,7 +59,7 @@
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls\n\nAnalysts warn Netanyahu is exploiting a failing &quot;ceasefire&quot; to prolong the destruction of Gaza ahead of Israeli election\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "US launches new strikes on Iran, targeting missile sites and boats\n\nUS Central Command says the strikes were taken in \"self-defense\". It comes as senior Iranian negotiators are in Qatar for talks to end the war.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
