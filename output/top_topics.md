@@ -1,24 +1,29 @@
-# Fabian Talks — top tematy (2026-05-26 20:04)
+# Fabian Talks — top tematy (2026-05-27 09:35)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 26
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Iranian fishermen struggle to survive amid Hormuz blockade
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/5/26/iranian-fishermen-struggle-to-survive-amid-hormuz-blockade?traffic_source=rss
+## 1. PALIWO WYSTRZELI?
+**Score:** 33
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz, mocny trigger portfel/paliwo
+**Tytuł źródła:** How badly is Europe affected by fertiliser shortages due to the Iran war?
+**Link:** https://www.aljazeera.com/news/2026/5/27/how-badly-is-europe-affected-by-fertiliser-shortages-due-to-the-iran-war?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+USA i Iran znowu grają Ormuzem.
+👉 Przez tę cieśninę idzie ogromna część światowej ropy.
+👉 Jedna decyzja… i ceny mogą ruszyć w górę.
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+To nie jest daleki konflikt.
+
+👉 To jest Twoja stacja paliw.
+👉 Twój rachunek.
+👉 Twój portfel.
+
+Pytanie nie brzmi czy.
+Pytanie brzmi — kiedy to poczujesz.
 
 ### Tekst pod post
-Iranian fishermen struggle to survive amid Hormuz blockade
+How badly is Europe affected by fertiliser shortages due to the Iran war?
 
-The livelihoods of Iranian fishermen have taken a hit amid the US blockade on Iran’s ports in the Strait of Hormuz.
+EU launches fertiliser plan as Strait of Hormuz disruption fuels food security fears.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -33,10 +38,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 21
+**Score:** 17
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** ‘Leave Kyiv’: Why Russia’s latest Ukraine threat is a major escalation
-**Link:** https://www.aljazeera.com/news/2026/5/26/leave-kyiv-why-russias-latest-ukraine-threat-is-a-major-escalation?traffic_source=rss
+**Tytuł źródła:** ‘Deep suspicion’ of US lingers as Iran ponders agreement to end war
+**Link:** https://www.aljazeera.com/news/2026/5/27/deep-suspicion-of-us-lingers-as-iran-ponders-agreement-to-end-war?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +52,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-‘Leave Kyiv’: Why Russia’s latest Ukraine threat is a major escalation
+‘Deep suspicion’ of US lingers as Iran ponders agreement to end war
 
-Russia and Ukraine have been at war since February 2022 and have not yet agreed on a peace deal.
+Iranian officials said the latest US strikes only validated their scepticism and resolve to stand firm on demands.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -66,8 +71,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Tehran labels US attacks ‘gross violation’, says it is prepared to respond
-**Link:** https://www.aljazeera.com/news/2026/5/26/tehran-labels-us-attacks-gross-violation-says-it-is-prepared-to-respond?traffic_source=rss
+**Tytuł źródła:** Israel claims head of Hamas military wing killed in Gaza strike
+**Link:** https://www.aljazeera.com/news/2026/5/27/israel-claims-head-of-hamas-military-wing-killed-in-gaza-strike?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +83,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Tehran labels US attacks ‘gross violation’, says it is prepared to respond
+Israel claims head of Hamas military wing killed in Gaza strike
 
-The US says it struck boats and missile sites in Iran, shortly after both sides had indicated progress in peace talks.
+There was no immediate response from the Palestinian group after Israel claimed Mohammed Odeh killed.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
