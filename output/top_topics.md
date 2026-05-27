@@ -1,29 +1,23 @@
-# Fabian Talks — top tematy (2026-05-27 09:35)
+# Fabian Talks — top tematy (2026-05-27 20:06)
 
-## 1. PALIWO WYSTRZELI?
-**Score:** 33
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz, mocny trigger portfel/paliwo
-**Tytuł źródła:** How badly is Europe affected by fertiliser shortages due to the Iran war?
-**Link:** https://www.aljazeera.com/news/2026/5/27/how-badly-is-europe-affected-by-fertiliser-shortages-due-to-the-iran-war?traffic_source=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 18
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Nigeria’s Eid Crisis: When a ram becomes a luxury
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/5/27/nigerias-eid-crisis-when-a-ram-becomes-a-luxury?traffic_source=rss
 
 ### Tekst na rolkę
-USA i Iran znowu grają Ormuzem.
-👉 Przez tę cieśninę idzie ogromna część światowej ropy.
-👉 Jedna decyzja… i ceny mogą ruszyć w górę.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest daleki konflikt.
-
-👉 To jest Twoja stacja paliw.
-👉 Twój rachunek.
-👉 Twój portfel.
-
-Pytanie nie brzmi czy.
-Pytanie brzmi — kiedy to poczujesz.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-How badly is Europe affected by fertiliser shortages due to the Iran war?
+Nigeria’s Eid Crisis: When a ram becomes a luxury
 
-EU launches fertiliser plan as Strait of Hormuz disruption fuels food security fears.
+At a Nigerian sheep market, human rights advocate Sadaatu Madaki says that rising prices make Eid difficult for families
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -40,8 +34,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 2. ŚWIAT WCHODZI W CHAOS?
 **Score:** 17
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** ‘Deep suspicion’ of US lingers as Iran ponders agreement to end war
-**Link:** https://www.aljazeera.com/news/2026/5/27/deep-suspicion-of-us-lingers-as-iran-ponders-agreement-to-end-war?traffic_source=rss
+**Tytuł źródła:** EU states summon Russian envoys over Kyiv threat
+**Link:** https://www.aljazeera.com/news/2026/5/27/belgium-france-latest-countries-to-summon-envoys-following-russia-threats?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -52,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-‘Deep suspicion’ of US lingers as Iran ponders agreement to end war
+EU states summon Russian envoys over Kyiv threat
 
-Iranian officials said the latest US strikes only validated their scepticism and resolve to stand firm on demands.
+Anger of EU states won&#039;t help smooth the way for Brussels to mediate a ceasefire, an idea Putin now says he accepts.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -71,8 +65,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Israel claims head of Hamas military wing killed in Gaza strike
-**Link:** https://www.aljazeera.com/news/2026/5/27/israel-claims-head-of-hamas-military-wing-killed-in-gaza-strike?traffic_source=rss
+**Tytuł źródła:** Iran government sells subsidised meat for Eid al-Adha under blockade
+**Link:** https://www.aljazeera.com/economy/2026/5/27/iran-government-sells-subsidised-meat-for-eid-al-adha-under-blockade?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -83,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Israel claims head of Hamas military wing killed in Gaza strike
+Iran government sells subsidised meat for Eid al-Adha under blockade
 
-There was no immediate response from the Palestinian group after Israel claimed Mohammed Odeh killed.
+Iranians are seeing the price of meat, and other basics, escalate due to the US blockade and sanctions.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
