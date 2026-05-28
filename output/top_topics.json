@@ -1,59 +1,11 @@
 {
-  "generated_at": "2026-05-28T09:52:25.544579",
+  "generated_at": "2026-05-28T20:10:41.379399",
   "topics": [
     {
-      "title": "Iran and US trade attacks after Trump rejects report of Hormuz agreement",
-      "summary": "IRGC says it targeted a base used by US forces after US attacks on site near Bandar Abbas.",
-      "link": "https://www.aljazeera.com/news/2026/5/28/iran-and-us-trade-attacks-after-trump-rejects-report-of-hormuz-agreement?traffic_source=rss",
-      "score": 27,
-      "reasons": [
-        "konflikt/eskalacja",
-        "wpływ na ceny/handel",
-        "duże państwa/geopolityka",
-        "czytelny tytuł",
-        "silny trigger Ormuz"
-      ],
-      "thumbnail": "ORMUZ ZAPŁONIE?",
-      "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
-      "post_text": "Iran and US trade attacks after Trump rejects report of Hormuz agreement\n\nIRGC says it targeted a base used by US forces after US attacks on site near Bandar Abbas.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
-      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
-      "hashtags": [
-        "#wojna",
-        "#ropa",
-        "#paliwo",
-        "#gospodarka",
-        "#geopolityka"
-      ]
-    },
-    {
-      "title": "What’s happening on Iran war day 90 as US launches new strikes",
-      "summary": "The US strikes near Bandar Abbas as tensions rise in the Strait of Hormuz; Iran reports no casualties or damage.",
-      "link": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss",
-      "score": 26,
-      "reasons": [
-        "konflikt/eskalacja",
-        "wpływ na ceny/handel",
-        "duże państwa/geopolityka",
-        "czytelny tytuł",
-        "silny trigger Ormuz"
-      ],
-      "thumbnail": "ORMUZ ZAPŁONIE?",
-      "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
-      "post_text": "What’s happening on Iran war day 90 as US launches new strikes\n\nThe US strikes near Bandar Abbas as tensions rise in the Strait of Hormuz; Iran reports no casualties or damage.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
-      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
-      "hashtags": [
-        "#wojna",
-        "#ropa",
-        "#paliwo",
-        "#gospodarka",
-        "#geopolityka"
-      ]
-    },
-    {
-      "title": "Oil prices jump after US launches new attacks on Iran",
-      "summary": "The strikes come despite a ceasefire between Tehran and Washington as the two countries hold peace talks.",
-      "link": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss",
-      "score": 25,
+      "title": "US inflation surges to three-year high amid tensions with Iran",
+      "summary": "Heightened petrol prices led the inflationary pressures, with prices that jumped 5.5 percent in April.",
+      "link": "https://www.aljazeera.com/economy/2026/5/28/us-inflation-surges-to-three-year-high-amid-tensions-with-iran?traffic_source=rss",
+      "score": 20,
       "reasons": [
         "konflikt/eskalacja",
         "wpływ na ceny/handel",
@@ -61,9 +13,54 @@
         "czytelny tytuł",
         "mocny trigger portfel/paliwo"
       ],
+      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
+      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
+      "post_text": "US inflation surges to three-year high amid tensions with Iran\n\nHeightened petrol prices led the inflationary pressures, with prices that jumped 5.5 percent in April.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
+      "hashtags": [
+        "#wojna",
+        "#ropa",
+        "#paliwo",
+        "#gospodarka",
+        "#geopolityka"
+      ]
+    },
+    {
+      "title": "Oil prices fall after report of breakthrough in US-Iran talks",
+      "summary": "A report of a extended ceasefire, subject to Donald Trump's approval, has led to global oil prices to fall on Thursday.",
+      "link": "https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss",
+      "score": 18,
+      "reasons": [
+        "wpływ na ceny/handel",
+        "czytelny tytuł",
+        "mocny trigger portfel/paliwo"
+      ],
       "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Oil prices jump after US launches new attacks on Iran\n\nThe strikes come despite a ceasefire between Tehran and Washington as the two countries hold peace talks.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Oil prices fall after report of breakthrough in US-Iran talks\n\nA report of a extended ceasefire, subject to Donald Trump's approval, has led to global oil prices to fall on Thursday.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
+      "hashtags": [
+        "#wojna",
+        "#ropa",
+        "#paliwo",
+        "#gospodarka",
+        "#geopolityka"
+      ]
+    },
+    {
+      "title": "Are US and Iran close to peace or sliding back to war?",
+      "summary": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.",
+      "link": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
+      "score": 17,
+      "reasons": [
+        "konflikt/eskalacja",
+        "duże państwa/geopolityka",
+        "pilność/tempo",
+        "czytelny tytuł"
+      ],
+      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
+      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
+      "post_text": "Are US and Iran close to peace or sliding back to war?\n\nNeither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
