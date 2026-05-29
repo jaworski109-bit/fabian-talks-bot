@@ -1,23 +1,24 @@
-# Fabian Talks — top tematy (2026-05-28 20:10)
+# Fabian Talks — top tematy (2026-05-29 09:41)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 20
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** US inflation surges to three-year high amid tensions with Iran
-**Link:** https://www.aljazeera.com/economy/2026/5/28/us-inflation-surges-to-three-year-high-amid-tensions-with-iran?traffic_source=rss
+## 1. ORMUZ ZAPŁONIE?
+**Score:** 24
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
+**Tytuł źródła:** What’s happening on Iran war day 91 as US, Iran near 60-day deal
+**Link:** https://www.aljazeera.com/news/2026/5/29/whats-happening-on-iran-war-day-91-as-us-iran-near-60-day-deal?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-US inflation surges to three-year high amid tensions with Iran
+What’s happening on Iran war day 91 as US, Iran near 60-day deal
 
-Heightened petrol prices led the inflationary pressures, with prices that jumped 5.5 percent in April.
+US and Iran near a 60-day MoU aimed at reopening the Hormuz strait with talks slated on nuclear and other differences.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,11 +32,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 18
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Oil prices fall after report of breakthrough in US-Iran talks
-**Link:** https://www.bbc.com/news/articles/cp3p62xddq4o?at_medium=RSS&at_campaign=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 17
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Israel hits Lebanese capital in 'targeted strike'
+**Link:** https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Oil prices fall after report of breakthrough in US-Iran talks
+Israel hits Lebanese capital in 'targeted strike'
 
-A report of a extended ceasefire, subject to Donald Trump's approval, has led to global oil prices to fall on Thursday.
+Beirut had until now largely been spared even as both Israel and Hezbollah accused each other of breaking last month's ceasefire.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +64,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Are US and Iran close to peace or sliding back to war?
-**Link:** https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss
+**Score:** 15
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo
+**Tytuł źródła:** Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel
+**Link:** https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Are US and Iran close to peace or sliding back to war?
+Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel
 
-Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes.
+Fibre-optic drones are now Hezbollah's primary weapon against Israel's soldiers and civilians.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
