@@ -1,38 +1,6 @@
-# Fabian Talks — top tematy (2026-05-29 09:41)
+# Fabian Talks — top tematy (2026-05-29 20:11)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 24
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
-**Tytuł źródła:** What’s happening on Iran war day 91 as US, Iran near 60-day deal
-**Link:** https://www.aljazeera.com/news/2026/5/29/whats-happening-on-iran-war-day-91-as-us-iran-near-60-day-deal?traffic_source=rss
-
-### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
-
-To nie jest tylko geopolityka.
-To jest koszt życia.
-
-### Tekst pod post
-What’s happening on Iran war day 91 as US, Iran near 60-day deal
-
-US and Iran near a 60-day MoU aimed at reopening the Hormuz strait with talks slated on nuclear and other differences.
-
-Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
-
-Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
-
-### Hook follow
-Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
-
-### Hashtagi
-#wojna #ropa #paliwo #gospodarka #geopolityka
-
----
-
-## 2. ŚWIAT WCHODZI W CHAOS?
+## 1. ŚWIAT WCHODZI W CHAOS?
 **Score:** 17
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
 **Tytuł źródła:** Israel hits Lebanese capital in 'targeted strike'
@@ -63,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 15
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo
-**Tytuł źródła:** Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel
-**Link:** https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss
+## 2. CENY PÓJDĄ W GÓRĘ?
+**Score:** 13
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Will the AI race fuel another boom or another bubble?
+**Link:** https://www.aljazeera.com/video/counting-the-cost/2026/5/29/will-the-ai-race-fuel-another-boom-or-another-bubble?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +46,40 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel
+Will the AI race fuel another boom or another bubble?
 
-Fibre-optic drones are now Hezbollah's primary weapon against Israel's soldiers and civilians.
+AI giants are racing towards public listings as valuations soar.
+
+Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
+
+Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
+
+### Hook follow
+Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
+
+### Hashtagi
+#wojna #ropa #paliwo #gospodarka #geopolityka
+
+---
+
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 12
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Israel, Russia among new additions on UN sexual violence ‘blacklist’
+**Link:** https://www.aljazeera.com/news/2026/5/29/israel-russia-un-conflict-related-sexual-violence-report?traffic_source=rss
+
+### Tekst na rolkę
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
+
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
+
+### Tekst pod post
+Israel, Russia among new additions on UN sexual violence ‘blacklist’
+
+New report says nearly 10,000 cases of conflict-related sexual violence were recorded worldwide last year.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
