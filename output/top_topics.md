@@ -1,24 +1,23 @@
-# Fabian Talks — top tematy (2026-05-31 08:37)
+# Fabian Talks — top tematy (2026-05-31 19:06)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 26
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Iran reasserts control over Hormuz Strait as deal with US remains elusive
-**Link:** https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 20
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Iran ⁠restores some gas production at South Pars facility
+**Link:** https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran reasserts control over Hormuz Strait as deal with US remains elusive
+Iran ⁠restores some gas production at South Pars facility
 
-Pentagon chief Pete Hegseth says US &#039;more than capable&#039; of restarting war if satisfactory deal not reached.
+Production restored at three offshore platforms after Israeli attacks, Pars Oil and Gas Company CEO tells Iranian media.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -33,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 20
+**Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo
-**Link:** https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss
+**Tytuł źródła:** Not just the US: How 51 countries armed Israel during Gaza war
+**Link:** https://www.aljazeera.com/video/2026/5/31/not-just-the-us-how-51-countries-armed-israel-during-gaza-war?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo
+Not just the US: How 51 countries armed Israel during Gaza war
 
-Lebanese PM describes Israel&#039;s attacks as collective punishment as US warns Iran of strikes if no deal is reached.
+An Al Jazeera investigation has found that military-related goods from at least 51 countries and territories continued e
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,25 +62,24 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ORMUZ ZAPŁONIE?
-**Score:** 15
-**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Qatar says temporary charges ‘negotiable’
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/5/30/qatar-says-temporary-charges-negotiable?traffic_source=rss
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** US measure to deepen Israel military cooperation faces bipartisan pushback
+**Link:** https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Qatar says temporary charges ‘negotiable’
+US measure to deepen Israel military cooperation faces bipartisan pushback
 
-Qatar rejects a set Strait of Hormuz toll, says temporary charges &#039;negotiable&#039;.
+Democrat Ro Khanna and Republican Thomas Massie say they will try to remove the pro-Israel section from US defence bill.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
