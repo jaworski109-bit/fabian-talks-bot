@@ -1,23 +1,24 @@
-# Fabian Talks — top tematy (2026-05-31 19:06)
+# Fabian Talks — top tematy (2026-06-01 11:19)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 20
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Iran ⁠restores some gas production at South Pars facility
-**Link:** https://www.aljazeera.com/news/2026/5/31/iran-%e2%81%a0says-some-gas-production-restored-at-south-pars-facility?traffic_source=rss
+## 1. ORMUZ ZAPŁONIE?
+**Score:** 24
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
+**Tytuł źródła:** US says it struck Iranian radar sites as Kuwait reports missile and drone attacks
+**Link:** https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Iran ⁠restores some gas production at South Pars facility
+US says it struck Iranian radar sites as Kuwait reports missile and drone attacks
 
-Production restored at three offshore platforms after Israeli attacks, Pars Oil and Gas Company CEO tells Iranian media.
+Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning "repeated" Iranian attacks.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +33,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
+**Score:** 20
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Not just the US: How 51 countries armed Israel during Gaza war
-**Link:** https://www.aljazeera.com/video/2026/5/31/not-just-the-us-how-51-countries-armed-israel-during-gaza-war?traffic_source=rss
+**Tytuł źródła:** Iran war day 94: US strikes Iranian sites; Kuwait intercepts missiles
+**Link:** https://www.aljazeera.com/news/2026/6/1/iran-war-day-94-us-strikes-iranian-sites-kuwait-intercepts-missiles?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Not just the US: How 51 countries armed Israel during Gaza war
+Iran war day 94: US strikes Iranian sites; Kuwait intercepts missiles
 
-An Al Jazeera investigation has found that military-related goods from at least 51 countries and territories continued e
+While a peace deal between the US and Iran remains elusive, Israel has deepened its offensive into southern Lebanon.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +63,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** US measure to deepen Israel military cooperation faces bipartisan pushback
-**Link:** https://www.aljazeera.com/news/2026/5/31/us-measure-to-deepen-israel-military-cooperation-faces-bipartisan-pushback?traffic_source=rss
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 17
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** French navy, backed by the UK, intercepts Russian oil tanker
+**Link:** https://www.aljazeera.com/news/2026/6/1/french-navy-backed-by-the-uk-intercepts-russian-oil-tanker?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US measure to deepen Israel military cooperation faces bipartisan pushback
+French navy, backed by the UK, intercepts Russian oil tanker
 
-Democrat Ro Khanna and Republican Thomas Massie say they will try to remove the pro-Israel section from US defence bill.
+According to France, the tanker, which had sailed from Murmansk, was trying to &#039;skirt international sanctions&#039;.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
