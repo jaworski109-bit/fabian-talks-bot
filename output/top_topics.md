@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-06-02 10:11)
+# Fabian Talks — top tematy (2026-06-02 20:38)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 18
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talks
-**Link:** https://www.aljazeera.com/news/2026/6/2/iran-war-day-95-trump-pushes-lebanon-truce-after-tehran-vows-to-end-talks?traffic_source=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Lebanon hopes crunch talks in Washington will halt an Israeli invasion
+**Link:** https://www.aljazeera.com/news/2026/6/2/lebanon-hopes-crunch-talks-in-washington-will-halt-an-israeli-invasion?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talks
+Lebanon hopes crunch talks in Washington will halt an Israeli invasion
 
-Trump says he persuaded Israel and Hezbollah to halt attacks, seeking to prevent a wider war in Lebanon.
+What will Israel and Lebanon discuss in Washington, as Hezbollah and Israel continue to battle in south Lebanon.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 14
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan
-**Link:** https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** US says Iran’s new supreme leader alive and ‘increasingly engaging’
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/6/2/us-says-irans-new-supreme-leader-alive-and-increasingly-engaging?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan
+US says Iran’s new supreme leader alive and ‘increasingly engaging’
 
-A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.
+US Secretary of State Marco Rubio says Iran’s Supreme Leader Mojtaba Khamenei is increasingly engaging in negotiations.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. CENY PÓJDĄ W GÓRĘ?
-**Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** France seized sanctioned Russian oil tanker with UK help, Macron says
-**Link:** https://www.bbc.com/news/articles/cn8pwgej1gxo?at_medium=RSS&at_campaign=rss
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Ukraine’s Kostyuk blasts Russia stars in French Open outburst over war
+**Link:** https://www.aljazeera.com/sports/2026/6/2/ukraines-kostyuk-blasts-russia-stars-in-french-open-outburst-over-war?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-France seized sanctioned Russian oil tanker with UK help, Macron says
+Ukraine’s Kostyuk blasts Russia stars in French Open outburst over war
 
-A British helicopter provided support during the operation on Sunday, the UK ministry of defence says.
+Ukraine&#039;s Marta Kostyuk faces Russia&#039;s Mirra Andreeva in semifinal after beating Elina Svitolina at Roland Garros.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
