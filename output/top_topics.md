@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-06-01 21:24)
+# Fabian Talks — top tematy (2026-06-02 10:11)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 16
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Iran warns Israeli attacks in Lebanon threaten ceasefire with US
-**Link:** https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss
+**Score:** 18
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talks
+**Link:** https://www.aljazeera.com/news/2026/6/2/iran-war-day-95-trump-pushes-lebanon-truce-after-tehran-vows-to-end-talks?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran warns Israeli attacks in Lebanon threaten ceasefire with US
+Iran war day 95: Trump pushes Lebanon truce after Tehran vows to end talks
 
-Earlier Israel's PM ordered strikes on Beirut's southern suburbs in response to Hezbollah rocket and drone attacks on northern Israel.
+Trump says he persuaded Israel and Hezbollah to halt attacks, seeking to prevent a wider war in Lebanon.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 16
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka
-**Tytuł źródła:** Bowen: Trump needs this war to end but Iran is not backing down
-**Link:** https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss
+**Score:** 14
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan
+**Link:** https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Bowen: Trump needs this war to end but Iran is not backing down
+Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan
 
-Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.
+A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
