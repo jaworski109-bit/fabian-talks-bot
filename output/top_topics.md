@@ -1,24 +1,23 @@
-# Fabian Talks — top tematy (2026-06-03 10:47)
+# Fabian Talks — top tematy (2026-06-03 20:49)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 30
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Sailors stressed and exhausted after months trapped by Strait of Hormuz blockade
-**Link:** https://www.bbc.com/news/articles/cy02rz27l32o?at_medium=RSS&at_campaign=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 24
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** One killed and dozens injured in Iranian drone strikes on Kuwait airport
+**Link:** https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Sailors stressed and exhausted after months trapped by Strait of Hormuz blockade
+One killed and dozens injured in Iranian drone strikes on Kuwait airport
 
-The uncertainty has weighed heavily on the 20,000 seafarers trapped in the Iran war zone.
+Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -33,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 14
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** US ‘disables’ ship allegedly bound for Iranian port
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/6/3/us-disables-ship-allegedly-bound-for-iranian-port?traffic_source=rss
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Iran faces a new energy imbalance, but its options are limited
+**Link:** https://www.aljazeera.com/economy/2026/6/3/iran-faces-a-new-energy-imbalance-but-its-options-are-limited?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US ‘disables’ ship allegedly bound for Iranian port
+Iran faces a new energy imbalance, but its options are limited
 
-US Central Command released video of it targeting a tanker that it says was en route to Iran’s Kharg Island in the Gulf.
+Iran’s government weighs limited energy control options in a strained economy, with the war impacting production.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,25 +62,24 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ORMUZ ZAPŁONIE?
+## 3. CENY PÓJDĄ W GÓRĘ?
 **Score:** 13
-**Powody:** duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Is the Great Nicobar Island India’s Hormuz-like chokepoint against China?
-**Link:** https://www.aljazeera.com/features/2026/6/3/is-the-great-nicobar-island-indias-hormuz-like-chokepoint-against-china?traffic_source=rss
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens
+**Link:** https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Is the Great Nicobar Island India’s Hormuz-like chokepoint against China?
+Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens
 
-Far away from Indian mainland, the government is pumping billions of dollars into a controversial development project.
+Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
