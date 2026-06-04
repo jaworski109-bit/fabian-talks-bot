@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-06-03 20:49)
+# Fabian Talks — top tematy (2026-06-04 09:47)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
 **Score:** 24
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Iran faces a new energy imbalance, but its options are limited
-**Link:** https://www.aljazeera.com/economy/2026/6/3/iran-faces-a-new-energy-imbalance-but-its-options-are-limited?traffic_source=rss
+**Score:** 23
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka
+**Tytuł źródła:** Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon
+**Link:** https://www.aljazeera.com/news/2026/6/4/iran-war-day-97-tehran-says-no-progress-in-talks-israel-attacks-lebanon?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran faces a new energy imbalance, but its options are limited
+Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon
 
-Iran’s government weighs limited energy control options in a strained economy, with the war impacting production.
+Israel carries out drone attacks on Lebanon after agreeing to renew ceasefire as Tehran defends attacks on Gulf nations.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. CENY PÓJDĄ W GÓRĘ?
-**Score:** 13
+**Score:** 23
 **Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens
-**Link:** https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss
+**Tytuł źródła:** Costly fuel pushes more Indians to buy electric cars but challenges remain
+**Link:** https://www.bbc.com/news/articles/cx21181yq4no?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens
+Costly fuel pushes more Indians to buy electric cars but challenges remain
 
-Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event.
+High fuel prices are strengthening the case for EV adoption in the world's third largest auto market.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
