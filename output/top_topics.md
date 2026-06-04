@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-06-04 09:47)
+# Fabian Talks — top tematy (2026-06-04 19:57)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 24
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** One killed and dozens injured in Iranian drone strikes on Kuwait airport
-**Link:** https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** ‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war
+**Link:** https://www.aljazeera.com/news/2026/6/4/unpatriotic-trump-decries-republicans-who-voted-to-constrain-iran-war?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-One killed and dozens injured in Iranian drone strikes on Kuwait airport
+‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war
 
-Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island.
+Trump takes aim at lawmakers after House passes war powers resolution; advocates call on Senate to advance the measure.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 23
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka
-**Tytuł źródła:** Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon
-**Link:** https://www.aljazeera.com/news/2026/6/4/iran-war-day-97-tehran-says-no-progress-in-talks-israel-attacks-lebanon?traffic_source=rss
+**Score:** 11
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo
+**Tytuł źródła:** Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022
+**Link:** https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon
+Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022
 
-Israel carries out drone attacks on Lebanon after agreeing to renew ceasefire as Tehran defends attacks on Gulf nations.
+Russia&#039;s latest attacks come as Ukraine commemorates the children killed by Russia over the course of the all-out war.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. CENY PÓJDĄ W GÓRĘ?
-**Score:** 23
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Costly fuel pushes more Indians to buy electric cars but challenges remain
-**Link:** https://www.bbc.com/news/articles/cx21181yq4no?at_medium=RSS&at_campaign=rss
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Israel must allow ICRC to visit Palestinians in prison, Supreme Court rules
+**Link:** https://www.aljazeera.com/news/2026/6/4/israel-must-allow-icrc-to-visit-palestinians-in-prison-supreme-court-rules?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Costly fuel pushes more Indians to buy electric cars but challenges remain
+Israel must allow ICRC to visit Palestinians in prison, Supreme Court rules
 
-High fuel prices are strengthening the case for EV adoption in the world's third largest auto market.
+Israel’s Supreme Court rejects government ban on prisoner visits, affirming Red Cross access under international law.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
