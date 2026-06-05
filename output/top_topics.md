@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-06-04 19:57)
+# Fabian Talks — top tematy (2026-06-05 09:35)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
+**Score:** 20
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** ‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war
-**Link:** https://www.aljazeera.com/news/2026/6/4/unpatriotic-trump-decries-republicans-who-voted-to-constrain-iran-war?traffic_source=rss
+**Tytuł źródła:** Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes
+**Link:** https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-‘Unpatriotic’: Trump decries Republicans who voted to constrain Iran war
+Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes
 
-Trump takes aim at lawmakers after House passes war powers resolution; advocates call on Senate to advance the measure.
+Israel&#039;s supreme court annuls government ban on international Red Cross visiting Palestinian prisoners in Israeli jails.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 11
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo
-**Tytuł źródła:** Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022
-**Link:** https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss
+**Score:** 18
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues
+**Link:** https://www.aljazeera.com/news/2026/6/5/iran-war-day-98-tehran-raises-doubts-on-deal-as-lebanon-fighting-continues?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022
+Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues
 
-Russia&#039;s latest attacks come as Ukraine commemorates the children killed by Russia over the course of the all-out war.
+Israel strikes Lebanon despite ceasefire, while Hezbollah rejects deal as death toll tops 3,500.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
+**Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Israel must allow ICRC to visit Palestinians in prison, Supreme Court rules
-**Link:** https://www.aljazeera.com/news/2026/6/4/israel-must-allow-icrc-to-visit-palestinians-in-prison-supreme-court-rules?traffic_source=rss
+**Tytuł źródła:** French-Iranian Persepolis author Marjane Satrapi dies of ‘sadness’
+**Link:** https://www.aljazeera.com/news/2026/6/5/french-iranian-persepolis-author-marjane-satrapi-dies-of-sadness?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Israel must allow ICRC to visit Palestinians in prison, Supreme Court rules
+French-Iranian Persepolis author Marjane Satrapi dies of ‘sadness’
 
-Israel’s Supreme Court rejects government ban on prisoner visits, affirming Red Cross access under international law.
+Satrapi&#039;s autobiographical novel was born from her experiences of Iran&#039;s Islamic revolution and war with Iraq.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
