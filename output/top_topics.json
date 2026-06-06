@@ -1,20 +1,21 @@
 {
-  "generated_at": "2026-06-05T19:45:30.931996",
+  "generated_at": "2026-06-06T08:27:16.909350",
   "topics": [
     {
-      "title": "‘Red meat is a dream’: Iran inflation hits highest level since World War II",
-      "summary": "The war with the US is not the only factor driving prices skywards.",
-      "link": "https://www.aljazeera.com/news/2026/6/5/red-meat-is-a-dream-iran-inflation-hits-highest-level-since-world-war-ii?traffic_source=rss",
-      "score": 22,
+      "title": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
+      "summary": "Trump seeks to shore up support among rural voters hard-hit by tariffs, economic fallout of war with Iran.",
+      "link": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss",
+      "score": 24,
       "reasons": [
         "konflikt/eskalacja",
         "wpływ na ceny/handel",
         "duże państwa/geopolityka",
+        "czytelny tytuł",
         "mocny trigger portfel/paliwo"
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "‘Red meat is a dream’: Iran inflation hits highest level since World War II\n\nThe war with the US is not the only factor driving prices skywards.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin\n\nTrump seeks to shore up support among rural voters hard-hit by tariffs, economic fallout of war with Iran.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -25,41 +26,42 @@
       ]
     },
     {
-      "title": "Is the latest US ceasefire deal for Lebanon meaningless?",
-      "summary": "Israel and Hezbollah continue fighting after truce announcement.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/6/5/is-the-latest-us-ceasefire-deal-for-lebanon-meaningless?traffic_source=rss",
-      "score": 13,
+      "title": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
+      "summary": "The United Nations reports that 1.4 million people are in need of aid in Lebanon amid Israel&#039;s attacks on the country.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss",
+      "score": 20,
       "reasons": [
         "konflikt/eskalacja",
+        "duże państwa/geopolityka",
+        "czytelny tytuł"
+      ],
+      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
+      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
+      "post_text": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash\n\nThe United Nations reports that 1.4 million people are in need of aid in Lebanon amid Israel&#039;s attacks on the country.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
+      "hashtags": [
+        "#wojna",
+        "#ropa",
+        "#paliwo",
+        "#gospodarka",
+        "#geopolityka"
+      ]
+    },
+    {
+      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+      "summary": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.",
+      "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+      "score": 18,
+      "reasons": [
+        "konflikt/eskalacja",
+        "wpływ na ceny/handel",
         "duże państwa/geopolityka",
         "pilność/tempo",
         "czytelny tytuł"
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Is the latest US ceasefire deal for Lebanon meaningless?\n\nIsrael and Hezbollah continue fighting after truce announcement.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
-      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
-      "hashtags": [
-        "#wojna",
-        "#ropa",
-        "#paliwo",
-        "#gospodarka",
-        "#geopolityka"
-      ]
-    },
-    {
-      "title": "Ukraine and Russia exchange 185 prisoners of war each",
-      "summary": "Russia and Ukraine have each released 185 prisoners in a major exchange, which Russia says was mediated by the UAE.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/ukraine-and-russia-exchange-185-prisoners-of-war-each?traffic_source=rss",
-      "score": 9,
-      "reasons": [
-        "konflikt/eskalacja",
-        "duże państwa/geopolityka",
-        "czytelny tytuł"
-      ],
-      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Ukraine and Russia exchange 185 prisoners of war each\n\nRussia and Ukraine have each released 185 prisoners in a major exchange, which Russia says was mediated by the UAE.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "US and Iran exchange strikes in Gulf in latest test of ceasefire\n\nThe US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
