@@ -1,9 +1,9 @@
-# Fabian Talks — top tematy (2026-06-08 10:24)
+# Fabian Talks — top tematy (2026-06-08 20:05)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 27
+**Score:** 32
 **Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Stock markets fall on tech plunge and renewed Middle East attacks
+**Tytuł źródła:** Stock market jitters remain amid tech fears and renewed Middle East attacks
 **Link:** https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Stock markets fall on tech plunge and renewed Middle East attacks
+Stock market jitters remain amid tech fears and renewed Middle East attacks
 
-Markets in Europe and Asia were hit by a tech sell-off, and oil rises as Iran and Israel launch attacks at each other
+Markets in Asia are hit by a tech sell-off, and oil is volatile as Iran and Israel launch attacks on each other.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 23
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka
-**Tytuł źródła:** Iran war day 101: Tensions escalate as Iran and Israel trade air attacks
-**Link:** https://www.aljazeera.com/news/2026/6/8/iran-war-day-101-tensions-escalate-as-iran-and-israel-trade-air-attacks?traffic_source=rss
+**Score:** 18
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** Iran and Israel say they have halted strikes after first exchange of fire since truce
+**Link:** https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war day 101: Tensions escalate as Iran and Israel trade air attacks
+Iran and Israel say they have halted strikes after first exchange of fire since truce
 
-Tensions have escalated between Iran and Israel while ongoing diplomatic efforts have failed to yield lasting peace.
+Iran launched about 30 missiles at Israel following a strike in Lebanon, while Israel carried out two waves of air strikes in Iran.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 22
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo
-**Tytuł źródła:** How Lebanon and Iran’s war of words became backdrop for latest Israel clash
-**Link:** https://www.aljazeera.com/features/2026/6/8/how-lebanon-and-irans-war-of-words-became-backdrop-for-latest-israel-war?traffic_source=rss
+**Score:** 17
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** How Lebanon became the breaking point for the Iran war ceasefire
+**Link:** https://www.aljazeera.com/news/2026/6/8/how-lebanon-became-the-breaking-point-for-the-iran-war-ceasefire?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-How Lebanon and Iran’s war of words became backdrop for latest Israel clash
+How Lebanon became the breaking point for the Iran war ceasefire
 
-Iran had warned that talks could be stopped and attacks would resume if Israel continued to hit Lebanon.
+Iran has switched from projecting power via its proxies to using its own firepower to protect them, analysts say.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
