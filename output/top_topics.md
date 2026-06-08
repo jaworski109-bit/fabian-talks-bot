@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-06-07 19:11)
+# Fabian Talks — top tematy (2026-06-08 10:24)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 22
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, mocny trigger portfel/paliwo
-**Tytuł źródła:** Is there an AI stock market bubble, and is it ready to burst?
-**Link:** https://www.bbc.com/news/videos/c1m2mr7gr27o?at_medium=RSS&at_campaign=rss
+**Score:** 27
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Stock markets fall on tech plunge and renewed Middle East attacks
+**Link:** https://www.bbc.com/news/articles/c78yd5g9qx0o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Is there an AI stock market bubble, and is it ready to burst?
+Stock markets fall on tech plunge and renewed Middle East attacks
 
-Despite the Iran war, inflation and debt fears, US markets keep hitting record highs, fueled largely by AI. BBC's Samira Hussain looks into whether that bubble will burst.
+Markets in Europe and Asia were hit by a tech sell-off, and oil rises as Iran and Israel launch attacks at each other
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 18
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Missiles and negotiations: Iran 100 days into the war with US and Israel
-**Link:** https://www.aljazeera.com/features/2026/6/7/missiles-and-negotiations-iran-100-days-into-the-war-with-us-and-israel?traffic_source=rss
+**Score:** 23
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka
+**Tytuł źródła:** Iran war day 101: Tensions escalate as Iran and Israel trade air attacks
+**Link:** https://www.aljazeera.com/news/2026/6/8/iran-war-day-101-tensions-escalate-as-iran-and-israel-trade-air-attacks?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Missiles and negotiations: Iran 100 days into the war with US and Israel
+Iran war day 101: Tensions escalate as Iran and Israel trade air attacks
 
-Talks and attacks have continued for months, and could last much longer without a breakthrough.
+Tensions have escalated between Iran and Israel while ongoing diplomatic efforts have failed to yield lasting peace.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** From online class to Revolution Square: A Tehran teacher’s routine amid war
-**Link:** https://www.aljazeera.com/economy/2026/6/7/from-online-class-to-revolution-square-a-tehran-teachers-routine-amid-war?traffic_source=rss
+**Score:** 22
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo
+**Tytuł źródła:** How Lebanon and Iran’s war of words became backdrop for latest Israel clash
+**Link:** https://www.aljazeera.com/features/2026/6/8/how-lebanon-and-irans-war-of-words-became-backdrop-for-latest-israel-war?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-From online class to Revolution Square: A Tehran teacher’s routine amid war
+How Lebanon and Iran’s war of words became backdrop for latest Israel clash
 
-Al Jazeera follows a teacher who navigates a new life marked by a weak internet, soaring prices, and solidarity rallies.
+Iran had warned that talks could be stopped and attacks would resume if Israel continued to hit Lebanon.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
