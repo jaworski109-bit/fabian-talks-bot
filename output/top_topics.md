@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-06-08 20:05)
+# Fabian Talks — top tematy (2026-06-09 09:29)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
 **Score:** 32
@@ -31,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 18
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Iran and Israel say they have halted strikes after first exchange of fire since truce
-**Link:** https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss
+## 2. CENY PÓJDĄ W GÓRĘ?
+**Score:** 20
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Iran conflict: Why has oil stayed near $100 a barrel?
+**Link:** https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran and Israel say they have halted strikes after first exchange of fire since truce
+Iran conflict: Why has oil stayed near $100 a barrel?
 
-Iran launched about 30 missiles at Israel following a strike in Lebanon, while Israel carried out two waves of air strikes in Iran.
+The worst-case oil scenario has been avoided, but inflation and slower growth continue to weigh on the global economy.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** How Lebanon became the breaking point for the Iran war ceasefire
-**Link:** https://www.aljazeera.com/news/2026/6/8/how-lebanon-became-the-breaking-point-for-the-iran-war-ceasefire?traffic_source=rss
+**Score:** 18
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** Iran war day 102: Trump warns Israel against new strikes as ceasefire holds
+**Link:** https://www.aljazeera.com/news/2026/6/9/iran-war-day-102-trump-warns-israel-against-new-strikes-as-ceasefire-holds?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-How Lebanon became the breaking point for the Iran war ceasefire
+Iran war day 102: Trump warns Israel against new strikes as ceasefire holds
 
-Iran has switched from projecting power via its proxies to using its own firepower to protect them, analysts say.
+Iran warns fighting could restart as tensions remain high and Trump urges Israel to protect the fragile ceasefire.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 

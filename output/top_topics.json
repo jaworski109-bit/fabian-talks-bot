@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T20:05:21.211605",
+  "generated_at": "2026-06-09T09:29:58.263463",
   "topics": [
     {
       "title": "Stock market jitters remain amid tech fears and renewed Middle East attacks",
@@ -26,17 +26,20 @@
       ]
     },
     {
-      "title": "Iran and Israel say they have halted strikes after first exchange of fire since truce",
-      "summary": "Iran launched about 30 missiles at Israel following a strike in Lebanon, while Israel carried out two waves of air strikes in Iran.",
-      "link": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
-      "score": 18,
+      "title": "Iran conflict: Why has oil stayed near $100 a barrel?",
+      "summary": "The worst-case oil scenario has been avoided, but inflation and slower growth continue to weigh on the global economy.",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel?traffic_source=rss",
+      "score": 20,
       "reasons": [
         "konflikt/eskalacja",
-        "duże państwa/geopolityka"
+        "wpływ na ceny/handel",
+        "duże państwa/geopolityka",
+        "czytelny tytuł",
+        "mocny trigger portfel/paliwo"
       ],
-      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
+      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Iran and Israel say they have halted strikes after first exchange of fire since truce\n\nIran launched about 30 missiles at Israel following a strike in Lebanon, while Israel carried out two waves of air strikes in Iran.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Iran conflict: Why has oil stayed near $100 a barrel?\n\nThe worst-case oil scenario has been avoided, but inflation and slower growth continue to weigh on the global economy.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -47,19 +50,17 @@
       ]
     },
     {
-      "title": "How Lebanon became the breaking point for the Iran war ceasefire",
-      "summary": "Iran has switched from projecting power via its proxies to using its own firepower to protect them, analysts say.",
-      "link": "https://www.aljazeera.com/news/2026/6/8/how-lebanon-became-the-breaking-point-for-the-iran-war-ceasefire?traffic_source=rss",
-      "score": 17,
+      "title": "Iran war day 102: Trump warns Israel against new strikes as ceasefire holds",
+      "summary": "Iran warns fighting could restart as tensions remain high and Trump urges Israel to protect the fragile ceasefire.",
+      "link": "https://www.aljazeera.com/news/2026/6/9/iran-war-day-102-trump-warns-israel-against-new-strikes-as-ceasefire-holds?traffic_source=rss",
+      "score": 18,
       "reasons": [
         "konflikt/eskalacja",
-        "duże państwa/geopolityka",
-        "pilność/tempo",
-        "czytelny tytuł"
+        "duże państwa/geopolityka"
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "How Lebanon became the breaking point for the Iran war ceasefire\n\nIran has switched from projecting power via its proxies to using its own firepower to protect them, analysts say.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Iran war day 102: Trump warns Israel against new strikes as ceasefire holds\n\nIran warns fighting could restart as tensions remain high and Trump urges Israel to protect the fragile ceasefire.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
