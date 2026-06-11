@@ -1,23 +1,24 @@
-# Fabian Talks — top tematy (2026-06-10 20:20)
+# Fabian Talks — top tematy (2026-06-11 10:13)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 18
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Iran says it will ‘not hesitate’ to defend itself after latest clashes
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-says-it-will-not-hesitate-to-defend-itself-after-latest-clashes?traffic_source=rss
+## 1. ORMUZ ZAPŁONIE?
+**Score:** 24
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
+**Tytuł źródła:** Iran war day 104: Iran attacks US bases, closes strait after Trump strikes
+**Link:** https://www.aljazeera.com/news/2026/6/11/iran-war-day-104-iran-says-it-attacks-us-bases-after-american-strikes?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Iran says it will ‘not hesitate’ to defend itself after latest clashes
+Iran war day 104: Iran attacks US bases, closes strait after Trump strikes
 
-Iran’s Foreign Ministry said overnight clashes in the Gulf between Tehran and Washington showed how Iran will respond.
+Iran closes Strait of Hormuz, launches retaliatory strikes on US bases in Kuwait, Bahrain and Jordan after US attacks.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,11 +32,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 18
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo
-**Tytuł źródła:** Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks
-**Link:** https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss
+## 2. CENY PÓJDĄ W GÓRĘ?
+**Score:** 17
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Three Indian sailors killed in US strike on oil tanker
+**Link:** https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks
+Three Indian sailors killed in US strike on oil tanker
 
-Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.
+The US military had attacked the Palau-flagged tanker on Wednesday after accusing it of not complying with directions.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
