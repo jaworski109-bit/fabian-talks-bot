@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-06-12 10:00)
+# Fabian Talks — top tematy (2026-06-12 20:00)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 21
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Iran war day 105: Trump halts attacks after Kharg Island threat
-**Link:** https://www.aljazeera.com/news/2026/6/12/iran-war-day-105-trump-halts-attacks-after-kharg-island-threat?traffic_source=rss
+**Score:** 18
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** How the Gulf will manage collective security after the Iran war ends
+**Link:** https://www.aljazeera.com/news/2026/6/12/how-the-gulf-will-manage-collective-security-after-the-iran-war-ends?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war day 105: Trump halts attacks after Kharg Island threat
+How the Gulf will manage collective security after the Iran war ends
 
-Trump cancels planned Iran attacks, saying talks are close to a result as Tehran reviews a proposed US deal.
+An Iran-US deal could provide an opportunity for Gulfs to review their security arrangements.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,25 +62,24 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ORMUZ ZAPŁONIE?
-**Score:** 15
-**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** US-Iran ceasefire? Not for Indian sailors being killed in Hormuz
-**Link:** https://www.aljazeera.com/news/2026/6/12/us-iran-ceasefire-not-for-indian-sailors-being-killed-in-hormuz?traffic_source=rss
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 13
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Putin admits Ukraine attacks hitting Russian economy, society
+**Link:** https://www.aljazeera.com/news/2026/6/12/putin-admits-ukraine-attacks-hitting-russian-economy-society?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US-Iran ceasefire? Not for Indian sailors being killed in Hormuz
+Putin admits Ukraine attacks hitting Russian economy, society
 
-The United States military has struck three vessels in the Strait of Hormuz this week, killing three Indian sailors.
+Ukraine has increasingly targeted Russian refineries, depots and pipelines, as well as fuel supplies in Crimea.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
