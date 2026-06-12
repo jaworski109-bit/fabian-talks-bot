@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-06-11 20:12)
+# Fabian Talks — top tematy (2026-06-12 10:00)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** US-Iran war to pull global economy to post-COVID low: World Bank
-**Link:** https://www.aljazeera.com/economy/2026/6/11/global-growth-to-slow-to-lowest-since-covid-due-to-iran-war-world-bank?traffic_source=rss
+**Score:** 21
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Iran war day 105: Trump halts attacks after Kharg Island threat
+**Link:** https://www.aljazeera.com/news/2026/6/12/iran-war-day-105-trump-halts-attacks-after-kharg-island-threat?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US-Iran war to pull global economy to post-COVID low: World Bank
+Iran war day 105: Trump halts attacks after Kharg Island threat
 
-Global growth forecast cut to 2.5 percent due to surging energy prices, inflation and borrowing costs.
+Trump cancels planned Iran attacks, saying talks are close to a result as Tehran reviews a proposed US deal.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Israel deports French journalist accused of supporting Hamas
-**Link:** https://www.aljazeera.com/news/2026/6/11/israel-deports-french-journalist-accused-of-supporting-hamas?traffic_source=rss
+**Score:** 18
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Why the economics make this the craziest World Cup ever
+**Link:** https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Israel deports French journalist accused of supporting Hamas
+Why the economics make this the craziest World Cup ever
 
-Isreal suppressed coverage of its war on Gaza, banning international press and killing hundreds of local journalists.
+From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it. Faisal Islam explores what this tournament reveals about our changing global economy.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,24 +62,25 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Lebanon Latest: Ceasefire talks continue under fire
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/6/11/lebanon-latest-ceasefire-talks-continue-under-fire?traffic_source=rss
+## 3. ORMUZ ZAPŁONIE?
+**Score:** 15
+**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** US-Iran ceasefire? Not for Indian sailors being killed in Hormuz
+**Link:** https://www.aljazeera.com/news/2026/6/12/us-iran-ceasefire-not-for-indian-sailors-being-killed-in-hormuz?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Lebanon Latest: Ceasefire talks continue under fire
+US-Iran ceasefire? Not for Indian sailors being killed in Hormuz
 
-Israel expands ground operations in southern Lebanon as ceasefire efforts remain stalled.
+The United States military has struck three vessels in the Strait of Hormuz this week, killing three Indian sailors.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
