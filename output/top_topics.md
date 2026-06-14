@@ -1,6 +1,37 @@
-# Fabian Talks — top tematy (2026-06-13 19:15)
+# Fabian Talks — top tematy (2026-06-14 09:23)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 20
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Why is the price of gold trending down?
+**Link:** https://www.aljazeera.com/economy/2026/6/14/why-is-the-price-of-gold-trending-down?traffic_source=rss
+
+### Tekst na rolkę
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
+
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
+
+### Tekst pod post
+Why is the price of gold trending down?
+
+Gold has been under pressure since the US and Israel launched a war against Iran in late February.
+
+Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
+
+Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
+
+### Hook follow
+Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
+
+### Hashtagi
+#wojna #ropa #paliwo #gospodarka #geopolityka
+
+---
+
+## 2. ŚWIAT WCHODZI W CHAOS?
 **Score:** 18
 **Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
 **Tytuł źródła:** Why the economics make this the craziest World Cup ever
@@ -31,42 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Trump says Iran deal to be signed tomorrow, contradicting Iranian official
-**Link:** https://www.aljazeera.com/news/2026/6/13/trump-says-iran-deal-to-be-signed-tomorrow-contradicting-iranian-official?traffic_source=rss
-
-### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
-
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
-
-### Tekst pod post
-Trump says Iran deal to be signed tomorrow, contradicting Iranian official
-
-Both sides have indicated a deal to end the war is close, but have diverged on details and timeline for a breakthrough.
-
-Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
-
-Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
-
-### Hook follow
-Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
-
-### Hashtagi
-#wojna #ropa #paliwo #gospodarka #geopolityka
-
----
-
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Iranians divided on peace prospects after US-Iran say a deal is near
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/6/13/iranians-divided-on-peace-prospects-after-us-iran-say-a-deal-is-near?traffic_source=rss
+**Score:** 11
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** Iran war day 107: Washington, Tehran close to signing first stage of deal
+**Link:** https://www.aljazeera.com/news/2026/6/14/iran-war-day-107-washington-tehran-close-to-signing-first-stage-of-deal?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iranians divided on peace prospects after US-Iran say a deal is near
+Iran war day 107: Washington, Tehran close to signing first stage of deal
 
-Iranians gave mixed reactions as Iran and the US said they were close to an interim agreement to end the war.
+Trump says a deal to stop the Iran war could be signed as early as Sunday, but Tehran downplays his optimism.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
