@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-06-15 20:49)
+# Fabian Talks — top tematy (2026-06-16 10:59)
 
 ## 1. ORMUZ ZAPŁONIE?
-**Score:** 30
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Bowen: Iran deal ends Trump's war that revealed limit of US dominance
-**Link:** https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss
+**Score:** 22
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** G7 leaders meet in France with Iran and Ukraine high on agenda
+**Link:** https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda?traffic_source=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -16,9 +16,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-Bowen: Iran deal ends Trump's war that revealed limit of US dominance
+G7 leaders meet in France with Iran and Ukraine high on agenda
 
-The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead.
+French President Emmanuel Macron said Tuesday’s lunch summit would focus on reopening the Strait of Hormuz.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -33,10 +33,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 16
+**Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Netanyahu says Israel won’t leave occupied land in Lebanon
-**Link:** https://www.aljazeera.com/news/2026/6/15/netanyahu-says-israel-wont-leave-occupied-land-in-lebanon?traffic_source=rss
+**Tytuł źródła:** Iran war day 109: Tehran, Washington, sign MoU electronically
+**Link:** https://www.aljazeera.com/news/2026/6/16/iran-war-day-109-tehran-washington-sign-mou-electronically?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Netanyahu says Israel won’t leave occupied land in Lebanon
+Iran war day 109: Tehran, Washington, sign MoU electronically
 
-Israel&#039;s occupation of territory in Lebanon and Syria will continue, PM Netanyahu said, despite US deal with Iran.
+Iran’s National Security Council said on Monday that the deal ends fighting on all fronts, including in Lebanon.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,11 +63,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 12
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** EU fails to agree on sanctions for far-right Israeli minister Ben-Gvir
-**Link:** https://www.aljazeera.com/news/2026/6/15/eu-fails-to-agree-on-sanctions-for-far-right-israeli-minister-ben-gvir?traffic_source=rss
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 13
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** A year on, six questions still haunt the Air India crash investigation
+**Link:** https://www.bbc.com/news/articles/c6214prydklo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-EU fails to agree on sanctions for far-right Israeli minister Ben-Gvir
+A year on, six questions still haunt the Air India crash investigation
 
-EU diplomacy chief Kaja Kallas confirms EU remains divided on sanctioning Israel
+From fuel switches to engine failures, here are the biggest mysteries around the Air India crash inquiry.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
