@@ -1,24 +1,23 @@
-# Fabian Talks — top tematy (2026-06-16 10:59)
+# Fabian Talks — top tematy (2026-06-16 20:43)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 22
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** G7 leaders meet in France with Iran and Ukraine high on agenda
-**Link:** https://www.aljazeera.com/news/2026/6/16/g7-leaders-meet-in-france-with-iran-and-ukraine-high-on-agenda?traffic_source=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 20
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Israel went to war with Iran, but Netanyahu may be the loser
+**Link:** https://www.aljazeera.com/news/2026/6/16/israel-went-to-war-with-iran-netanyahu-may-be-loser?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-G7 leaders meet in France with Iran and Ukraine high on agenda
+Israel went to war with Iran, but Netanyahu may be the loser
 
-French President Emmanuel Macron said Tuesday’s lunch summit would focus on reopening the Strait of Hormuz.
+Critics say PM Benjamin Netanyahu&#039;s Iran war strengthened Tehran, strained US ties, and left Israel weaker.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -33,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Iran war day 109: Tehran, Washington, sign MoU electronically
-**Link:** https://www.aljazeera.com/news/2026/6/16/iran-war-day-109-tehran-washington-sign-mou-electronically?traffic_source=rss
+**Score:** 18
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** What has Iran won and lost from this war?
+**Link:** https://www.aljazeera.com/video/inside-story/2026/6/16/what-has-iran-won-and-lost-from-this-war?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war day 109: Tehran, Washington, sign MoU electronically
+What has Iran won and lost from this war?
 
-Iran’s National Security Council said on Monday that the deal ends fighting on all fronts, including in Lebanon.
+Iran&#039;s relationship with its Gulf neighbours, which it attacked during the war, has been damaged.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. CENY PÓJDĄ W GÓRĘ?
-**Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** A year on, six questions still haunt the Air India crash investigation
-**Link:** https://www.bbc.com/news/articles/c6214prydklo?at_medium=RSS&at_campaign=rss
+**Score:** 17
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Cuba tourism collapses as US pressure campaign bites
+**Link:** https://www.bbc.com/news/articles/ckg8zrm20jjo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-A year on, six questions still haunt the Air India crash investigation
+Cuba tourism collapses as US pressure campaign bites
 
-From fuel switches to engine failures, here are the biggest mysteries around the Air India crash inquiry.
+The number of foreign visitors is down by 58% compared to last year, Cuban officials say, amid sanctions and an effective oil blockade.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
