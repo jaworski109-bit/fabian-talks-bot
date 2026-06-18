@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-06-18 10:11)
+# Fabian Talks — top tematy (2026-06-18 20:14)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 29
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Iran sends tankers loaded with oil past US military blockade
-**Link:** https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 18
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** JD Vance tells Israel ‘you can’t kill your way out’ of security problems
+**Link:** https://www.aljazeera.com/news/2026/6/18/jd-vance-tells-israel-you-cant-kill-your-way-out-of-security-problems?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran sends tankers loaded with oil past US military blockade
+JD Vance tells Israel ‘you can’t kill your way out’ of security problems
 
-Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.
+US vice president defends Iran war MoU, framing war as victory for Washington regardless of negotiation outcome.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,42 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 27
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, mocny trigger portfel/paliwo
-**Tytuł źródła:** Oil prices fall, stocks rally as US, Iran sign framework to end war
-**Link:** https://www.aljazeera.com/economy/2026/6/18/oil-prices-fall-stocks-rally-as-us-iran-sign-framework-to-end-war?traffic_source=rss
-
-### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
-
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
-
-### Tekst pod post
-Oil prices fall, stocks rally as US, Iran sign framework to end war
-
-Brent crude drops 2.3 percent, while key stock indices in Japan, South Korea and Taiwan climb.
-
-Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
-
-Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
-
-### Hook follow
-Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
-
-### Hashtagi
-#wojna #ropa #paliwo #gospodarka #geopolityka
-
----
-
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 16
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Iran war day 111: Tehran warns US as 14-point plan takes effect
-**Link:** https://www.aljazeera.com/news/2026/6/18/iran-war-day-111-tehran-warns-us-as-14-point-plan-takes-effect?traffic_source=rss
+**Tytuł źródła:** US vice president slams Israel over criticism of Trump’s Iran deal
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/6/18/us-vice-president-slams-israel-over-criticism-of-trumps-iran-deal?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +46,40 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war day 111: Tehran warns US as 14-point plan takes effect
+US vice president slams Israel over criticism of Trump’s Iran deal
 
-Iran and the US say a deal to end the conflict is in force, but questions remain over its implementation.
+JD Vance slammed members of Israel’s government for criticising US President Donald Trump over his Iran deal efforts.
+
+Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
+
+Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
+
+### Hook follow
+Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
+
+### Hashtagi
+#wojna #ropa #paliwo #gospodarka #geopolityka
+
+---
+
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 15
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, mocny trigger portfel/paliwo
+**Tytuł źródła:** Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery
+**Link:** https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss
+
+### Tekst na rolkę
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
+
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
+
+### Tekst pod post
+Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery
+
+A refinery and a shopping centre burned after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
