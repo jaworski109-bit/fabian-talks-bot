@@ -1,29 +1,23 @@
-# Fabian Talks — top tematy (2026-06-19 10:16)
+# Fabian Talks — top tematy (2026-06-19 19:40)
 
-## 1. PALIWO WYSTRZELI?
-**Score:** 31
-**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz, mocny trigger portfel/paliwo
-**Tytuł źródła:** Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow
-**Link:** https://www.aljazeera.com/economy/2026/6/19/oil-prices-rise-as-lebanon-fighting-erupts-and-hormuz-traffic-still-slow?traffic_source=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 20
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow
+**Link:** https://www.aljazeera.com/news/2026/6/19/petrol-shortages-and-oil-rain-bring-russia-ukraine-war-home-to-moscow?traffic_source=rss
 
 ### Tekst na rolkę
-USA i Iran znowu grają Ormuzem.
-👉 Przez tę cieśninę idzie ogromna część światowej ropy.
-👉 Jedna decyzja… i ceny mogą ruszyć w górę.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest daleki konflikt.
-
-👉 To jest Twoja stacja paliw.
-👉 Twój rachunek.
-👉 Twój portfel.
-
-Pytanie nie brzmi czy.
-Pytanie brzmi — kiedy to poczujesz.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow
+Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow
 
-Brent crude reverses slide after oil, LNG tankers cross critical waterway.
+Ukraine increases strikes on Russian oil and weapons infrastructure as it garners aid and begins EU talks.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -40,8 +34,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 2. ŚWIAT WCHODZI W CHAOS?
 **Score:** 20
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Behind the noise of an ‘Iran deal’, Palestine continues to burn
-**Link:** https://www.aljazeera.com/opinions/2026/6/19/behind-the-noise-of-an-iran-deal-palestine-continues-to-burn?traffic_source=rss
+**Tytuł źródła:** Trump’s Iran deal: A victory lap before the victory
+**Link:** https://www.aljazeera.com/opinions/2026/6/19/trumps-iran-deal-a-victory-lap-before-the-victory?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -52,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Behind the noise of an ‘Iran deal’, Palestine continues to burn
+Trump’s Iran deal: A victory lap before the victory
 
-Israel&#039;s war on the Palestinians never stopped; the world just stopped watching.
+The MOU may pause the war, but it leaves Israel exposed while giving Iran relief before real verification.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -69,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 15
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Iran war day 112: Vance defends Tehran ‘deal’ but Switzerland trips are off
-**Link:** https://www.aljazeera.com/news/2026/6/19/iran-war-day-112-vance-defends-tehran-deal-but-switzerland-trips-are-off?traffic_source=rss
+**Score:** 20
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported
+**Link:** https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -83,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war day 112: Vance defends Tehran ‘deal’ but Switzerland trips are off
+Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported
 
-Vance backs US-Iran deal as Washington ends blockade and Iran hails wartime gains.
+The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 

@@ -1,20 +1,21 @@
 {
-  "generated_at": "2026-06-19T10:16:59.895107",
+  "generated_at": "2026-06-19T19:40:08.795814",
   "topics": [
     {
-      "title": "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow",
-      "summary": "Brent crude reverses slide after oil, LNG tankers cross critical waterway.",
-      "link": "https://www.aljazeera.com/economy/2026/6/19/oil-prices-rise-as-lebanon-fighting-erupts-and-hormuz-traffic-still-slow?traffic_source=rss",
-      "score": 31,
+      "title": "Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow",
+      "summary": "Ukraine increases strikes on Russian oil and weapons infrastructure as it garners aid and begins EU talks.",
+      "link": "https://www.aljazeera.com/news/2026/6/19/petrol-shortages-and-oil-rain-bring-russia-ukraine-war-home-to-moscow?traffic_source=rss",
+      "score": 20,
       "reasons": [
+        "konflikt/eskalacja",
         "wpływ na ceny/handel",
+        "duże państwa/geopolityka",
         "czytelny tytuł",
-        "silny trigger Ormuz",
         "mocny trigger portfel/paliwo"
       ],
-      "thumbnail": "PALIWO WYSTRZELI?",
-      "reel_text": "USA i Iran znowu grają Ormuzem.\n👉 Przez tę cieśninę idzie ogromna część światowej ropy.\n👉 Jedna decyzja… i ceny mogą ruszyć w górę.\n\nTo nie jest daleki konflikt.\n\n👉 To jest Twoja stacja paliw.\n👉 Twój rachunek.\n👉 Twój portfel.\n\nPytanie nie brzmi czy.\nPytanie brzmi — kiedy to poczujesz.",
-      "post_text": "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow\n\nBrent crude reverses slide after oil, LNG tankers cross critical waterway.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
+      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
+      "post_text": "Petrol shortages and ‘oil rain’ bring Russia-Ukraine war home to Moscow\n\nUkraine increases strikes on Russian oil and weapons infrastructure as it garners aid and begins EU talks.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -25,9 +26,9 @@
       ]
     },
     {
-      "title": "Behind the noise of an ‘Iran deal’, Palestine continues to burn",
-      "summary": "Israel&#039;s war on the Palestinians never stopped; the world just stopped watching.",
-      "link": "https://www.aljazeera.com/opinions/2026/6/19/behind-the-noise-of-an-iran-deal-palestine-continues-to-burn?traffic_source=rss",
+      "title": "Trump’s Iran deal: A victory lap before the victory",
+      "summary": "The MOU may pause the war, but it leaves Israel exposed while giving Iran relief before real verification.",
+      "link": "https://www.aljazeera.com/opinions/2026/6/19/trumps-iran-deal-a-victory-lap-before-the-victory?traffic_source=rss",
       "score": 20,
       "reasons": [
         "konflikt/eskalacja",
@@ -36,7 +37,7 @@
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Behind the noise of an ‘Iran deal’, Palestine continues to burn\n\nIsrael&#039;s war on the Palestinians never stopped; the world just stopped watching.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Trump’s Iran deal: A victory lap before the victory\n\nThe MOU may pause the war, but it leaves Israel exposed while giving Iran relief before real verification.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -47,17 +48,18 @@
       ]
     },
     {
-      "title": "Iran war day 112: Vance defends Tehran ‘deal’ but Switzerland trips are off",
-      "summary": "Vance backs US-Iran deal as Washington ends blockade and Iran hails wartime gains.",
-      "link": "https://www.aljazeera.com/news/2026/6/19/iran-war-day-112-vance-defends-tehran-deal-but-switzerland-trips-are-off?traffic_source=rss",
-      "score": 15,
+      "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+      "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
+      "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+      "score": 20,
       "reasons": [
         "konflikt/eskalacja",
-        "duże państwa/geopolityka"
+        "duże państwa/geopolityka",
+        "czytelny tytuł"
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Iran war day 112: Vance defends Tehran ‘deal’ but Switzerland trips are off\n\nVance backs US-Iran deal as Washington ends blockade and Iran hails wartime gains.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported\n\nThe agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
