@@ -1,23 +1,29 @@
-# Fabian Talks — top tematy (2026-06-18 20:14)
+# Fabian Talks — top tematy (2026-06-19 10:16)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 18
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** JD Vance tells Israel ‘you can’t kill your way out’ of security problems
-**Link:** https://www.aljazeera.com/news/2026/6/18/jd-vance-tells-israel-you-cant-kill-your-way-out-of-security-problems?traffic_source=rss
+## 1. PALIWO WYSTRZELI?
+**Score:** 31
+**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz, mocny trigger portfel/paliwo
+**Tytuł źródła:** Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow
+**Link:** https://www.aljazeera.com/economy/2026/6/19/oil-prices-rise-as-lebanon-fighting-erupts-and-hormuz-traffic-still-slow?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+USA i Iran znowu grają Ormuzem.
+👉 Przez tę cieśninę idzie ogromna część światowej ropy.
+👉 Jedna decyzja… i ceny mogą ruszyć w górę.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest daleki konflikt.
+
+👉 To jest Twoja stacja paliw.
+👉 Twój rachunek.
+👉 Twój portfel.
+
+Pytanie nie brzmi czy.
+Pytanie brzmi — kiedy to poczujesz.
 
 ### Tekst pod post
-JD Vance tells Israel ‘you can’t kill your way out’ of security problems
+Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow
 
-US vice president defends Iran war MoU, framing war as victory for Washington regardless of negotiation outcome.
+Brent crude reverses slide after oil, LNG tankers cross critical waterway.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +38,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 16
+**Score:** 20
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** US vice president slams Israel over criticism of Trump’s Iran deal
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/6/18/us-vice-president-slams-israel-over-criticism-of-trumps-iran-deal?traffic_source=rss
+**Tytuł źródła:** Behind the noise of an ‘Iran deal’, Palestine continues to burn
+**Link:** https://www.aljazeera.com/opinions/2026/6/19/behind-the-noise-of-an-iran-deal-palestine-continues-to-burn?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +52,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US vice president slams Israel over criticism of Trump’s Iran deal
+Behind the noise of an ‘Iran deal’, Palestine continues to burn
 
-JD Vance slammed members of Israel’s government for criticising US President Donald Trump over his Iran deal efforts.
+Israel&#039;s war on the Palestinians never stopped; the world just stopped watching.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +68,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. CENY PÓJDĄ W GÓRĘ?
+## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 15
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, mocny trigger portfel/paliwo
-**Tytuł źródła:** Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery
-**Link:** https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** Iran war day 112: Vance defends Tehran ‘deal’ but Switzerland trips are off
+**Link:** https://www.aljazeera.com/news/2026/6/19/iran-war-day-112-vance-defends-tehran-deal-but-switzerland-trips-are-off?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +83,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery
+Iran war day 112: Vance defends Tehran ‘deal’ but Switzerland trips are off
 
-A refinery and a shopping centre burned after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.
+Vance backs US-Iran deal as Washington ends blockade and Iran hails wartime gains.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 

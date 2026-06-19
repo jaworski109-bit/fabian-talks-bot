@@ -1,18 +1,20 @@
 {
-  "generated_at": "2026-06-18T20:14:36.939062",
+  "generated_at": "2026-06-19T10:16:59.895107",
   "topics": [
     {
-      "title": "JD Vance tells Israel ‘you can’t kill your way out’ of security problems",
-      "summary": "US vice president defends Iran war MoU, framing war as victory for Washington regardless of negotiation outcome.",
-      "link": "https://www.aljazeera.com/news/2026/6/18/jd-vance-tells-israel-you-cant-kill-your-way-out-of-security-problems?traffic_source=rss",
-      "score": 18,
+      "title": "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow",
+      "summary": "Brent crude reverses slide after oil, LNG tankers cross critical waterway.",
+      "link": "https://www.aljazeera.com/economy/2026/6/19/oil-prices-rise-as-lebanon-fighting-erupts-and-hormuz-traffic-still-slow?traffic_source=rss",
+      "score": 31,
       "reasons": [
-        "konflikt/eskalacja",
-        "duże państwa/geopolityka"
+        "wpływ na ceny/handel",
+        "czytelny tytuł",
+        "silny trigger Ormuz",
+        "mocny trigger portfel/paliwo"
       ],
-      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "JD Vance tells Israel ‘you can’t kill your way out’ of security problems\n\nUS vice president defends Iran war MoU, framing war as victory for Washington regardless of negotiation outcome.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "thumbnail": "PALIWO WYSTRZELI?",
+      "reel_text": "USA i Iran znowu grają Ormuzem.\n👉 Przez tę cieśninę idzie ogromna część światowej ropy.\n👉 Jedna decyzja… i ceny mogą ruszyć w górę.\n\nTo nie jest daleki konflikt.\n\n👉 To jest Twoja stacja paliw.\n👉 Twój rachunek.\n👉 Twój portfel.\n\nPytanie nie brzmi czy.\nPytanie brzmi — kiedy to poczujesz.",
+      "post_text": "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow\n\nBrent crude reverses slide after oil, LNG tankers cross critical waterway.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -23,10 +25,10 @@
       ]
     },
     {
-      "title": "US vice president slams Israel over criticism of Trump’s Iran deal",
-      "summary": "JD Vance slammed members of Israel’s government for criticising US President Donald Trump over his Iran deal efforts.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-vice-president-slams-israel-over-criticism-of-trumps-iran-deal?traffic_source=rss",
-      "score": 16,
+      "title": "Behind the noise of an ‘Iran deal’, Palestine continues to burn",
+      "summary": "Israel&#039;s war on the Palestinians never stopped; the world just stopped watching.",
+      "link": "https://www.aljazeera.com/opinions/2026/6/19/behind-the-noise-of-an-iran-deal-palestine-continues-to-burn?traffic_source=rss",
+      "score": 20,
       "reasons": [
         "konflikt/eskalacja",
         "duże państwa/geopolityka",
@@ -34,7 +36,7 @@
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "US vice president slams Israel over criticism of Trump’s Iran deal\n\nJD Vance slammed members of Israel’s government for criticising US President Donald Trump over his Iran deal efforts.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Behind the noise of an ‘Iran deal’, Palestine continues to burn\n\nIsrael&#039;s war on the Palestinians never stopped; the world just stopped watching.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -45,18 +47,17 @@
       ]
     },
     {
-      "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
-      "summary": "A refinery and a shopping centre burned after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.",
-      "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
+      "title": "Iran war day 112: Vance defends Tehran ‘deal’ but Switzerland trips are off",
+      "summary": "Vance backs US-Iran deal as Washington ends blockade and Iran hails wartime gains.",
+      "link": "https://www.aljazeera.com/news/2026/6/19/iran-war-day-112-vance-defends-tehran-deal-but-switzerland-trips-are-off?traffic_source=rss",
       "score": 15,
       "reasons": [
         "konflikt/eskalacja",
-        "wpływ na ceny/handel",
-        "mocny trigger portfel/paliwo"
+        "duże państwa/geopolityka"
       ],
-      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
+      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery\n\nA refinery and a shopping centre burned after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Iran war day 112: Vance defends Tehran ‘deal’ but Switzerland trips are off\n\nVance backs US-Iran deal as Washington ends blockade and Iran hails wartime gains.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
