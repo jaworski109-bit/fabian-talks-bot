@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-06-21 19:20)
+# Fabian Talks — top tematy (2026-06-22 11:40)
 
 ## 1. ORMUZ ZAPŁONIE?
 **Score:** 22
 **Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** US and Iran begin talks on initial peace deal in Switzerland
-**Link:** https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss
+**Tytuł źródła:** US, Iran agree on ‘roadmap’ towards final deal in Switzerland talks
+**Link:** https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks?traffic_source=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -16,9 +16,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-US and Iran begin talks on initial peace deal in Switzerland
+US, Iran agree on ‘roadmap’ towards final deal in Switzerland talks
 
-The face-to-face meeting follows ongoing fighting in Lebanon and Iran's claim to have shut the Strait of Hormuz.
+Technical talks to continue in the resort of Burgenstock after progress on issues of Strait of Hormuz and Lebanon.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,10 +64,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 16
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Iran, US, Israel: Memorandum of misunderstanding?
-**Link:** https://www.aljazeera.com/video/the-bottom-line/2026/6/21/iran-us-israel-memorandum-of-misunderstanding?traffic_source=rss
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Vance’s warning to Israel signals a new phase in US-Israeli relations
+**Link:** https://www.aljazeera.com/opinions/2026/6/22/vances-warning-to-israel-signals-a-new-phase-in-us-israeli-relations?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran, US, Israel: Memorandum of misunderstanding?
+Vance’s warning to Israel signals a new phase in US-Israeli relations
 
-Chances are slim for progress between Iran and the US, argues Drop Site News co-founder Jeremy Scahill.
+There won’t be a rupture, but there won’t be business as usual, either.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
