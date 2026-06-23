@@ -1,23 +1,24 @@
-# Fabian Talks — top tematy (2026-06-23 09:27)
+# Fabian Talks — top tematy (2026-06-23 19:52)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 24
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Iran war day 116: US eases Iran sanctions; Lebanon ceasefire holds
-**Link:** https://www.aljazeera.com/news/2026/6/23/iran-war-day-116-us-eases-iran-sanctions-lebanon-ceasefire-holds?traffic_source=rss
+## 1. ORMUZ ZAPŁONIE?
+**Score:** 26
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** Dozens of ships head through Strait of Hormuz after US-Iran deal
+**Link:** https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Iran war day 116: US eases Iran sanctions; Lebanon ceasefire holds
+Dozens of ships head through Strait of Hormuz after US-Iran deal
 
-US eases oil sanctions for 60 days after Iran agrees to allow international nuclear inspections.
+Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +33,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
+**Score:** 17
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Why Iran’s President Pezeshkian is heading to Pakistan after US talks
-**Link:** https://www.aljazeera.com/news/2026/6/23/why-irans-president-pezeshkian-is-heading-to-pakistan-after-us-iran-talks?traffic_source=rss
+**Tytuł źródła:** Missile strike kills three in Ukraine as Russia feels war’s economic strain
+**Link:** https://www.aljazeera.com/news/2026/6/23/missile-strike-kills-three-in-ukraine-as-russia-feels-wars-economic-strain?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Why Iran’s President Pezeshkian is heading to Pakistan after US talks
+Missile strike kills three in Ukraine as Russia feels war’s economic strain
 
-This is Pezeshkian&#039;s first overseas trip since Iran war began, and comes a day after the high-stakes Switzerland talks.
+Kyiv has previously accused Moscow of using cluster munitions, which, when dropped, scatter into smaller munitions.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +64,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Iran says technical talks with US in Switzerland conclude successfully
-**Link:** https://www.aljazeera.com/news/2026/6/23/iran-says-technical-talks-with-us-in-switzerland-conclude-successfully?traffic_source=rss
+**Score:** 7
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children
+**Link:** https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran says technical talks with US in Switzerland conclude successfully
+UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children
 
-Iran&#039;s top negotiator Mohammad Ghalibaf also says an agreement reached with the US to release $12bn in frozen assets.
+Israel rejects the new report by the three-member expert panel, calling it a "libellous sham".
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
