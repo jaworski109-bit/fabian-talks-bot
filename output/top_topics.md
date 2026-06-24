@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-06-23 19:52)
+# Fabian Talks — top tematy (2026-06-24 08:57)
 
 ## 1. ORMUZ ZAPŁONIE?
 **Score:** 26
@@ -32,24 +32,25 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Missile strike kills three in Ukraine as Russia feels war’s economic strain
-**Link:** https://www.aljazeera.com/news/2026/6/23/missile-strike-kills-three-in-ukraine-as-russia-feels-wars-economic-strain?traffic_source=rss
+## 2. ORMUZ ZAPŁONIE?
+**Score:** 24
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
+**Tytuł źródła:** Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers
+**Link:** https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Missile strike kills three in Ukraine as Russia feels war’s economic strain
+Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers
 
-Kyiv has previously accused Moscow of using cluster munitions, which, when dropped, scatter into smaller munitions.
+Iran and the US clash over nuclear inspections and Hormuz as negotiators push for a final deal within 60 days.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,24 +64,25 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 7
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children
-**Link:** https://www.bbc.co.uk/news/articles/c0jy96w6pw2o?at_medium=RSS&at_campaign=rss
+## 3. ORMUZ ZAPŁONIE?
+**Score:** 20
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
+**Tytuł źródła:** UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls
+**Link:** https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-UN commission of inquiry says Israel committing genocide in Gaza by deliberately targeting children
+UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls
 
-Israel rejects the new report by the three-member expert panel, calling it a "libellous sham".
+US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
