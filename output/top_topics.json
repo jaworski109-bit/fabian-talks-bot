@@ -1,20 +1,21 @@
 {
-  "generated_at": "2026-06-25T08:51:15.952648",
+  "generated_at": "2026-06-25T19:49:27.046001",
   "topics": [
     {
-      "title": "Iran war day 118: IRGC rejects new Hormuz route; Rubio to meet GCC leaders",
-      "summary": "Iran&#039;s Revolutionary Guard warns against alternative route in Strait of Hormuz as top US diplomat to meet Gulf leaders.",
-      "link": "https://www.aljazeera.com/news/2026/6/25/iran-war-day-118-irgc-rejects-new-hormuz-route-rubio-to-meet-gcc-leaders?traffic_source=rss",
-      "score": 29,
+      "title": "Oil price falls back to pre-Iran war levels",
+      "summary": "Signs that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.",
+      "link": "https://www.bbc.co.uk/news/articles/c0jy7d7wzv4o?at_medium=RSS&at_campaign=rss",
+      "score": 35,
       "reasons": [
         "konflikt/eskalacja",
         "wpływ na ceny/handel",
-        "duże państwa/geopolityka",
-        "silny trigger Ormuz"
+        "czytelny tytuł",
+        "silny trigger Ormuz",
+        "mocny trigger portfel/paliwo"
       ],
-      "thumbnail": "ORMUZ ZAPŁONIE?",
-      "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
-      "post_text": "Iran war day 118: IRGC rejects new Hormuz route; Rubio to meet GCC leaders\n\nIran&#039;s Revolutionary Guard warns against alternative route in Strait of Hormuz as top US diplomat to meet Gulf leaders.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "thumbnail": "PALIWO WYSTRZELI?",
+      "reel_text": "USA i Iran znowu grają Ormuzem.\n👉 Przez tę cieśninę idzie ogromna część światowej ropy.\n👉 Jedna decyzja… i ceny mogą ruszyć w górę.\n\nTo nie jest daleki konflikt.\n\n👉 To jest Twoja stacja paliw.\n👉 Twój rachunek.\n👉 Twój portfel.\n\nPytanie nie brzmi czy.\nPytanie brzmi — kiedy to poczujesz.",
+      "post_text": "Oil price falls back to pre-Iran war levels\n\nSigns that traffic through the key Strait of Hormuz shipping route is gradually resuming has helped to push the oil price down.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -25,39 +26,43 @@
       ]
     },
     {
-      "title": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs",
-      "summary": "But the budget faces an uphill battle, coming a day after lawmakers rebuked Trump's military action.",
-      "link": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
-      "score": 13,
+      "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
+      "summary": "Andreas Krieg said Iran possesses sufficient geographic and military leverage in the Strait of Hormuz.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_krieg_control-of-the-strait-of-hormuz-spoils-of-war-250626w?traffic_source=rss",
+      "score": 30,
       "reasons": [
         "konflikt/eskalacja",
+        "wpływ na ceny/handel",
+        "duże państwa/geopolityka",
+        "silny trigger Ormuz",
+        "mocny trigger portfel/paliwo"
+      ],
+      "thumbnail": "PALIWO WYSTRZELI?",
+      "reel_text": "USA i Iran znowu grają Ormuzem.\n👉 Przez tę cieśninę idzie ogromna część światowej ropy.\n👉 Jedna decyzja… i ceny mogą ruszyć w górę.\n\nTo nie jest daleki konflikt.\n\n👉 To jest Twoja stacja paliw.\n👉 Twój rachunek.\n👉 Twój portfel.\n\nPytanie nie brzmi czy.\nPytanie brzmi — kiedy to poczujesz.",
+      "post_text": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war\n\nAndreas Krieg said Iran possesses sufficient geographic and military leverage in the Strait of Hormuz.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
+      "hashtags": [
+        "#wojna",
+        "#ropa",
+        "#paliwo",
+        "#gospodarka",
+        "#geopolityka"
+      ]
+    },
+    {
+      "title": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal",
+      "summary": "A war meant to isolate Iran instead deepened Gulf pragmatism and strengthened support for diplomacy.",
+      "link": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss",
+      "score": 25,
+      "reasons": [
+        "konflikt/eskalacja",
+        "wpływ na ceny/handel",
         "duże państwa/geopolityka",
         "czytelny tytuł"
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs\n\nBut the budget faces an uphill battle, coming a day after lawmakers rebuked Trump's military action.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
-      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
-      "hashtags": [
-        "#wojna",
-        "#ropa",
-        "#paliwo",
-        "#gospodarka",
-        "#geopolityka"
-      ]
-    },
-    {
-      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-      "summary": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
-      "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-      "score": 11,
-      "reasons": [
-        "konflikt/eskalacja",
-        "duże państwa/geopolityka"
-      ],
-      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "UN nuclear chief says inspectors will visit Iran sites as part of war deal\n\nRafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal\n\nA war meant to isolate Iran instead deepened Gulf pragmatism and strengthened support for diplomacy.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
