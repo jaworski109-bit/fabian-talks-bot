@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-06-26 08:54)
+# Fabian Talks — top tematy (2026-06-26 19:39)
 
 ## 1. PALIWO WYSTRZELI?
 **Score:** 35
@@ -37,30 +37,25 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. PALIWO WYSTRZELI?
-**Score:** 33
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, silny trigger Ormuz, mocny trigger portfel/paliwo
-**Tytuł źródła:** Oil prices ease after spiking over halt to Strait of Hormuz evacuation plan
-**Link:** https://www.aljazeera.com/economy/2026/6/26/oil-prices-climb-after-attack-in-strait-of-hormuz-halts-evacuation-plan?traffic_source=rss
+## 2. ORMUZ ZAPŁONIE?
+**Score:** 26
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** Trump accuses Iran of ceasefire breach after Strait of Hormuz attack
+**Link:** https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
-USA i Iran znowu grają Ormuzem.
-👉 Przez tę cieśninę idzie ogromna część światowej ropy.
-👉 Jedna decyzja… i ceny mogą ruszyć w górę.
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-To nie jest daleki konflikt.
-
-👉 To jest Twoja stacja paliw.
-👉 Twój rachunek.
-👉 Twój portfel.
-
-Pytanie nie brzmi czy.
-Pytanie brzmi — kiedy to poczujesz.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Oil prices ease after spiking over halt to Strait of Hormuz evacuation plan
+Trump accuses Iran of ceasefire breach after Strait of Hormuz attack
 
-Brent crude subsides after attack in waterway prompted jump in prices.
+A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -74,24 +69,25 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 18
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran
-**Link:** https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran?traffic_source=rss
+## 3. ORMUZ ZAPŁONIE?
+**Score:** 20
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
+**Tytuł źródła:** Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?
+**Link:** https://www.aljazeera.com/news/2026/6/26/why-has-the-un-paused-plans-to-evacuate-sailors-from-the-strait-of-hormuz?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran
+Why has the UN paused plans to evacuate sailors from the Strait of Hormuz?
 
-Israeli and Lebanese delegations will continue their talks on Friday.
+A cargo vessel had been struck by a projectile near Oman, as Iran says all ships must pass with its permission.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
