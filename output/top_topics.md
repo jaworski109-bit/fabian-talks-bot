@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-06-25 19:49)
+# Fabian Talks — top tematy (2026-06-26 08:54)
 
 ## 1. PALIWO WYSTRZELI?
 **Score:** 35
@@ -38,10 +38,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. PALIWO WYSTRZELI?
-**Score:** 30
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz, mocny trigger portfel/paliwo
-**Tytuł źródła:** Krieg: For Iran control of the Strait of Hormuz is about the spoils of war
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_krieg_control-of-the-strait-of-hormuz-spoils-of-war-250626w?traffic_source=rss
+**Score:** 33
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, silny trigger Ormuz, mocny trigger portfel/paliwo
+**Tytuł źródła:** Oil prices ease after spiking over halt to Strait of Hormuz evacuation plan
+**Link:** https://www.aljazeera.com/economy/2026/6/26/oil-prices-climb-after-attack-in-strait-of-hormuz-halts-evacuation-plan?traffic_source=rss
 
 ### Tekst na rolkę
 USA i Iran znowu grają Ormuzem.
@@ -58,9 +58,9 @@ Pytanie nie brzmi czy.
 Pytanie brzmi — kiedy to poczujesz.
 
 ### Tekst pod post
-Krieg: For Iran control of the Strait of Hormuz is about the spoils of war
+Oil prices ease after spiking over halt to Strait of Hormuz evacuation plan
 
-Andreas Krieg said Iran possesses sufficient geographic and military leverage in the Strait of Hormuz.
+Brent crude subsides after attack in waterway prompted jump in prices.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -75,10 +75,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 25
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal
-**Link:** https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss
+**Score:** 18
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran
+**Link:** https://www.aljazeera.com/news/2026/6/26/iran-war-day-119-israel-hits-lebanon-as-iaea-says-it-will-return-to-iran?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -89,9 +89,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal
+Iran war day 119: Israel hits Lebanon as IAEA says it will return to Iran
 
-A war meant to isolate Iran instead deepened Gulf pragmatism and strengthened support for diplomacy.
+Israeli and Lebanese delegations will continue their talks on Friday.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
