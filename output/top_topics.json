@@ -1,20 +1,21 @@
 {
-  "generated_at": "2026-06-29T10:29:26.041574",
+  "generated_at": "2026-06-29T19:48:02.677879",
   "topics": [
     {
-      "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
-      "summary": "Brent crude edges up as tit-for-tat strikes hinder return to normality in key waterway.",
-      "link": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss",
-      "score": 31,
+      "title": "US petrol prices ease despite ongoing uncertainties with Iran",
+      "summary": "US–Iran peace talks ease market volatility, but uncertainty keeps oil prices hovering, complicating recovery efforts.",
+      "link": "https://www.aljazeera.com/economy/2026/6/29/us-petrol-prices-ease-despite-ongoing-uncertainties-with-iran?traffic_source=rss",
+      "score": 30,
       "reasons": [
+        "konflikt/eskalacja",
         "wpływ na ceny/handel",
+        "duże państwa/geopolityka",
         "czytelny tytuł",
-        "silny trigger Ormuz",
         "mocny trigger portfel/paliwo"
       ],
-      "thumbnail": "PALIWO WYSTRZELI?",
-      "reel_text": "USA i Iran znowu grają Ormuzem.\n👉 Przez tę cieśninę idzie ogromna część światowej ropy.\n👉 Jedna decyzja… i ceny mogą ruszyć w górę.\n\nTo nie jest daleki konflikt.\n\n👉 To jest Twoja stacja paliw.\n👉 Twój rachunek.\n👉 Twój portfel.\n\nPytanie nie brzmi czy.\nPytanie brzmi — kiedy to poczujesz.",
-      "post_text": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening\n\nBrent crude edges up as tit-for-tat strikes hinder return to normality in key waterway.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
+      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
+      "post_text": "US petrol prices ease despite ongoing uncertainties with Iran\n\nUS–Iran peace talks ease market volatility, but uncertainty keeps oil prices hovering, complicating recovery efforts.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -25,9 +26,31 @@
       ]
     },
     {
-      "title": "Fourteen killed in Saudi Arabia helicopter crash",
-      "summary": "The aircraft belonged to state oil giant Aramco and the cause of the crash is being investigated.",
-      "link": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
+      "title": "Gaza high school student’s fight for a future",
+      "summary": "Amid Israel’s genocidal war on Gaza that destroyed most schools, 18-year-old Dana Shabat sits her final exams online.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/29/gaza-high-school-students-fight-for-a-future?traffic_source=rss",
+      "score": 13,
+      "reasons": [
+        "konflikt/eskalacja",
+        "duże państwa/geopolityka",
+        "czytelny tytuł"
+      ],
+      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
+      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
+      "post_text": "Gaza high school student’s fight for a future\n\nAmid Israel’s genocidal war on Gaza that destroyed most schools, 18-year-old Dana Shabat sits her final exams online.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
+      "hashtags": [
+        "#wojna",
+        "#ropa",
+        "#paliwo",
+        "#gospodarka",
+        "#geopolityka"
+      ]
+    },
+    {
+      "title": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes",
+      "summary": "The Russian president acknowledged Ukraine's attacks were \"obviously creating problems\" but denied the shortages were \"critical\".",
+      "link": "https://www.bbc.co.uk/news/articles/clyw31zvpgmo?at_medium=RSS&at_campaign=rss",
       "score": 13,
       "reasons": [
         "wpływ na ceny/handel",
@@ -36,29 +59,7 @@
       ],
       "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Fourteen killed in Saudi Arabia helicopter crash\n\nThe aircraft belonged to state oil giant Aramco and the cause of the crash is being investigated.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
-      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
-      "hashtags": [
-        "#wojna",
-        "#ropa",
-        "#paliwo",
-        "#gospodarka",
-        "#geopolityka"
-      ]
-    },
-    {
-      "title": "Will Andy Burnham mark a shift in the UK’s Gaza policy?",
-      "summary": "The Labour Party has the chance to review its policy on Israel, but observers say it will opt for continuity.",
-      "link": "https://www.aljazeera.com/news/2026/6/29/will-andy-burnham-mark-a-shift-in-the-uks-gaza-policy?traffic_source=rss",
-      "score": 9,
-      "reasons": [
-        "konflikt/eskalacja",
-        "duże państwa/geopolityka",
-        "czytelny tytuł"
-      ],
-      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Will Andy Burnham mark a shift in the UK’s Gaza policy?\n\nThe Labour Party has the chance to review its policy on Israel, but observers say it will opt for continuity.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Putin makes rare admission of fuel shortages caused by Ukrainian strikes\n\nThe Russian president acknowledged Ukraine's attacks were \"obviously creating problems\" but denied the shortages were \"critical\".\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
