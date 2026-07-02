@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-07-01 19:43)
+# Fabian Talks — top tematy (2026-07-02 08:45)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 16
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** What military capabilities does Iran possess as it negotiates with US?
-**Link:** https://www.aljazeera.com/news/2026/7/1/what-military-capabilities-does-iran-possess-as-it-negotiates-with-us?traffic_source=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 27
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, mocny trigger portfel/paliwo
+**Tytuł źródła:** Oil prices fall to levels not seen since start of US-Israel war on Iran
+**Link:** https://www.aljazeera.com/economy/2026/7/2/oil-prices-fall-to-levels-not-seen-since-start-of-us-israel-war-on-iran?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-What military capabilities does Iran possess as it negotiates with US?
+Oil prices fall to levels not seen since start of US-Israel war on Iran
 
-US and Israel claim extensive damage, Iran projects defiance, and satellite images show fast attempts at recovery.
+Brent falls below $71 a barrel amid reports of progress in talks to end the war permanently.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,24 +31,25 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Psychological toll mounts as Lebanese villages erased by Israel’s war
-**Link:** https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss
+## 2. ORMUZ ZAPŁONIE?
+**Score:** 23
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, pilność/tempo, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** Trump says record boats leaving Hormuz, calls communism ‘biggest threat’
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/7/2/trump-says-record-boats-leaving-hormuz-calls-communism-biggest-threat?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Psychological toll mounts as Lebanese villages erased by Israel’s war
+Trump says record boats leaving Hormuz, calls communism ‘biggest threat’
 
-Displaced Lebanese face a void as war annihilates the physical and emotional anchors of their past and identity.
+US President Donald Trump arrived in North Dakota aboard a train for the Roosevelt Presidential Library dedication.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +64,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. CENY PÓJDĄ W GÓRĘ?
-**Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Is Ukraine’s campaign of targeting Russian refineries working?
-**Link:** https://www.aljazeera.com/opinions/2026/7/1/is-ukraines-campaign-of-targeting-russian-refineries-working?traffic_source=rss
+**Score:** 16
+**Powody:** wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** ‘The crisis is deep’: The view from Russia as fuel shortages worsen
+**Link:** https://www.aljazeera.com/news/2026/7/2/the-crisis-is-deep-the-view-from-russia-as-fuel-shortages-worsen?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Is Ukraine’s campaign of targeting Russian refineries working?
+‘The crisis is deep’: The view from Russia as fuel shortages worsen
 
-Fuel shortages in the country are unlikely to force Putin into concessions for peace.
+Officials are rationing fuel as Ukrainian strikes on refineries imperil supply.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 

@@ -1,63 +1,67 @@
 {
-  "generated_at": "2026-07-01T19:43:47.909484",
+  "generated_at": "2026-07-02T08:45:30.333169",
   "topics": [
     {
-      "title": "What military capabilities does Iran possess as it negotiates with US?",
-      "summary": "US and Israel claim extensive damage, Iran projects defiance, and satellite images show fast attempts at recovery.",
-      "link": "https://www.aljazeera.com/news/2026/7/1/what-military-capabilities-does-iran-possess-as-it-negotiates-with-us?traffic_source=rss",
+      "title": "Oil prices fall to levels not seen since start of US-Israel war on Iran",
+      "summary": "Brent falls below $71 a barrel amid reports of progress in talks to end the war permanently.",
+      "link": "https://www.aljazeera.com/economy/2026/7/2/oil-prices-fall-to-levels-not-seen-since-start-of-us-israel-war-on-iran?traffic_source=rss",
+      "score": 27,
+      "reasons": [
+        "konflikt/eskalacja",
+        "wpływ na ceny/handel",
+        "duże państwa/geopolityka",
+        "mocny trigger portfel/paliwo"
+      ],
+      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
+      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
+      "post_text": "Oil prices fall to levels not seen since start of US-Israel war on Iran\n\nBrent falls below $71 a barrel amid reports of progress in talks to end the war permanently.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
+      "hashtags": [
+        "#wojna",
+        "#ropa",
+        "#paliwo",
+        "#gospodarka",
+        "#geopolityka"
+      ]
+    },
+    {
+      "title": "Trump says record boats leaving Hormuz, calls communism ‘biggest threat’",
+      "summary": "US President Donald Trump arrived in North Dakota aboard a train for the Roosevelt Presidential Library dedication.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/trump-says-record-boats-leaving-hormuz-calls-communism-biggest-threat?traffic_source=rss",
+      "score": 23,
+      "reasons": [
+        "konflikt/eskalacja",
+        "wpływ na ceny/handel",
+        "pilność/tempo",
+        "czytelny tytuł",
+        "silny trigger Ormuz"
+      ],
+      "thumbnail": "ORMUZ ZAPŁONIE?",
+      "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
+      "post_text": "Trump says record boats leaving Hormuz, calls communism ‘biggest threat’\n\nUS President Donald Trump arrived in North Dakota aboard a train for the Roosevelt Presidential Library dedication.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
+      "hashtags": [
+        "#wojna",
+        "#ropa",
+        "#paliwo",
+        "#gospodarka",
+        "#geopolityka"
+      ]
+    },
+    {
+      "title": "‘The crisis is deep’: The view from Russia as fuel shortages worsen",
+      "summary": "Officials are rationing fuel as Ukrainian strikes on refineries imperil supply.",
+      "link": "https://www.aljazeera.com/news/2026/7/2/the-crisis-is-deep-the-view-from-russia-as-fuel-shortages-worsen?traffic_source=rss",
       "score": 16,
       "reasons": [
-        "konflikt/eskalacja",
-        "duże państwa/geopolityka",
-        "czytelny tytuł"
-      ],
-      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "What military capabilities does Iran possess as it negotiates with US?\n\nUS and Israel claim extensive damage, Iran projects defiance, and satellite images show fast attempts at recovery.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
-      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
-      "hashtags": [
-        "#wojna",
-        "#ropa",
-        "#paliwo",
-        "#gospodarka",
-        "#geopolityka"
-      ]
-    },
-    {
-      "title": "Psychological toll mounts as Lebanese villages erased by Israel’s war",
-      "summary": "Displaced Lebanese face a void as war annihilates the physical and emotional anchors of their past and identity.",
-      "link": "https://www.aljazeera.com/news/2026/7/1/psychological-toll-mounts-as-lebanese-villages-erased-by-israels-war?traffic_source=rss",
-      "score": 13,
-      "reasons": [
-        "konflikt/eskalacja",
-        "duże państwa/geopolityka",
-        "czytelny tytuł"
-      ],
-      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Psychological toll mounts as Lebanese villages erased by Israel’s war\n\nDisplaced Lebanese face a void as war annihilates the physical and emotional anchors of their past and identity.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
-      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
-      "hashtags": [
-        "#wojna",
-        "#ropa",
-        "#paliwo",
-        "#gospodarka",
-        "#geopolityka"
-      ]
-    },
-    {
-      "title": "Is Ukraine’s campaign of targeting Russian refineries working?",
-      "summary": "Fuel shortages in the country are unlikely to force Putin into concessions for peace.",
-      "link": "https://www.aljazeera.com/opinions/2026/7/1/is-ukraines-campaign-of-targeting-russian-refineries-working?traffic_source=rss",
-      "score": 13,
-      "reasons": [
         "wpływ na ceny/handel",
+        "duże państwa/geopolityka",
         "czytelny tytuł",
         "mocny trigger portfel/paliwo"
       ],
       "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Is Ukraine’s campaign of targeting Russian refineries working?\n\nFuel shortages in the country are unlikely to force Putin into concessions for peace.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "‘The crisis is deep’: The view from Russia as fuel shortages worsen\n\nOfficials are rationing fuel as Ukrainian strikes on refineries imperil supply.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
