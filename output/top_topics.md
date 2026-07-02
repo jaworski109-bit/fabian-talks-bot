@@ -1,23 +1,29 @@
-# Fabian Talks — top tematy (2026-07-02 08:45)
+# Fabian Talks — top tematy (2026-07-02 19:14)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 27
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, mocny trigger portfel/paliwo
-**Tytuł źródła:** Oil prices fall to levels not seen since start of US-Israel war on Iran
-**Link:** https://www.aljazeera.com/economy/2026/7/2/oil-prices-fall-to-levels-not-seen-since-start-of-us-israel-war-on-iran?traffic_source=rss
+## 1. PALIWO WYSTRZELI?
+**Score:** 31
+**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz, mocny trigger portfel/paliwo
+**Tytuł źródła:** Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?
+**Link:** https://www.aljazeera.com/news/2026/7/2/who-is-iranian-oil-tycoon-shamkhani-whose-ship-is-stranded-in-hormuz?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+USA i Iran znowu grają Ormuzem.
+👉 Przez tę cieśninę idzie ogromna część światowej ropy.
+👉 Jedna decyzja… i ceny mogą ruszyć w górę.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest daleki konflikt.
+
+👉 To jest Twoja stacja paliw.
+👉 Twój rachunek.
+👉 Twój portfel.
+
+Pytanie nie brzmi czy.
+Pytanie brzmi — kiedy to poczujesz.
 
 ### Tekst pod post
-Oil prices fall to levels not seen since start of US-Israel war on Iran
+Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?
 
-Brent falls below $71 a barrel amid reports of progress in talks to end the war permanently.
+Iranian oil shipping magnate Mohammad Hossein Shamkhani has been sanctioned by the West over his shadow fleet.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,25 +37,30 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ORMUZ ZAPŁONIE?
-**Score:** 23
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, pilność/tempo, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Trump says record boats leaving Hormuz, calls communism ‘biggest threat’
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/7/2/trump-says-record-boats-leaving-hormuz-calls-communism-biggest-threat?traffic_source=rss
+## 2. PALIWO WYSTRZELI?
+**Score:** 26
+**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz, mocny trigger portfel/paliwo
+**Tytuł źródła:** With Hormuz reopened, has the oil shortage turned into a glut?
+**Link:** https://www.aljazeera.com/news/2026/7/2/with-hormuz-reopened-has-the-oil-shortage-turned-into-a-glut?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+USA i Iran znowu grają Ormuzem.
+👉 Przez tę cieśninę idzie ogromna część światowej ropy.
+👉 Jedna decyzja… i ceny mogą ruszyć w górę.
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+To nie jest daleki konflikt.
+
+👉 To jest Twoja stacja paliw.
+👉 Twój rachunek.
+👉 Twój portfel.
+
+Pytanie nie brzmi czy.
+Pytanie brzmi — kiedy to poczujesz.
 
 ### Tekst pod post
-Trump says record boats leaving Hormuz, calls communism ‘biggest threat’
+With Hormuz reopened, has the oil shortage turned into a glut?
 
-US President Donald Trump arrived in North Dakota aboard a train for the Roosevelt Presidential Library dedication.
+As flow resumes through the strait, an oil surplus may yet again destabilise global energy markets.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,11 +74,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. CENY PÓJDĄ W GÓRĘ?
-**Score:** 16
-**Powody:** wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** ‘The crisis is deep’: The view from Russia as fuel shortages worsen
-**Link:** https://www.aljazeera.com/news/2026/7/2/the-crisis-is-deep-the-view-from-russia-as-fuel-shortages-worsen?traffic_source=rss
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 11
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł
+**Tytuł źródła:** How US-Iran war may push Gulf countries to ‘diversify’ security alliances
+**Link:** https://www.aljazeera.com/news/2026/7/2/how-us-iran-war-may-push-gulf-countries-to-diversify-security-alliances?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +89,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-‘The crisis is deep’: The view from Russia as fuel shortages worsen
+How US-Iran war may push Gulf countries to ‘diversify’ security alliances
 
-Officials are rationing fuel as Ukrainian strikes on refineries imperil supply.
+Despite Iranian attacks, several GCC states continue to speak with Tehran in effort to mend ties and forge cooperation.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
