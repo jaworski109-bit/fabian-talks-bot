@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-07-05 19:05)
+# Fabian Talks — top tematy (2026-07-06 10:03)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Iran's supreme leader absent as senior officials attend ayatollah's funeral
-**Link:** https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 16
+**Powody:** wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** OPEC+ countries say they will expand monthly oil production
+**Link:** https://www.aljazeera.com/economy/2026/7/6/opec-countries-say-they-will-expand-monthly-oil-production?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran's supreme leader absent as senior officials attend ayatollah's funeral
+OPEC+ countries say they will expand monthly oil production
 
-Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.
+Seven OPEC+ members, including Saudi Arabia and Russia, to increase output by 188,000 barrels per day.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 17
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Ukraine hits major oil terminal in Russia's St Petersburg
-**Link:** https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 14
+**Powody:** konflikt/eskalacja, czytelny tytuł
+**Tytuł źródła:** Ukraine warns of interceptor missile shortage as 14 killed in Kyiv region
+**Link:** https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Ukraine hits major oil terminal in Russia's St Petersburg
+Ukraine warns of interceptor missile shortage as 14 killed in Kyiv region
 
-Ukrainian President Volodymyr Zelensky says the target is key infrastructure "that generates revenue for Russia's war".
+President Zelensky says Sunday's "massive Russian attack" on Kyiv consisted of 68 missiles and 351 strike drones.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -65,8 +65,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 9
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Palestinians rally outside Al-Shifa hospital, demanding medical evacuation
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-rally-outside-al-shifa-hospital-demanding-medical-evacuation?traffic_source=rss
+**Tytuł źródła:** China missile test draws criticism from Australia, New Zealand, Japan
+**Link:** https://www.aljazeera.com/news/2026/7/6/china-missile-test-draws-criticism-from-australia-new-zealand-japan?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Palestinians rally outside Al-Shifa hospital, demanding medical evacuation
+China missile test draws criticism from Australia, New Zealand, Japan
 
-Protest outside Al-Shifa Medical Complex demanding Israel lift travel restrictions on those leaving the Gaza Strip.
+Countries raise concerns after Chinese military test-launches ballistic missile from submarine in the Pacific Ocean.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
