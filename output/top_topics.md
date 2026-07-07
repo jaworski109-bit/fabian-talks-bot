@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-07-06 19:46)
+# Fabian Talks — top tematy (2026-07-07 09:29)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 15
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Khamenei family mourns, but Mojtaba’s absence fuels public insecurity
-**Link:** https://www.aljazeera.com/news/2026/7/6/khamenei-family-mourns-but-mojtabas-absence-fuels-public-insecurity?traffic_source=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 18
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** After Iran war upheaval, global shipping eyes return to status quo
+**Link:** https://www.aljazeera.com/economy/2026/7/7/after-iran-war-upheaval-global-shipping-eyes-return-to-status-quo?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Khamenei family mourns, but Mojtaba’s absence fuels public insecurity
+After Iran war upheaval, global shipping eyes return to status quo
 
-Many Tehran residents say the absence of Iran&#039;s new supreme leader makes them question their own security.
+Industry known for its resilience is likely to emerge from war relatively unchanged, analysts say.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,24 +31,25 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 14
-**Powody:** konflikt/eskalacja, czytelny tytuł
-**Tytuł źródła:** Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region
-**Link:** https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss
+## 2. ORMUZ ZAPŁONIE?
+**Score:** 17
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, silny trigger Ormuz
+**Tytuł źródła:** Tanker on fire in Strait of Hormuz after being hit by projectile off Oman
+**Link:** https://www.aljazeera.com/news/2026/7/7/tanker-on-fire-off-coast-of-oman-after-being-hit-by-projectile?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Ukraine warns of interceptor missile shortage as 23 killed in Kyiv region
+Tanker on fire in Strait of Hormuz after being hit by projectile off Oman
 
-President Zelensky says Sunday's "massive Russian attack" on Kyiv consisted of 68 missiles and 351 strike drones.
+Iranian television said the liquefied natural gas tanker came under attack after ignoring warnings.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,9 +65,9 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Ticket prices continue to fall for USA-Belgium World Cup last-16 clash
-**Link:** https://www.aljazeera.com/sports/2026/7/6/ticket-prices-continue-to-fall-for-usa-belgium-world-cup-last-16-clash?traffic_source=rss
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Palestine weekly: One thousand days of genocide in Gaza
+**Link:** https://www.aljazeera.com/news/2026/7/7/palestine-weekly-one-thousand-days-of-genocide-in-gaza?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Ticket prices continue to fall for USA-Belgium World Cup last-16 clash
+Palestine weekly: One thousand days of genocide in Gaza
 
-Get-in prices for the round of 16 football game at Seattle Stadium have fallen by 27 percent over the past three days.
+Gaza marks 1,000 days of Israel&#039;s genocidal war, with at least 1,072 killed since October &#039;ceasefire&#039;.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
