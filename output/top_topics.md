@@ -1,47 +1,10 @@
-# Fabian Talks — top tematy (2026-07-10 09:23)
+# Fabian Talks — top tematy (2026-07-10 19:18)
 
-## 1. PALIWO WYSTRZELI?
-**Score:** 24
-**Powody:** wpływ na ceny/handel, silny trigger Ormuz, mocny trigger portfel/paliwo
-**Tytuł źródła:** Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes
-**Link:** https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss
-
-### Tekst na rolkę
-USA i Iran znowu grają Ormuzem.
-👉 Przez tę cieśninę idzie ogromna część światowej ropy.
-👉 Jedna decyzja… i ceny mogą ruszyć w górę.
-
-To nie jest daleki konflikt.
-
-👉 To jest Twoja stacja paliw.
-👉 Twój rachunek.
-👉 Twój portfel.
-
-Pytanie nie brzmi czy.
-Pytanie brzmi — kiedy to poczujesz.
-
-### Tekst pod post
-Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes
-
-Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.
-
-Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
-
-Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
-
-### Hook follow
-Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
-
-### Hashtagi
-#wojna #ropa #paliwo #gospodarka #geopolityka
-
----
-
-## 2. ORMUZ ZAPŁONIE?
-**Score:** 22
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Strait of Hormuz traffic plunges as US, Iran resume fighting
-**Link:** https://www.aljazeera.com/economy/2026/7/10/strait-of-hormuz-shipping-grinds-to-halt-as-us-iran-resume-fighting?traffic_source=rss
+## 1. ORMUZ ZAPŁONIE?
+**Score:** 30
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** Trump hints at further Iran negotiations after exchange of fire over Hormuz
+**Link:** https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -53,9 +16,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-Strait of Hormuz traffic plunges as US, Iran resume fighting
+Trump hints at further Iran negotiations after exchange of fire over Hormuz
 
-Brent crude holds steady despite a plunge in traffic in the critical waterway.
+Iran has not responded to Trump&#039;s latest claim, which comes as new attacks threaten the full resumption of war.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -69,11 +32,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 21
-**Powody:** wpływ na ceny/handel, pilność/tempo, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Wealthy AI workers send San Francisco house prices soaring
-**Link:** https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss
+## 2. CENY PÓJDĄ W GÓRĘ?
+**Score:** 20
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Russian attacks kill four as Ukraine continues to target oil infrastructure
+**Link:** https://www.aljazeera.com/news/2026/7/10/russian-attacks-kill-four-as-ukraine-continues-to-target-oil-infrastructure?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -84,9 +47,40 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Wealthy AI workers send San Francisco house prices soaring
+Russian attacks kill four as Ukraine continues to target oil infrastructure
 
-The median cost of a home in the city is now $1.7m, a record high, according to the latest figures.
+Ukrainian official says Russia&#039;s attack on Kramatorsk kills four, including a teenager, and injures nine.
+
+Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
+
+Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
+
+### Hook follow
+Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
+
+### Hashtagi
+#wojna #ropa #paliwo #gospodarka #geopolityka
+
+---
+
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 17
+**Powody:** wpływ na ceny/handel, pilność/tempo, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies
+**Link:** https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss
+
+### Tekst na rolkę
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
+
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
+
+### Tekst pod post
+Ukraine strikes Russian ships near Crimea, escalating attacks on fuel supplies
+
+The attacks appear to be the latest phase of Ukraine's bid to choke off supplies and routes into and out of occupied Crimea.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
