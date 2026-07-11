@@ -1,34 +1,11 @@
 {
-  "generated_at": "2026-07-11T07:44:29.771021",
+  "generated_at": "2026-07-11T18:51:21.405561",
   "topics": [
     {
-      "title": "Cuba suffers second island-wide blackout in a week amid Trump fuel blockade",
-      "summary": "US President Donald Trump has placed the Caribbean island under a de facto oil blockade, straining its power grid.",
-      "link": "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss",
-      "score": 22,
-      "reasons": [
-        "konflikt/eskalacja",
-        "wpływ na ceny/handel",
-        "czytelny tytuł",
-        "mocny trigger portfel/paliwo"
-      ],
-      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Cuba suffers second island-wide blackout in a week amid Trump fuel blockade\n\nUS President Donald Trump has placed the Caribbean island under a de facto oil blockade, straining its power grid.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
-      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
-      "hashtags": [
-        "#wojna",
-        "#ropa",
-        "#paliwo",
-        "#gospodarka",
-        "#geopolityka"
-      ]
-    },
-    {
-      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
-      "summary": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
+      "title": "Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say",
+      "summary": "US media say Iran has told US officials an attack on ships crossing the strait early this week was \"a mistake\".",
       "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
-      "score": 20,
+      "score": 24,
       "reasons": [
         "konflikt/eskalacja",
         "wpływ na ceny/handel",
@@ -37,7 +14,7 @@
       ],
       "thumbnail": "ORMUZ ZAPŁONIE?",
       "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
-      "post_text": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz\n\nVice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say\n\nUS media say Iran has told US officials an attack on ships crossing the strait early this week was \"a mistake\".\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -48,10 +25,32 @@
       ]
     },
     {
-      "title": "Are the US and Iran at war again?",
-      "summary": "Iranian leaders say they’ll never surrender and US President Donald Trump says the ceasefire is ‘over&#039;.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss",
-      "score": 13,
+      "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
+      "summary": "Analysts say door to diplomacy still open despite exchange of attacks and threats.",
+      "link": "https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up?traffic_source=rss",
+      "score": 20,
+      "reasons": [
+        "wpływ na ceny/handel",
+        "czytelny tytuł",
+        "silny trigger Ormuz"
+      ],
+      "thumbnail": "ORMUZ ZAPŁONIE?",
+      "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
+      "post_text": "Hormuz shipping in focus as Iran-US rhetoric heats up\n\nAnalysts say door to diplomacy still open despite exchange of attacks and threats.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
+      "hashtags": [
+        "#wojna",
+        "#ropa",
+        "#paliwo",
+        "#gospodarka",
+        "#geopolityka"
+      ]
+    },
+    {
+      "title": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist",
+      "summary": "Gaza is suffering from an energy crisis, affecting hospitals struggling to treat patients amid Israeli bombing.",
+      "link": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
+      "score": 9,
       "reasons": [
         "konflikt/eskalacja",
         "duże państwa/geopolityka",
@@ -59,7 +58,7 @@
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Are the US and Iran at war again?\n\nIranian leaders say they’ll never surrender and US President Donald Trump says the ceasefire is ‘over&#039;.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist\n\nGaza is suffering from an energy crisis, affecting hospitals struggling to treat patients amid Israeli bombing.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
