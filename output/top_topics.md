@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-07-11 18:51)
+# Fabian Talks — top tematy (2026-07-12 08:05)
 
 ## 1. ORMUZ ZAPŁONIE?
-**Score:** 24
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
-**Tytuł źródła:** Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say
-**Link:** https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss
+**Score:** 26
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** US launches fresh strikes as Iran closes Strait of Hormuz
+**Link:** https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -16,9 +16,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-Iran must pledge to stop shooting at ships in Strait of Hormuz, US officials say
+US launches fresh strikes as Iran closes Strait of Hormuz
 
-US media say Iran has told US officials an attack on ships crossing the strait early this week was "a mistake".
+The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -33,10 +33,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ORMUZ ZAPŁONIE?
-**Score:** 20
-**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Hormuz shipping in focus as Iran-US rhetoric heats up
-**Link:** https://www.aljazeera.com/news/2026/7/11/hormuz-shipping-in-focus-as-iran-us-rhetoric-heats-up?traffic_source=rss
+**Score:** 22
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** US forces launch new strikes on Iran; Tehran closes Strait of Hormuz
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/7/12/us-forces-launch-new-strikes-on-iran-tehran-closes-strait-of-hormuz?traffic_source=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -48,9 +48,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-Hormuz shipping in focus as Iran-US rhetoric heats up
+US forces launch new strikes on Iran; Tehran closes Strait of Hormuz
 
-Analysts say door to diplomacy still open despite exchange of attacks and threats.
+US forces have launched a third round of strikes on Iran in a week.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -65,10 +65,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist
-**Link:** https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss
+**Score:** 18
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Iran launches attacks across the Gulf after more US strikes
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-launches-attacks-across-the-gulf-after-more-us-strikes?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -79,9 +79,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Power cuts plunge Gaza hospitals into darkness as Israel’s attacks persist
+Iran launches attacks across the Gulf after more US strikes
 
-Gaza is suffering from an energy crisis, affecting hospitals struggling to treat patients amid Israeli bombing.
+Iran says it launched missile attacks on US military sites in Bahrain, Kuwait, Jordan and Qatar.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
