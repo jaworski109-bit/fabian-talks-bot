@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-07-15 07:55)
+# Fabian Talks — top tematy (2026-07-15 19:00)
 
 ## 1. ORMUZ ZAPŁONIE?
 **Score:** 32
@@ -64,10 +64,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ORMUZ ZAPŁONIE?
-**Score:** 22
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal
-**Link:** https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss
+**Score:** 24
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
+**Tytuł źródła:** Who is calling the shots in Iran amid the deadly war with the US?
+**Link:** https://www.aljazeera.com/features/2026/7/15/who-is-calling-the-shots-in-iran-amid-the-deadly-war-with-the-us?traffic_source=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -79,9 +79,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal
+Who is calling the shots in Iran amid the deadly war with the US?
 
-Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.
+The IRGC has taken the lead in Iran, particularly over Hormuz - and the government says it&#039;s on the same page.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
