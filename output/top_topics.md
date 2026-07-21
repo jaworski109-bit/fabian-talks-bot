@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-07-20 19:29)
+# Fabian Talks — top tematy (2026-07-21 08:13)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
 **Score:** 32
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ORMUZ ZAPŁONIE?
-**Score:** 22
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Trump says US strikes hit Iran in 'honour' of American soldiers killed
-**Link:** https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss
+**Score:** 29
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
+**Tytuł źródła:** Iran war live: Tehran attacks Gulf states, Jordan; 2 Hormuz tankers on fire
+**Link:** https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -47,9 +47,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-Trump says US strikes hit Iran in 'honour' of American soldiers killed
+Iran war live: Tehran attacks Gulf states, Jordan; 2 Hormuz tankers on fire
 
-Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.
+IRGC says it targeted US assets in Bahrain, Kuwait and Jordan after 10th consecutive night of US attacks.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,24 +63,25 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
+## 3. ORMUZ ZAPŁONIE?
 **Score:** 20
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Petrol prices climb as US–Iran tensions disrupt markets
-**Link:** https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt?traffic_source=rss
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
+**Tytuł źródła:** US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers
+**Link:** https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Petrol prices climb as US–Iran tensions disrupt markets
+US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers
 
-US petrol prices reach $4.00 per gallon (3.78 litres), marking the second week of increased costs for consumers.
+Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 

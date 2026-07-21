@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T19:29:28.088184",
+  "generated_at": "2026-07-21T08:13:32.748076",
   "topics": [
     {
       "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
@@ -25,20 +25,19 @@
       ]
     },
     {
-      "title": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
-      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
-      "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
-      "score": 22,
+      "title": "Iran war live: Tehran attacks Gulf states, Jordan; 2 Hormuz tankers on fire",
+      "summary": "IRGC says it targeted US assets in Bahrain, Kuwait and Jordan after 10th consecutive night of US attacks.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
+      "score": 29,
       "reasons": [
         "konflikt/eskalacja",
         "wpływ na ceny/handel",
         "duże państwa/geopolityka",
-        "czytelny tytuł",
         "silny trigger Ormuz"
       ],
       "thumbnail": "ORMUZ ZAPŁONIE?",
       "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
-      "post_text": "Trump says US strikes hit Iran in 'honour' of American soldiers killed\n\nIran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Iran war live: Tehran attacks Gulf states, Jordan; 2 Hormuz tankers on fire\n\nIRGC says it targeted US assets in Bahrain, Kuwait and Jordan after 10th consecutive night of US attacks.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -49,20 +48,19 @@
       ]
     },
     {
-      "title": "Petrol prices climb as US–Iran tensions disrupt markets",
-      "summary": "US petrol prices reach $4.00 per gallon (3.78 litres), marking the second week of increased costs for consumers.",
-      "link": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt?traffic_source=rss",
+      "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
+      "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
+      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
       "score": 20,
       "reasons": [
         "konflikt/eskalacja",
         "wpływ na ceny/handel",
         "duże państwa/geopolityka",
-        "czytelny tytuł",
-        "mocny trigger portfel/paliwo"
+        "silny trigger Ormuz"
       ],
-      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Petrol prices climb as US–Iran tensions disrupt markets\n\nUS petrol prices reach $4.00 per gallon (3.78 litres), marking the second week of increased costs for consumers.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "thumbnail": "ORMUZ ZAPŁONIE?",
+      "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
+      "post_text": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers\n\nIran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
