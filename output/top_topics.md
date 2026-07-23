@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-07-23 08:18)
+# Fabian Talks — top tematy (2026-07-23 19:03)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
 **Score:** 22
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, mocny trigger portfel/paliwo
-**Tytuł źródła:** Houthis claim attack on oil tankers as US launches more strikes on Iran
-**Link:** https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Oil prices hit $100 for the first time since May
+**Link:** https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Houthis claim attack on oil tankers as US launches more strikes on Iran
+Oil prices hit $100 for the first time since May
 
-The Houthi attacks would be the first in the Red Sea since the Iran-backed group announced a "maritime embargo" against Saudi Arabia.
+The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 20
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** US House passes $1.15 trillion military bill expanding Israel cooperation
-**Link:** https://www.aljazeera.com/news/2026/7/23/us-house-passes-1-15-trillion-military-bill-expanding-israel-cooperation?traffic_source=rss
+## 2. CENY PÓJDĄ W GÓRĘ?
+**Score:** 16
+**Powody:** wpływ na ceny/handel, mocny trigger portfel/paliwo
+**Tytuł źródła:** Oil surges past $100 in a first since May as Middle East conflicts rage
+**Link:** https://www.aljazeera.com/news/2026/7/23/oil-surges-past-100-in-a-first-since-may-as-middle-east-conflicts-rage?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US House passes $1.15 trillion military bill expanding Israel cooperation
+Oil surges past $100 in a first since May as Middle East conflicts rage
 
-Bill to fund war on Iran and a handful of Trump priorities passes largely along party lines, faces Senate uncertainty.
+Oil prices rise for a fifth day after Yemen&#039;s Houthis say they struck Saudi Arabian oil tankers in the Red Sea.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. CENY PÓJDĄ W GÓRĘ?
+## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 15
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Israel building earthen barrier in Gaza to entrench division of the enclave
-**Link:** https://www.aljazeera.com/news/2026/7/23/israel-building-earthen-barrier-in-gaza-to-entrench-division-of-the-enclave?traffic_source=rss
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo
+**Tytuł źródła:** US House votes to limit Iran war for first time since ceasefire breakdown
+**Link:** https://www.aljazeera.com/news/2026/7/23/us-house-votes-to-limit-iran-war-for-first-time-since-ceasefire-breakdown?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Israel building earthen barrier in Gaza to entrench division of the enclave
+US House votes to limit Iran war for first time since ceasefire breakdown
 
-The construction of the barrier has fuelled Palestinian fears that most of Gaza will never be relinquished by Israel.
+Senate fails to pass latest War Powers resolution, in largely symbolic move attempting to reign in Trump.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
