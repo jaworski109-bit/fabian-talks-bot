@@ -1,24 +1,23 @@
-# Fabian Talks — top tematy (2026-07-24 19:15)
+# Fabian Talks — top tematy (2026-07-25 07:55)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 22
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Oman talking with Tehran on Hormuz as US and Iran continue strikes
-**Link:** https://www.aljazeera.com/news/2026/7/24/oman-talking-with-tehran-on-hormuz-as-us-and-iran-continue-strikes?traffic_source=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 16
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** World chess chief faces endgame after EU announces Russia war sanctions
+**Link:** https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Oman talking with Tehran on Hormuz as US and Iran continue strikes
+World chess chief faces endgame after EU announces Russia war sanctions
 
-Omani delegation in Iran to discuss managing traffic in the strait, which has become the main focus of the US conflict.
+Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 22
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Oil prices hit $100 for the first time since May
-**Link:** https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 14
+**Powody:** konflikt/eskalacja, czytelny tytuł
+**Tytuł źródła:** Iran-backed Houthis claim missile attack on Saudi Arabia
+**Link:** https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Oil prices hit $100 for the first time since May
+Iran-backed Houthis claim missile attack on Saudi Arabia
 
-The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.
+US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 21
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka
-**Tytuł źródła:** US and Iran trade more strikes in Gulf as fears of escalation mount
-**Link:** https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Born too soon: Premature babies fight for survival in Gaza
+**Link:** https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US and Iran trade more strikes in Gulf as fears of escalation mount
+Born too soon: Premature babies fight for survival in Gaza
 
-It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.
+Israel&#039;s genocidal war on Gaza is causing a surge in premature births and endangering mothers&#039; health.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
