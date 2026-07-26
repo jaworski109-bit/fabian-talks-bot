@@ -1,21 +1,19 @@
 {
-  "generated_at": "2026-07-25T18:57:22.820442",
+  "generated_at": "2026-07-26T08:13:41.401832",
   "topics": [
     {
-      "title": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
-      "summary": "Iran reports no new US strikes overnight into Saturday for the first time in two weeks.",
-      "link": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss",
-      "score": 22,
+      "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
+      "summary": "Conflict also spreads to Caspian Sea as Tehran accuses Ukraine of a deadly attack on an Iranian vessel.",
+      "link": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss",
+      "score": 19,
       "reasons": [
         "konflikt/eskalacja",
         "wpływ na ceny/handel",
-        "duże państwa/geopolityka",
-        "czytelny tytuł",
-        "silny trigger Ormuz"
+        "mocny trigger portfel/paliwo"
       ],
-      "thumbnail": "ORMUZ ZAPŁONIE?",
-      "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
-      "post_text": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks\n\nIran reports no new US strikes overnight into Saturday for the first time in two weeks.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
+      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
+      "post_text": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities\n\nConflict also spreads to Caspian Sea as Tehran accuses Ukraine of a deadly attack on an Iranian vessel.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -26,10 +24,10 @@
       ]
     },
     {
-      "title": "World chess chief faces endgame after EU announces Russia war sanctions",
-      "summary": "Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.",
-      "link": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
-      "score": 16,
+      "title": "US military disables tanker accused of breaking the Iran blockade",
+      "summary": "The US military has released footage it says shows forces boarding one tanker.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss",
+      "score": 17,
       "reasons": [
         "konflikt/eskalacja",
         "duże państwa/geopolityka",
@@ -38,7 +36,7 @@
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "World chess chief faces endgame after EU announces Russia war sanctions\n\nArkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "US military disables tanker accused of breaking the Iran blockade\n\nThe US military has released footage it says shows forces boarding one tanker.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -49,17 +47,18 @@
       ]
     },
     {
-      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
-      "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "score": 14,
+      "title": "Iran war live: Tehran slams Ukraine attack; West Bank unrest continues",
+      "summary": "Tehran says the Ukranian attack killed at least one sailor and wounded another.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
+      "score": 17,
       "reasons": [
         "konflikt/eskalacja",
+        "duże państwa/geopolityka",
         "czytelny tytuł"
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Iran-backed Houthis claim missile attack on Saudi Arabia\n\nUS military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Iran war live: Tehran slams Ukraine attack; West Bank unrest continues\n\nTehran says the Ukranian attack killed at least one sailor and wounded another.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
