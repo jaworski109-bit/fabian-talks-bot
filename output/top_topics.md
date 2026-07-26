@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-07-26 08:13)
+# Fabian Talks — top tematy (2026-07-26 19:01)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 19
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, mocny trigger portfel/paliwo
-**Tytuł źródła:** New front in US-Iran war escalates as Houthis fire at Saudi oil facilities
-**Link:** https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 20
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Israel and the cost paradox of the Iran war
+**Link:** https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-New front in US-Iran war escalates as Houthis fire at Saudi oil facilities
+Israel and the cost paradox of the Iran war
 
-Conflict also spreads to Caspian Sea as Tehran accuses Ukraine of a deadly attack on an Iranian vessel.
+Israel instigated the war on Iran and yet it has borne few of its costs.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
+## 2. CENY PÓJDĄ W GÓRĘ?
 **Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** US military disables tanker accused of breaking the Iran blockade
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** ‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war
+**Link:** https://www.aljazeera.com/news/2026/7/26/freeze-the-conflict-drones-slow-kazakh-oil-flow-amid-russia-ukraine-war?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US military disables tanker accused of breaking the Iran blockade
+‘Freeze the conflict’: Drones slow Kazakh oil flow amid Russia-Ukraine war
 
-The US military has released footage it says shows forces boarding one tanker.
+Kazakh oil exports halted after drone attacks disrupt supplies, posing risks to the economy and energy markets.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Iran war live: Tehran slams Ukraine attack; West Bank unrest continues
-**Link:** https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss
+**Score:** 16
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** World chess chief faces endgame after EU announces Russia war sanctions
+**Link:** https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war live: Tehran slams Ukraine attack; West Bank unrest continues
+World chess chief faces endgame after EU announces Russia war sanctions
 
-Tehran says the Ukranian attack killed at least one sailor and wounded another.
+Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
