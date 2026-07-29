@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-07-28 19:13)
+# Fabian Talks — top tematy (2026-07-29 08:28)
 
 ## 1. ORMUZ ZAPŁONIE?
-**Score:** 27
+**Score:** 22
 **Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/7/28/iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban?traffic_source=rss
+**Tytuł źródła:** Iran attacks US bases in Middle East as Trump meets Netanyahu
+**Link:** https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -16,9 +16,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban
+Iran attacks US bases in Middle East as Trump meets Netanyahu
 
-Iran rejected Trump’s claim that ships damaged by Iran in the Gulf would be compensated from frozen Iranian funds.
+Iran has also struck three ships in the Strait of Hormuz and rejected Oman’s proposal on managing the waterway.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -33,10 +33,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 15
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** ‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war
-**Link:** https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Trump meets Netanyahu for a record seventh White House visit
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-meets-netanyahu-for-a-record-seventh-white-house-visit?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war
+Trump meets Netanyahu for a record seventh White House visit
 
-At al-Awda Hospital, doctors say about 70% of pregnancy losses they see are linked to Israel&#039;s genocide and blockade.
+Donald Trump and Benjamin Netanyahu met at the White House for the first time since launching the war on Iran.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,10 +64,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 15
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows
-**Link:** https://www.aljazeera.com/news/2026/7/28/lindsey-graham-almost-cried-tears-of-joy-over-war-on-iran-footage-shows?traffic_source=rss
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Israel kills Palestinian, destroys mosque in Gaza
+**Link:** https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Lindsey Graham ‘almost cried’ tears of joy over war on Iran, footage shows
+Israel kills Palestinian, destroys mosque in Gaza
 
-Excerpts from a planned documentary show the hawkish senator claiming credit for persuading Donald Trump to attack Iran.
+Israeli settlers also attack a Palestinian family in Bethlehem in the occupied West Bank.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
