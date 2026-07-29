@@ -1,10 +1,41 @@
-# Fabian Talks — top tematy (2026-07-29 08:28)
+# Fabian Talks — top tematy (2026-07-29 19:02)
 
-## 1. ORMUZ ZAPŁONIE?
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 27
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, mocny trigger portfel/paliwo
+**Tytuł źródła:** Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work
+**Link:** https://www.aljazeera.com/news/2026/7/29/yemen-construction-fuel-iran?traffic_source=rss
+
+### Tekst na rolkę
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
+
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
+
+### Tekst pod post
+Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work
+
+Construction projects in Yemen are paused as rising fuel prices trigger a domino effect on building material costs.
+
+Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
+
+Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
+
+### Hook follow
+Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
+
+### Hashtagi
+#wojna #ropa #paliwo #gospodarka #geopolityka
+
+---
+
+## 2. ORMUZ ZAPŁONIE?
 **Score:** 22
 **Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Iran attacks US bases in Middle East as Trump meets Netanyahu
-**Link:** https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss
+**Tytuł źródła:** Iran pushes back against US as regional attacks heat up
+**Link:** https://www.aljazeera.com/news/2026/7/29/iran-pushes-back-against-us-as-regional-attacks-heat-up?traffic_source=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -16,40 +47,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-Iran attacks US bases in Middle East as Trump meets Netanyahu
+Iran pushes back against US as regional attacks heat up
 
-Iran has also struck three ships in the Strait of Hormuz and rejected Oman’s proposal on managing the waterway.
-
-Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
-
-Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
-
-### Hook follow
-Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
-
-### Hashtagi
-#wojna #ropa #paliwo #gospodarka #geopolityka
-
----
-
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Trump meets Netanyahu for a record seventh White House visit
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-meets-netanyahu-for-a-record-seventh-white-house-visit?traffic_source=rss
-
-### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
-
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
-
-### Tekst pod post
-Trump meets Netanyahu for a record seventh White House visit
-
-Donald Trump and Benjamin Netanyahu met at the White House for the first time since launching the war on Iran.
+New round of strikes raises fears of further escalation as Iran rejects Omani proposal for joint Hormuz oversight.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,24 +63,25 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Israel kills Palestinian, destroys mosque in Gaza
-**Link:** https://www.aljazeera.com/news/2026/7/29/israel-kills-palestinian-destroys-mosque-in-gaza?traffic_source=rss
+## 3. ORMUZ ZAPŁONIE?
+**Score:** 15
+**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** Is the world at risk of another energy shock?
+**Link:** https://www.aljazeera.com/video/counting-the-cost/2026/7/29/is-the-world-at-risk-of-another-energy-shock?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Israel kills Palestinian, destroys mosque in Gaza
+Is the world at risk of another energy shock?
 
-Israeli settlers also attack a Palestinian family in Bethlehem in the occupied West Bank.
+Disruptions across Strait of Hormuz, Bab al-Mandeb and the Black Sea threaten supplies and raise costs for consumers.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
