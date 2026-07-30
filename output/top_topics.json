@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-29T19:02:52.529073",
+  "generated_at": "2026-07-30T08:11:48.143399",
   "topics": [
     {
-      "title": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work",
-      "summary": "Construction projects in Yemen are paused as rising fuel prices trigger a domino effect on building material costs.",
-      "link": "https://www.aljazeera.com/news/2026/7/29/yemen-construction-fuel-iran?traffic_source=rss",
-      "score": 27,
+      "title": "In the waters off Malaysia, Iranian oil sales continue despite blockade",
+      "summary": "A large anchorage area off the coast of Malaysia is a major marketplace for sanctioned oil.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/in-the-waters-off-malaysia-iranian-oil-sales-continue-despite-blockade?traffic_source=rss",
+      "score": 17,
       "reasons": [
         "konflikt/eskalacja",
         "wpływ na ceny/handel",
-        "duże państwa/geopolityka",
+        "czytelny tytuł",
         "mocny trigger portfel/paliwo"
       ],
       "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Fuel prices soar on back of Iran war, leaving Yemeni labourers with no work\n\nConstruction projects in Yemen are paused as rising fuel prices trigger a domino effect on building material costs.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "In the waters off Malaysia, Iranian oil sales continue despite blockade\n\nA large anchorage area off the coast of Malaysia is a major marketplace for sanctioned oil.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -25,20 +25,18 @@
       ]
     },
     {
-      "title": "Iran pushes back against US as regional attacks heat up",
-      "summary": "New round of strikes raises fears of further escalation as Iran rejects Omani proposal for joint Hormuz oversight.",
-      "link": "https://www.aljazeera.com/news/2026/7/29/iran-pushes-back-against-us-as-regional-attacks-heat-up?traffic_source=rss",
-      "score": 22,
+      "title": "US launches ‘powerful’ strikes on Iran after Jordan attack",
+      "summary": "The US has bombed multiple cities across southern Iran in what Central Command described as a ‘heavy wave of strikes’.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack?traffic_source=rss",
+      "score": 13,
       "reasons": [
         "konflikt/eskalacja",
-        "wpływ na ceny/handel",
         "duże państwa/geopolityka",
-        "czytelny tytuł",
-        "silny trigger Ormuz"
+        "czytelny tytuł"
       ],
-      "thumbnail": "ORMUZ ZAPŁONIE?",
-      "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
-      "post_text": "Iran pushes back against US as regional attacks heat up\n\nNew round of strikes raises fears of further escalation as Iran rejects Omani proposal for joint Hormuz oversight.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
+      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
+      "post_text": "US launches ‘powerful’ strikes on Iran after Jordan attack\n\nThe US has bombed multiple cities across southern Iran in what Central Command described as a ‘heavy wave of strikes’.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -49,18 +47,19 @@
       ]
     },
     {
-      "title": "Is the world at risk of another energy shock?",
-      "summary": "Disruptions across Strait of Hormuz, Bab al-Mandeb and the Black Sea threaten supplies and raise costs for consumers.",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/7/29/is-the-world-at-risk-of-another-energy-shock?traffic_source=rss",
-      "score": 15,
+      "title": "US launches ‘heavy wave’ of new strikes on Iran",
+      "summary": "Iranian media report that a couple and their two-year-old child were killed in the latest US attacks on Qeshm island.",
+      "link": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss",
+      "score": 13,
       "reasons": [
-        "wpływ na ceny/handel",
-        "czytelny tytuł",
-        "silny trigger Ormuz"
+        "konflikt/eskalacja",
+        "duże państwa/geopolityka",
+        "pilność/tempo",
+        "czytelny tytuł"
       ],
-      "thumbnail": "ORMUZ ZAPŁONIE?",
-      "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
-      "post_text": "Is the world at risk of another energy shock?\n\nDisruptions across Strait of Hormuz, Bab al-Mandeb and the Black Sea threaten supplies and raise costs for consumers.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
+      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
+      "post_text": "US launches ‘heavy wave’ of new strikes on Iran\n\nIranian media report that a couple and their two-year-old child were killed in the latest US attacks on Qeshm island.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
