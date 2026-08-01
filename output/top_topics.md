@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-08-01 08:09)
+# Fabian Talks — top tematy (2026-08-01 18:58)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 15
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Is Israel really ready to withdraw from Gaza?
-**Link:** https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 17
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** ‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis
+**Link:** https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Is Israel really ready to withdraw from Gaza?
+‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis
 
-Netanyahu faces political turmoil over Gaza disarmament plan tied to Israel&#039;s potential withdrawal from the enclave.
+More than 58,000 children have lost one or both parents by Israel&#039;s war, highlighting urgent humanitarian challenges.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 11
+**Score:** 15
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Iran war live: Trump threatens strikes, Iran says it has a plan to respond
-**Link:** https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss
+**Tytuł źródła:** Iran warns against ‘flames of war’ amid US strike threats on energy sites
+**Link:** https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war live: Trump threatens strikes, Iran says it has a plan to respond
+Iran warns against ‘flames of war’ amid US strike threats on energy sites
 
-An Iranian official quoted by Tasnim says comprehensive plans are in place to respond to any &#039;mad&#039; US strikes.
+Iranian media says retaliation plan ready after US media suggest potential imminent attacks against civilian sites.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 10
-**Powody:** konflikt/eskalacja, czytelny tytuł
-**Tytuł źródła:** Russian missile attacks kill at least nine in Ukraine’s Kyiv
-**Link:** https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 13
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Turkiye and Iraq sign one-year oil pipeline deal amid global shift
+**Link:** https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Russian missile attacks kill at least nine in Ukraine’s Kyiv
+Turkiye and Iraq sign one-year oil pipeline deal amid global shift
 
-Residents trapped as partially collapsed buildings catch fire after deadly strike on Ukrainian capital.
+The renewed agreement ensures crude flow of 750,000 barrels a day through the Iraq-Turkiye pipeline, officials confirm.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
