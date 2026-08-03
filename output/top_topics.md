@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-08-03 09:30)
+# Fabian Talks — top tematy (2026-08-03 19:22)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 30
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Trump says new round of Iran talks will begin Monday
-**Link:** https://www.aljazeera.com/news/2026/8/2/trump-says-new-round-of-iran-talks-will-begin-monday?traffic_source=rss
+**Score:** 35
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, mocny trigger portfel/paliwo
+**Tytuł źródła:** Threat to oil tankers in Middle East worst since start of Iran war, analysts say
+**Link:** https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump says new round of Iran talks will begin Monday
+Threat to oil tankers in Middle East worst since start of Iran war, analysts say
 
-The US president says Gulf allies and Tehran urged him to delay planned strikes, as oil prices dropped in response.
+Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,24 +31,25 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Grid failure plunges Cuba into nationwide blackout
-**Link:** https://www.aljazeera.com/news/2026/8/3/grid-failure-plunges-cuba-into-nationwide-blackout?traffic_source=rss
+## 2. ORMUZ ZAPŁONIE?
+**Score:** 24
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
+**Tytuł źródła:** Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US
+**Link:** https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Grid failure plunges Cuba into nationwide blackout
+Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US
 
-Cuba’s ageing power grid collapsed on Sunday after a weekend of outages and amid US-imposed fuel shortages.
+US president demands &#039;Total Surrender&#039; amid escalating naval blockade in the crucial Strait of Hormuz.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +63,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Trump pauses ‘massive attack’ on Iran, says new talks to begin
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-pauses-massive-attack-on-iran-says-new-talks-to-begin?traffic_source=rss
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 22
+**Powody:** wpływ na ceny/handel, pilność/tempo, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Trump slams Chevron CEO, demands immediate reduction in US fuel prices
+**Link:** https://www.aljazeera.com/economy/2026/8/3/trump-slams-chevron-ceo-demands-immediate-reduction-in-us-fuel-prices?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump pauses ‘massive attack’ on Iran, says new talks to begin
+Trump slams Chevron CEO, demands immediate reduction in US fuel prices
 
-US President Trump says new talks with Iran will start Monday ‘in the form of a negotiation’ after calling off attack.
+Trump claims Chevron&#039;s success stems from his policies, calling for urgent reductions in US fuel prices for consumers.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
