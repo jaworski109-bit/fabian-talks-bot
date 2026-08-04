@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-08-03 19:22)
+# Fabian Talks — top tematy (2026-08-04 08:26)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
 **Score:** 35
@@ -31,25 +31,24 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ORMUZ ZAPŁONIE?
-**Score:** 24
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
-**Tytuł źródła:** Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US
-**Link:** https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 21
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Does the US blockade on Cuba make America safer?
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/4/does-the-us-blockade-on-cuba-make-america-safer?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump blasts ‘duplicitous’ Iran after Tehran denies it is in talks with the US
+Does the US blockade on Cuba make America safer?
 
-US president demands &#039;Total Surrender&#039; amid escalating naval blockade in the crucial Strait of Hormuz.
+Trump just escalated restrictions on Havana warning that Cuba remains a ‘threat to national security’.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,11 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. CENY PÓJDĄ W GÓRĘ?
-**Score:** 22
-**Powody:** wpływ na ceny/handel, pilność/tempo, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Trump slams Chevron CEO, demands immediate reduction in US fuel prices
-**Link:** https://www.aljazeera.com/economy/2026/8/3/trump-slams-chevron-ceo-demands-immediate-reduction-in-us-fuel-prices?traffic_source=rss
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 19
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo
+**Tytuł źródła:** Iran war live: Tehran slams US blockade as Trump warns of ‘last chance’
+**Link:** https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump slams Chevron CEO, demands immediate reduction in US fuel prices
+Iran war live: Tehran slams US blockade as Trump warns of ‘last chance’
 
-Trump claims Chevron&#039;s success stems from his policies, calling for urgent reductions in US fuel prices for consumers.
+US president says talks with Iran are under way, warning the negotiations are Tehran&#039;s &#039;last chance&#039; to secure a deal.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
