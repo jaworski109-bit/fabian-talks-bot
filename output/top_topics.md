@@ -1,9 +1,9 @@
-# Fabian Talks — top tematy (2026-08-04 19:21)
+# Fabian Talks — top tematy (2026-08-05 08:24)
 
 ## 1. PALIWO WYSTRZELI?
-**Score:** 31
-**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz, mocny trigger portfel/paliwo
-**Tytuł źródła:** Oil prices fall on hopes Strait of Hormuz could reopen
+**Score:** 36
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz, mocny trigger portfel/paliwo
+**Tytuł źródła:** Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall
 **Link:** https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
@@ -21,7 +21,7 @@ Pytanie nie brzmi czy.
 Pytanie brzmi — kiedy to poczujesz.
 
 ### Tekst pod post
-Oil prices fall on hopes Strait of Hormuz could reopen
+Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall
 
 US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.
 
@@ -37,25 +37,30 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ORMUZ ZAPŁONIE?
-**Score:** 15
-**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Rubio: Progress made to reopen Strait of Hormuz
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/4/rubio-progress-made-to-reopen-strait-of-hormuz?traffic_source=rss
+## 2. PALIWO WYSTRZELI?
+**Score:** 34
+**Powody:** wpływ na ceny/handel, silny trigger Ormuz, mocny trigger portfel/paliwo
+**Tytuł źródła:** US stock market hits record high amid hopes for Strait of Hormuz reopening
+**Link:** https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+USA i Iran znowu grają Ormuzem.
+👉 Przez tę cieśninę idzie ogromna część światowej ropy.
+👉 Jedna decyzja… i ceny mogą ruszyć w górę.
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+To nie jest daleki konflikt.
+
+👉 To jest Twoja stacja paliw.
+👉 Twój rachunek.
+👉 Twój portfel.
+
+Pytanie nie brzmi czy.
+Pytanie brzmi — kiedy to poczujesz.
 
 ### Tekst pod post
-Rubio: Progress made to reopen Strait of Hormuz
+US stock market hits record high amid hopes for Strait of Hormuz reopening
 
-Marco Rubio, US Secretary of State, said there has been progress in negotiations to reopen the Strait of Hormuz.
+Oil prices fall as US officials tout progress in talks to reopen critical waterway.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -69,11 +74,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. CENY PÓJDĄ W GÓRĘ?
-**Score:** 15
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Israel election pressure fuels settlement push as West Bank violence surges
-**Link:** https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 14
+**Powody:** konflikt/eskalacja, czytelny tytuł
+**Tytuł źródła:** Explosions across Kyiv as Russian missiles strike Ukraine’s capital
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -84,9 +89,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Israel election pressure fuels settlement push as West Bank violence surges
+Explosions across Kyiv as Russian missiles strike Ukraine’s capital
 
-Analysts point to uptick in activity of settlement movement as it bids to entrench West Bank chokehold.
+At least one person has been killed after a Russian ballistic missile attack on Ukraine’s capital Wednesday morning.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
