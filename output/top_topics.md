@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-08-05 08:24)
+# Fabian Talks — top tematy (2026-08-05 19:19)
 
 ## 1. PALIWO WYSTRZELI?
 **Score:** 36
@@ -37,30 +37,24 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. PALIWO WYSTRZELI?
-**Score:** 34
-**Powody:** wpływ na ceny/handel, silny trigger Ormuz, mocny trigger portfel/paliwo
-**Tytuł źródła:** US stock market hits record high amid hopes for Strait of Hormuz reopening
-**Link:** https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Russia kills 17 in ballistic missile attacks around Kyiv
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss
 
 ### Tekst na rolkę
-USA i Iran znowu grają Ormuzem.
-👉 Przez tę cieśninę idzie ogromna część światowej ropy.
-👉 Jedna decyzja… i ceny mogą ruszyć w górę.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest daleki konflikt.
-
-👉 To jest Twoja stacja paliw.
-👉 Twój rachunek.
-👉 Twój portfel.
-
-Pytanie nie brzmi czy.
-Pytanie brzmi — kiedy to poczujesz.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US stock market hits record high amid hopes for Strait of Hormuz reopening
+Russia kills 17 in ballistic missile attacks around Kyiv
 
-Oil prices fall as US officials tout progress in talks to reopen critical waterway.
+At least 17 people were killed after Russia launched an overnight ballistic missile and drone attack on Kyiv.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -75,10 +69,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 14
-**Powody:** konflikt/eskalacja, czytelny tytuł
-**Tytuł źródła:** Explosions across Kyiv as Russian missiles strike Ukraine’s capital
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** War on Iran: US-Iran deal edges closer
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -89,9 +83,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Explosions across Kyiv as Russian missiles strike Ukraine’s capital
+War on Iran: US-Iran deal edges closer
 
-At least one person has been killed after a Russian ballistic missile attack on Ukraine’s capital Wednesday morning.
+A deal between the US and Iran could be signed within 48 hours, according to US officials.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
