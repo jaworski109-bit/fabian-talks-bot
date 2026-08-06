@@ -1,29 +1,24 @@
-# Fabian Talks — top tematy (2026-08-05 19:19)
+# Fabian Talks — top tematy (2026-08-06 08:22)
 
-## 1. PALIWO WYSTRZELI?
-**Score:** 36
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz, mocny trigger portfel/paliwo
-**Tytuł źródła:** Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall
-**Link:** https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss
+## 1. ORMUZ ZAPŁONIE?
+**Score:** 20
+**Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn
+**Link:** https://www.aljazeera.com/economy/2026/8/6/strait-of-hormuz-tolls-would-harm-livelihoods-worldwide-shipowners-warn?traffic_source=rss
 
 ### Tekst na rolkę
-USA i Iran znowu grają Ormuzem.
-👉 Przez tę cieśninę idzie ogromna część światowej ropy.
-👉 Jedna decyzja… i ceny mogą ruszyć w górę.
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-To nie jest daleki konflikt.
-
-👉 To jest Twoja stacja paliw.
-👉 Twój rachunek.
-👉 Twój portfel.
-
-Pytanie nie brzmi czy.
-Pytanie brzmi — kiedy to poczujesz.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall
+Strait of Hormuz tolls would harm livelihoods worldwide, shipowners warn
 
-US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.
+Eight leading shipping organisations sign letter opposing fees in critical waterway.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -37,24 +32,25 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Russia kills 17 in ballistic missile attacks around Kyiv
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss
+## 2. ORMUZ ZAPŁONIE?
+**Score:** 20
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
+**Tytuł źródła:** Iran says deal with Oman on Strait of Hormuz is in final stages
+**Link:** https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Russia kills 17 in ballistic missile attacks around Kyiv
+Iran says deal with Oman on Strait of Hormuz is in final stages
 
-At least 17 people were killed after Russia launched an overnight ballistic missile and drone attack on Kyiv.
+Neither the US or Oman have commented on the proposed agreement on the vital waterway.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -71,8 +67,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** War on Iran: US-Iran deal edges closer
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss
+**Tytuł źródła:** Could the Iran war derail Donald Trump’s legacy?
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/6/could-the-iran-war-derail-donald-trumps-legacy?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -83,9 +79,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-War on Iran: US-Iran deal edges closer
+Could the Iran war derail Donald Trump’s legacy?
 
-A deal between the US and Iran could be signed within 48 hours, according to US officials.
+President Trump is looking to reframe the Iran war ahead of the 2026 midterm elections in November.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
