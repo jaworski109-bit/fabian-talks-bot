@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-08-07 07:03)
+# Fabian Talks — top tematy (2026-08-07 18:43)
 
 ## 1. ORMUZ ZAPŁONIE?
-**Score:** 24
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
-**Tytuł źródła:** Iran war live: Trump says war can’t ‘go much longer’; Hormuz deal close
-**Link:** https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close?traffic_source=rss
+**Score:** 29
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, silny trigger Ormuz
+**Tytuł źródła:** Iran’s grip on trade is a potent weapon, but it has an expiry date
+**Link:** https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date?traffic_source=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -16,9 +16,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-Iran war live: Trump says war can’t ‘go much longer’; Hormuz deal close
+Iran’s grip on trade is a potent weapon, but it has an expiry date
 
-The US, Iran, and Oman are close to a temporary deal to reopen the Strait of Hormuz.
+Iran can exploit dependence on Hormuz today, but prolonged disruption will erode that leverage
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,11 +32,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 20
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Ukraine hits two oil refineries deep in Russian territory
-**Link:** https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Ukraine hits two oil refineries deep in Russian territory
+War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact
 
-Ukraine's president says the strikes aim to limit revenues Russia "used to finance" its war.
+Saudi Arabia, Turkiye and Pakistan have signed a trilateral defence pact in Mecca aimed at deterring aggression.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,25 +63,24 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ORMUZ ZAPŁONIE?
-**Score:** 20
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
-**Tytuł źródła:** Iran says deal with Oman on Strait of Hormuz is in final stages
-**Link:** https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 10
+**Powody:** konflikt/eskalacja, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Italy vows to maintain border checks despite Spain’s countermeasures threat
+**Link:** https://www.aljazeera.com/news/2026/8/7/italy-vows-to-maintain-border-checks-despite-spains-countermeasures-threat?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran says deal with Oman on Strait of Hormuz is in final stages
+Italy vows to maintain border checks despite Spain’s countermeasures threat
 
-Neither the US or Oman have commented on the proposed agreement on the vital waterway.
+Madrid warns of &#039;proportional measures&#039; if Rome does not put an end to checks amid fallout from Ceuta migrant crisis.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
