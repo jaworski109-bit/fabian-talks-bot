@@ -1,24 +1,23 @@
-# Fabian Talks — top tematy (2026-08-07 18:43)
+# Fabian Talks — top tematy (2026-08-08 06:38)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 29
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, silny trigger Ormuz
-**Tytuł źródła:** Iran’s grip on trade is a potent weapon, but it has an expiry date
-**Link:** https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date?traffic_source=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 17
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** US Senate passes sweeping Russian energy sanctions bill amid Ukraine war
+**Link:** https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran’s grip on trade is a potent weapon, but it has an expiry date
+US Senate passes sweeping Russian energy sanctions bill amid Ukraine war
 
-Iran can exploit dependence on Hormuz today, but prolonged disruption will erode that leverage
+Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -33,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
+**Score:** 9
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss
+**Tytuł źródła:** Russian strikes near Ukrainian capital kill three, including child
+**Link:** https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact
+Russian strikes near Ukrainian capital kill three, including child
 
-Saudi Arabia, Turkiye and Pakistan have signed a trilateral defence pact in Mecca aimed at deterring aggression.
+Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 10
-**Powody:** konflikt/eskalacja, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Italy vows to maintain border checks despite Spain’s countermeasures threat
-**Link:** https://www.aljazeera.com/news/2026/8/7/italy-vows-to-maintain-border-checks-despite-spains-countermeasures-threat?traffic_source=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Child among three killed in Russian missile attacks near Kyiv
+**Link:** https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Italy vows to maintain border checks despite Spain’s countermeasures threat
+Child among three killed in Russian missile attacks near Kyiv
 
-Madrid warns of &#039;proportional measures&#039; if Rome does not put an end to checks amid fallout from Ceuta migrant crisis.
+Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
