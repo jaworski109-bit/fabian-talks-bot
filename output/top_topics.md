@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-08-10 07:17)
+# Fabian Talks — top tematy (2026-08-10 18:46)
 
 ## 1. PALIWO WYSTRZELI?
 **Score:** 31
 **Powody:** wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz, mocny trigger portfel/paliwo
-**Tytuł źródła:** Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz
-**Link:** https://www.aljazeera.com/economy/2026/8/10/oil-prices-climb-as-iranian-demands-cloud-outlook-for-strait-of-hormuz?traffic_source=rss
+**Tytuł źródła:** Oil prices, stocks surge as Hormuz closure drags on
+**Link:** https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on?traffic_source=rss
 
 ### Tekst na rolkę
 USA i Iran znowu grają Ormuzem.
@@ -21,40 +21,9 @@ Pytanie nie brzmi czy.
 Pytanie brzmi — kiedy to poczujesz.
 
 ### Tekst pod post
-Oil prices climb as Iranian demands cloud outlook for Strait of Hormuz
+Oil prices, stocks surge as Hormuz closure drags on
 
-Brent crude prices rise as Tehran says critical waterway will not reopen without major US concessions.
-
-Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
-
-Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
-
-### Hook follow
-Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
-
-### Hashtagi
-#wojna #ropa #paliwo #gospodarka #geopolityka
-
----
-
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 29
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Trump signals shift to economic pressure on Iran over new military strikes
-**Link:** https://www.aljazeera.com/economy/2026/8/10/trump-signals-shift-to-economic-pressure-on-iran-over-new-military-strikes?traffic_source=rss
-
-### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
-
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
-
-### Tekst pod post
-Trump signals shift to economic pressure on Iran over new military strikes
-
-US relying on sanctions and naval blockade as oil prices stabilise, easing economic strain on American consumers.
+US petrol prices dropped nine cents last week but could again surge if the strait closure continues, analysts warn.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -68,11 +37,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ORMUZ ZAPŁONIE?
+## 2. ORMUZ ZAPŁONIE?
 **Score:** 25
 **Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
-**Tytuł źródła:** Hormuz talks positive, Oman says, as Iran warns deal would not open strait
-**Link:** https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss
+**Tytuł źródła:** Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran
+**Link:** https://www.aljazeera.com/opinions/2026/8/10/iran-changed-the-rules-in-hormuz-the-gulf-is-changing-the-rules-for-iran?traffic_source=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -84,9 +53,40 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-Hormuz talks positive, Oman says, as Iran warns deal would not open strait
+Iran changed the rules in Hormuz. The Gulf is changing the rules for Iran
 
-Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.
+Iran gained leverage in Hormuz, but its neighbours are reshaping regional security to limit what Tehran can do with it.
+
+Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
+
+Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
+
+### Hook follow
+Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
+
+### Hashtagi
+#wojna #ropa #paliwo #gospodarka #geopolityka
+
+---
+
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 16
+**Powody:** wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Oman trying to contain extensive oil spill from stricken tanker
+**Link:** https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss
+
+### Tekst na rolkę
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
+
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
+
+### Tekst pod post
+Oman trying to contain extensive oil spill from stricken tanker
+
+The Caroline Bezengi is believed to be part of Russia&#039;s &#039;shadow fleet&#039; that Moscow uses to circumvent Western sanctions.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
