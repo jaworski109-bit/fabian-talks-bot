@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-08-14 07:14)
+# Fabian Talks — top tematy (2026-08-14 18:43)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Salvage work begins on tanker leaking oil off Oman, risk firm says
-**Link:** https://www.aljazeera.com/economy/2026/8/14/salvage-work-begins-on-tanker-leaking-oil-off-oman-risk-firm-says?traffic_source=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Analysis: Israel’s government can’t disown West Bank settler violence
+**Link:** https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Salvage work begins on tanker leaking oil off Oman, risk firm says
+Analysis: Israel’s government can’t disown West Bank settler violence
 
-Environmental NGO Greenpeace warns that spill has rapidly expanded to 1,300 square kilometres, threatening ecosystems.
+Rights groups warn settler and state-led violence aim to displace Palestinians and annex land in the occupied West Bank.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Oil slick from tanker carrying sanctioned Russian crude reaches Oman
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/14/oil-slick-from-tanker-carrying-sanctioned-russian-crude-reaches-oman?traffic_source=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan
+**Link:** https://www.aljazeera.com/news/2026/8/14/kushner-to-visit-israel-after-netanyahu-rejects-gaza-board-of-peace-plan?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Oil slick from tanker carrying sanctioned Russian crude reaches Oman
+Kushner to visit Israel after Netanyahu rejects Gaza Board of Peace plan
 
-An oil slick from the tanker the Caroline Bezengi has reached Oman’s coastline weeks after the vessel ran aground.
+Visit to address Israeli opposition to plan for Hamas to disarm, Israel to withdraw from Gaza, board official says.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 11
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Norway’s FM tells Al Jazeera the US war on Iran was not ‘smart’
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/14/aje-onl-nf_norways-fm-us-war-on-iran-was-not-smart-130826?traffic_source=rss
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 8
+**Powody:** czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Instagram accounts fuelling Ceuta crisis with paid advice for help to cross
+**Link:** https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Norway’s FM tells Al Jazeera the US war on Iran was not ‘smart’
+Instagram accounts fuelling Ceuta crisis with paid advice for help to cross
 
-Norway’s FM Espen Barth Eide says the Iran war failed to achieve its initial aims and strengthened hardliners in Tehran.
+BBC's Top Comment podcast has found a network of Instagram profiles glamourising the swim around the Morocco-Ceuta border fence.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
