@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-08-16 06:28)
+# Fabian Talks — top tematy (2026-08-16 18:18)
 
 ## 1. ORMUZ ZAPŁONIE?
-**Score:** 31
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
-**Tytuł źródła:** Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon
-**Link:** https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss
+**Score:** 32
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, silny trigger Ormuz
+**Tytuł źródła:** Trump threatens to make the Strait of Hormuz a US territory: Can he?
+**Link:** https://www.aljazeera.com/news/2026/8/16/trump-threatens-to-make-the-strait-of-hormuz-a-us-territory-can-he?traffic_source=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -16,9 +16,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon
+Trump threatens to make the Strait of Hormuz a US territory: Can he?
 
-Israel kills 11 in deadliest attacks on Lebanon since June truce as Iran and Oman continue talks on Hormuz.
+US president has yet another outlandish threat for Iran, with no end to war in sight.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,11 +32,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 18
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** As petrol prices soar, electric bikes gain ground in Nigeria
-**Link:** https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 17
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** ‘Limited options’ for many Iranians as war with US chokes economy
+**Link:** https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-As petrol prices soar, electric bikes gain ground in Nigeria
+‘Limited options’ for many Iranians as war with US chokes economy
 
-Riders say the switch is helping them cut fuel and maintenance costs.
+Millions of Iranians struggle to make ends meet as war with US devastates the economy and sends prices soaring.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
