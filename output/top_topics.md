@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-08-17 18:28)
+# Fabian Talks — top tematy (2026-08-18 06:30)
 
 ## 1. ORMUZ ZAPŁONIE?
 **Score:** 28
@@ -33,10 +33,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ORMUZ ZAPŁONIE?
-**Score:** 22
+**Score:** 26
 **Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Iran signals readiness for ‘US ground operations’ as strategy shifts gear
-**Link:** https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss
+**Tytuł źródła:** Iran war live: Vessel struck in Strait of Hormuz, crew member injured
+**Link:** https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -48,9 +48,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-Iran signals readiness for ‘US ground operations’ as strategy shifts gear
+Iran war live: Vessel struck in Strait of Hormuz, crew member injured
 
-Iran&#039;s more offensive posture follows Trump&#039;s comment that the US would soon make the Strait of Hormuz its territory.
+A vessel was struck by a projectile in the Strait of Hormuz, leaving a crew member injured, according to the UKMTO.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,11 +64,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
+## 3. CENY PÓJDĄ W GÓRĘ?
 **Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** War on Iran: Phase II, Day 37
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/17/war-on-iran-phase-ii-day-37?traffic_source=rss
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah
+**Link:** https://www.aljazeera.com/news/2026/8/18/large-fire-breaks-out-at-fuel-depot-near-iraqs-sulaimaniyah?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -79,9 +79,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-War on Iran: Phase II, Day 37
+Large fire breaks out at fuel depot near Iraq’s Sulaimaniyah
 
-Iran is offering $30,000 for captured or killed US soldiers. Trump cuts back South Korea drills.
+At least 20 injured and dozens of fuel tankers destroyed as flames rip through warehouse near northern Kurdish city.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
