@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-08-19 06:31)
+# Fabian Talks — top tematy (2026-08-19 18:23)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
 **Score:** 18
 **Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** UAE imposes indefinite trade embargo on Iran over alleged missile attacks
-**Link:** https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss
+**Tytuł źródła:** War on Iran: Iran allegedly targets the UAE
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-UAE imposes indefinite trade embargo on Iran over alleged missile attacks
+War on Iran: Iran allegedly targets the UAE
 
-Iran denies launching missiles at the UAE, suggesting the incident was a &#039;false flag operation&#039;.
+After reports that Iran targeted the UAE with two ballistic missiles, the Emirates has suspended trade with Tehran.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 18
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** US refineries taking in half of Venezuela’s oil output, official says
-**Link:** https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** US war on Iran puts Cambodian children’s education at risk
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/19/us-war-on-iran-puts-cambodian-childrens-education-at-risk?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US refineries taking in half of Venezuela’s oil output, official says
+US war on Iran puts Cambodian children’s education at risk
 
-US official says Venezuela is sending 500,000 of its 1.25 million barrels per day output to Gulf Coast refineries.
+US war on Iran puts Cambodian children’s education at risk
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Democrats call for USS Lincoln probe, question US Navy’s readiness
-**Link:** https://www.aljazeera.com/news/2026/8/18/democrats-call-for-uss-lincoln-probe-question-us-navys-readiness?traffic_source=rss
+**Score:** 11
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs
+**Link:** https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Democrats call for USS Lincoln probe, question US Navy’s readiness
+Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs
 
-Lawmakers question whether conditions on the aircraft carrier indicate a &#039;pattern&#039; of poor planning amid the Iran war.
+Israeli air strikes on Gaza kill 10 Palestinians, targeting police headquarters and a refugee camp in separate attacks.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
