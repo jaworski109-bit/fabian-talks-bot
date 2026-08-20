@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-08-19 18:23)
+# Fabian Talks — top tematy (2026-08-20 06:33)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 18
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** War on Iran: Iran allegedly targets the UAE
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 13
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Nigeria’s election campaign begins with Tinubu facing a reform test
+**Link:** https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-War on Iran: Iran allegedly targets the UAE
+Nigeria’s election campaign begins with Tinubu facing a reform test
 
-After reports that Iran targeted the UAE with two ballistic missiles, the Emirates has suspended trade with Tehran.
+Rising costs fuel anger, but President Bola Tinubu’s machinery and opposition divisions may shape the race.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -34,8 +34,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 2. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** US war on Iran puts Cambodian children’s education at risk
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/19/us-war-on-iran-puts-cambodian-childrens-education-at-risk?traffic_source=rss
+**Tytuł źródła:** Iran war live: Trump announces ‘most crushing’ Iran sanctions
+**Link:** https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US war on Iran puts Cambodian children’s education at risk
+Iran war live: Trump announces ‘most crushing’ Iran sanctions
 
-US war on Iran puts Cambodian children’s education at risk
+Trump says Washington may resume talks with Tehran &#039;at some point&#039;.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -65,8 +65,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 11
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs
-**Link:** https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss
+**Tytuł źródła:** Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
+**Link:** https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs
+Russia launches missile strikes on Kyiv and surrounding region, killing at least eight
 
-Israeli air strikes on Gaza kill 10 Palestinians, targeting police headquarters and a refugee camp in separate attacks.
+Apartment blocks and warehouses were targeted in the "massive attack" on Thursday, according to the State Emergency Service of Ukraine.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
