@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-08-20 18:28)
+# Fabian Talks — top tematy (2026-08-21 06:33)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 20
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** How China and Russia could hobble Trump’s plans to isolate Iran
-**Link:** https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss
+**Score:** 16
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Iran war live: US vows toughest Iran sanctions, urges China support
+**Link:** https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-How China and Russia could hobble Trump’s plans to isolate Iran
+Iran war live: US vows toughest Iran sanctions, urges China support
 
-Iran&#039;s deep trade ties with Beijing and Moscow could prove difficult for the US to disrupt, say analysts.
+US Treasury Secretary Bessent says new economic measures will &#039;collapse&#039; Iranian government.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 16
+**Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** ‘Tremendous costs’: Can Trump stop other countries from trading with Iran?
-**Link:** https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss
+**Tytuł źródła:** Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says
+**Link:** https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-‘Tremendous costs’: Can Trump stop other countries from trading with Iran?
+Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says
 
-Iran&#039;s foreign minister has dismissed Trump’s latest threats, calling them a “diversion&quot; from America’s own crisis.&quot;
+At least 17 people were killed in the "massive attack" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Deadly Russian missile barrage hits Kyiv in hours-long overnight attack
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/20/deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attack?traffic_source=rss
+**Score:** 11
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł
+**Tytuł źródła:** Houthis and government trade attacks as Yemen slides back to full-scale war
+**Link:** https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Deadly Russian missile barrage hits Kyiv in hours-long overnight attack
+Houthis and government trade attacks as Yemen slides back to full-scale war
 
-Russia launched a hours-long overnight barrage of ballistic and cruise missiles and drones across Kyiv.
+Gov&#039;t forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
