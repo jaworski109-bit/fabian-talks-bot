@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-08-21 06:33)
+# Fabian Talks — top tematy (2026-08-21 18:26)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 16
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Iran war live: US vows toughest Iran sanctions, urges China support
-**Link:** https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss
+**Score:** 17
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Why Iran is threatening Europe’s ‘strategically important’ southeast
+**Link:** https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war live: US vows toughest Iran sanctions, urges China support
+Why Iran is threatening Europe’s ‘strategically important’ southeast
 
-US Treasury Secretary Bessent says new economic measures will &#039;collapse&#039; Iranian government.
+Tehran has threatened Bulgaria, home to a US air base, but how credible is that threat?
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says
-**Link:** https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss
+## 2. CENY PÓJDĄ W GÓRĘ?
+**Score:** 15
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, mocny trigger portfel/paliwo
+**Tytuł źródła:** Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war
+**Link:** https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says
+Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war
 
-At least 17 people were killed in the "massive attack" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.
+Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 11
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł
-**Tytuł źródła:** Houthis and government trade attacks as Yemen slides back to full-scale war
-**Link:** https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** War on Iran: The US could focus on economically isolating Iran
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Houthis and government trade attacks as Yemen slides back to full-scale war
+War on Iran: The US could focus on economically isolating Iran
 
-Gov&#039;t forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.
+The US Treasury Secretary, has indicated a change in US strategy towards Iran, focusing on economic isolation.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
