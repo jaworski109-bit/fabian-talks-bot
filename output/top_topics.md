@@ -1,23 +1,24 @@
-# Fabian Talks — top tematy (2026-08-21 18:26)
+# Fabian Talks — top tematy (2026-08-22 06:27)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Why Iran is threatening Europe’s ‘strategically important’ southeast
-**Link:** https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss
+## 1. ORMUZ ZAPŁONIE?
+**Score:** 24
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
+**Tytuł źródła:** Iran war live: Trump says he views Strait of Hormuz as ‘American territory’
+**Link:** https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Why Iran is threatening Europe’s ‘strategically important’ southeast
+Iran war live: Trump says he views Strait of Hormuz as ‘American territory’
 
-Tehran has threatened Bulgaria, home to a US air base, but how credible is that threat?
+US president says Iran &#039;would love to make a deal, but they’re not ready to make the right deal in my opinion&#039;.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,11 +32,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 15
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, mocny trigger portfel/paliwo
-**Tytuł źródła:** Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war
-**Link:** https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war
+Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall
 
-Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.
+Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +64,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** War on Iran: The US could focus on economically isolating Iran
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss
+**Score:** 11
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza
+**Link:** https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-War on Iran: The US could focus on economically isolating Iran
+UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza
 
-The US Treasury Secretary, has indicated a change in US strategy towards Iran, focusing on economic isolation.
+Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
