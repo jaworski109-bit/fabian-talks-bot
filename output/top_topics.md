@@ -1,24 +1,23 @@
-# Fabian Talks — top tematy (2026-08-22 06:27)
+# Fabian Talks — top tematy (2026-08-22 18:18)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 24
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
-**Tytuł źródła:** Iran war live: Trump says he views Strait of Hormuz as ‘American territory’
-**Link:** https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 14
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine
+**Link:** https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war live: Trump says he views Strait of Hormuz as ‘American territory’
+Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine
 
-US president says Iran &#039;would love to make a deal, but they’re not ready to make the right deal in my opinion&#039;.
+An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -35,8 +34,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 2. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss
+**Tytuł źródła:** What did war with the US reveal about Iran’s weapons capabilities?
+**Link:** https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall
+What did war with the US reveal about Iran’s weapons capabilities?
 
-Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.
+Iran says production is ongoing, but details will not be revealed during war conditions.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -66,8 +65,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 11
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza
-**Link:** https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss
+**Tytuł źródła:** As families retrieve bodies, Gaza is running out of places to bury the dead
+**Link:** https://www.aljazeera.com/features/2026/8/22/as-families-retrive-bodies-gaza-is-running-out-of-places-to-bury-the-dead?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza
+As families retrieve bodies, Gaza is running out of places to bury the dead
 
-Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.
+Israel&#039;s genocidal war on Gaza has seen thousands of bodies buried in makeshift sites.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
