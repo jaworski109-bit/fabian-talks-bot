@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-08-23 06:28)
+# Fabian Talks — top tematy (2026-08-23 18:18)
 
 ## 1. PALIWO WYSTRZELI?
-**Score:** 33
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz, mocny trigger portfel/paliwo
-**Tytuł źródła:** Iran grants permission for some Iraqi oil tankers to pass through Hormuz
-**Link:** https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss
+**Score:** 44
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, pilność/tempo, czytelny tytuł, silny trigger Ormuz, mocny trigger portfel/paliwo
+**Tytuł źródła:** The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?
+**Link:** https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss
 
 ### Tekst na rolkę
 USA i Iran znowu grają Ormuzem.
@@ -21,9 +21,9 @@ Pytanie nie brzmi czy.
 Pytanie brzmi — kiedy to poczujesz.
 
 ### Tekst pod post
-Iran grants permission for some Iraqi oil tankers to pass through Hormuz
+The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?
 
-Iraqi President Nizar Amidi says his country&#039;s territory will not be used to launch attacks against any other state.
+In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -37,11 +37,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Iran warns of retaliation against countries joining US ‘economic war’
-**Link:** https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss
+## 2. CENY PÓJDĄ W GÓRĘ?
+**Score:** 25
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Iran’s government signals fuel price hike on eve of new US sanctions
+**Link:** https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -52,9 +52,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran warns of retaliation against countries joining US ‘economic war’
+Iran’s government signals fuel price hike on eve of new US sanctions
 
-Warning comes after Trump said he will impose &#039;most crushing&#039; sanctions to isolate Iran and weaken its government.
+Prices for food and other items are soaring, and there is a history of unrest, so any increase is being considered.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -69,10 +69,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Syria says Israeli strike near Damascus violation of international law
-**Link:** https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss
+**Score:** 22
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Canada, US and tit-for-tat tariffs: How will they impact their economies?
+**Link:** https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -83,9 +83,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Syria says Israeli strike near Damascus violation of international law
+Canada, US and tit-for-tat tariffs: How will they impact their economies?
 
-The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.
+Both countries will suffer from the trade war with steeper tariffs raising business costs and consumer prices.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
