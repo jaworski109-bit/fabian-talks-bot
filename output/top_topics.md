@@ -1,29 +1,23 @@
-# Fabian Talks — top tematy (2026-08-23 18:18)
+# Fabian Talks — top tematy (2026-08-24 06:41)
 
-## 1. PALIWO WYSTRZELI?
-**Score:** 44
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, pilność/tempo, czytelny tytuł, silny trigger Ormuz, mocny trigger portfel/paliwo
-**Tytuł źródła:** The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?
-**Link:** https://www.aljazeera.com/video/deja-vu-2/2026/8/23/the-suez-crisis-stopped-the-british-empire-will-hormuz-defeat-the-us?traffic_source=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 29
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports
+**Link:** https://www.aljazeera.com/news/liveblog/2026/8/24/iran-war-live-iranian-assembly-advances-plans-for-hormuz-service-fees?traffic_source=rss
 
 ### Tekst na rolkę
-USA i Iran znowu grają Ormuzem.
-👉 Przez tę cieśninę idzie ogromna część światowej ropy.
-👉 Jedna decyzja… i ceny mogą ruszyć w górę.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest daleki konflikt.
-
-👉 To jest Twoja stacja paliw.
-👉 Twój rachunek.
-👉 Twój portfel.
-
-Pytanie nie brzmi czy.
-Pytanie brzmi — kiedy to poczujesz.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-The Suez Crisis stopped the British Empire. Will Hormuz defeat the US?
+Iran war live: US vows ‘economic D-Day’; Tehran threatens Gulf oil exports
 
-In the latest episode of Al Jazeera’s new podcast, Deja Vu looks at how oil, shipping and war shape the Gulf.
+US Treasury Secretary Scott Bessent says Washington aims to &#039;sever every economic lifeline&#039; that sustains Iran.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -37,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 25
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Iran’s government signals fuel price hike on eve of new US sanctions
-**Link:** https://www.aljazeera.com/economy/2026/8/23/iran-government-signals-fuel-price-hike-on-eve-of-new-us-sanctions?traffic_source=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** ‘We know this movie’: Iran mocks latest US sanctions
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -52,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran’s government signals fuel price hike on eve of new US sanctions
+‘We know this movie’: Iran mocks latest US sanctions
 
-Prices for food and other items are soaring, and there is a history of unrest, so any increase is being considered.
+Abbas Araghchi said new US sanctions, likely to be unveiled Monday, are like watching the &#039;same movie on repeat&#039;.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -69,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 22
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Canada, US and tit-for-tat tariffs: How will they impact their economies?
-**Link:** https://www.aljazeera.com/news/2026/8/23/canada-us-and-tit-for-tat-tariffs-how-will-it-impact-their-economies?traffic_source=rss
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions
+**Link:** https://www.aljazeera.com/news/2026/8/24/syria-israel-hold-us-mediated-talks-in-jordan-to-de-escalate-tensions?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -83,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Canada, US and tit-for-tat tariffs: How will they impact their economies?
+Syria, Israel hold US-mediated talks in Jordan to de-escalate tensions
 
-Both countries will suffer from the trade war with steeper tariffs raising business costs and consumer prices.
+Syria&#039;s foreign minister meets Israeli officials to de-escalate tensions after Israeli strike near Turkish border.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
