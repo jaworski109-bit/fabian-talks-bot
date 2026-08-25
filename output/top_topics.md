@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-08-24 18:29)
+# Fabian Talks — top tematy (2026-08-25 06:34)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 24
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 25
 **Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Trump administration announces global economic war on Iran
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss
+**Tytuł źródła:** How US sanctions on Iran ripple through global markets and consumers
+**Link:** https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump administration announces global economic war on Iran
+How US sanctions on Iran ripple through global markets and consumers
 
-The US says it is targeting all of Iran’s sources of revenue, including oil.
+New sanctions hit Iran&#039;s aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 14
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** What to expect as Iran braces for new US economic measures amid war
-**Link:** https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war?traffic_source=rss
+**Score:** 22
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, mocny trigger portfel/paliwo
+**Tytuł źródła:** US public support for Iran war falls as Trump approval at record low: Poll
+**Link:** https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-What to expect as Iran braces for new US economic measures amid war
+US public support for Iran war falls as Trump approval at record low: Poll
 
-Tehran may count on links with China and others to weather the storm, but average Iranian people will bear the brunt.
+Falling Republican support, rising gas prices, and fears of a long conflict drive a decline in backing for the Iran war.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Trump administration announces ‘economic D-day’ sanctions on Iran
-**Link:** https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss
+**Score:** 18
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Iran war live: Pakistan reports progress on restoring US-Iran MoU
+**Link:** https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump administration announces ‘economic D-day’ sanctions on Iran
+Iran war live: Pakistan reports progress on restoring US-Iran MoU
 
-Treasury Secretary Scott Bessent says US sanctions will intensify to choke off Iran&#039;s revenues and isolate the country.
+Washington has slapped new sanctions on Tehran and warned Iran&#039;s trade partners they will face consequences.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
