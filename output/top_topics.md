@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-08-25 06:34)
+# Fabian Talks — top tematy (2026-08-25 18:29)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 25
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** How US sanctions on Iran ripple through global markets and consumers
-**Link:** https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 21
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, mocny trigger portfel/paliwo
+**Tytuł źródła:** China hits out at 'illegal' new US sanctions on Iran and trading partners
+**Link:** https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-How US sanctions on Iran ripple through global markets and consumers
+China hits out at 'illegal' new US sanctions on Iran and trading partners
 
-New sanctions hit Iran&#039;s aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.
+The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 22
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, mocny trigger portfel/paliwo
-**Tytuł źródła:** US public support for Iran war falls as Trump approval at record low: Poll
-**Link:** https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss
+**Score:** 15
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%
+**Link:** https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US public support for Iran war falls as Trump approval at record low: Poll
+Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%
 
-Falling Republican support, rising gas prices, and fears of a long conflict drive a decline in backing for the Iran war.
+The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 18
+**Score:** 14
 **Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Iran war live: Pakistan reports progress on restoring US-Iran MoU
-**Link:** https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss
+**Tytuł źródła:** Sanctions or missiles? How Gulf will view Trump’s new Iran approach
+**Link:** https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war live: Pakistan reports progress on restoring US-Iran MoU
+Sanctions or missiles? How Gulf will view Trump’s new Iran approach
 
-Washington has slapped new sanctions on Tehran and warned Iran&#039;s trade partners they will face consequences.
+As Washington pressures Tehran, Gulf states weigh sanctions against the risk of escalation.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
