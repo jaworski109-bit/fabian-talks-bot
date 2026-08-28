@@ -1,42 +1,10 @@
-# Fabian Talks — top tematy (2026-08-28 01:59)
+# Fabian Talks — top tematy (2026-08-28 17:58)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 26
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Iran war live: Tehran prepares conditions to open Strait of Hormuz
-**Link:** https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz?traffic_source=rss
-
-### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
-
-To nie jest tylko geopolityka.
-To jest koszt życia.
-
-### Tekst pod post
-Iran war live: Tehran prepares conditions to open Strait of Hormuz
-
-Iran says it is preparing to draft conditions to open the Strait of Hormuz following mediator requests.
-
-Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
-
-Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
-
-### Hook follow
-Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
-
-### Hashtagi
-#wojna #ropa #paliwo #gospodarka #geopolityka
-
----
-
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 22
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Chad accuses Sudan of deadly air strike near shared border
-**Link:** https://www.aljazeera.com/news/2026/8/28/chad-accuses-sudan-of-deadly-air-strike-near-shared-border?traffic_source=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** 6 months of war on Iran
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/28/6-months-of-war-on-iran?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Chad accuses Sudan of deadly air strike near shared border
+6 months of war on Iran
 
-An air strike on a fuel market near Chad&#039;s border with Sudan killed 12 and injured seven, according to officials.
+The US-Israeli war on Iran has reached the six-month mark, with no sign of slowing down.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,25 +31,55 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ORMUZ ZAPŁONIE?
-**Score:** 22
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Iran says it will name its terms for reopening Strait of Hormuz
-**Link:** https://www.aljazeera.com/economy/2026/8/28/iran-says-it-will-name-its-terms-for-reopening-strait-of-hormuz?traffic_source=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 10
+**Powody:** konflikt/eskalacja, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Al Jazeera reports from Nepal as flood survivors flee new threat
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/28/08-28-26-barnaby-lo-wt-reported?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran says it will name its terms for reopening Strait of Hormuz
+Al Jazeera reports from Nepal as flood survivors flee new threat
 
-Iran to issue terms for reopening Strait of Hormuz as mediating countries send delegations to Tehran to revive talks.
+Al Jazeera reports from flood-hit Bidur, Nepal, as residents flee towards higher ground amid threats of another flood.
+
+Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
+
+Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
+
+### Hook follow
+Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
+
+### Hashtagi
+#wojna #ropa #paliwo #gospodarka #geopolityka
+
+---
+
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Can Trump really rename Lake Ontario, ‘Lake America’?
+**Link:** https://www.aljazeera.com/news/2026/8/28/can-trump-really-rename-lake-ontario-lake-america?traffic_source=rss
+
+### Tekst na rolkę
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
+
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
+
+### Tekst pod post
+Can Trump really rename Lake Ontario, ‘Lake America’?
+
+Amid tariff war with Canada, Trump has signed an executive order renaming the shared lake.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
