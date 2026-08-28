@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-27T17:11:47.328636",
+  "generated_at": "2026-08-28T01:59:02.156641",
   "topics": [
     {
-      "title": "War on Iran: Diplomacy intensifies",
-      "summary": "Trump talks to Al Jazeera, Qatar’s Prime Minister visits Tehran and a temporary route is agreed in the Strait of Hormuz.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/war-on-iran-diplomacy-intensifies?traffic_source=rss",
+      "title": "Iran war live: Tehran prepares conditions to open Strait of Hormuz",
+      "summary": "Iran says it is preparing to draft conditions to open the Strait of Hormuz following mediator requests.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/28/iran-war-live-tehran-prepares-conditions-to-open-strait-of-hormuz?traffic_source=rss",
       "score": 26,
       "reasons": [
         "konflikt/eskalacja",
@@ -15,7 +15,7 @@
       ],
       "thumbnail": "ORMUZ ZAPŁONIE?",
       "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
-      "post_text": "War on Iran: Diplomacy intensifies\n\nTrump talks to Al Jazeera, Qatar’s Prime Minister visits Tehran and a temporary route is agreed in the Strait of Hormuz.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Iran war live: Tehran prepares conditions to open Strait of Hormuz\n\nIran says it is preparing to draft conditions to open the Strait of Hormuz following mediator requests.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -26,18 +26,19 @@
       ]
     },
     {
-      "title": "Six months after US strike on Iran school, parents still grieve",
-      "summary": "Six months after a US missile strike on an Iranian school killed at least 170 people, most of them children.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/six-months-after-us-strike-on-iran-school-parents-still-grieve?traffic_source=rss",
-      "score": 17,
+      "title": "Chad accuses Sudan of deadly air strike near shared border",
+      "summary": "An air strike on a fuel market near Chad&#039;s border with Sudan killed 12 and injured seven, according to officials.",
+      "link": "https://www.aljazeera.com/news/2026/8/28/chad-accuses-sudan-of-deadly-air-strike-near-shared-border?traffic_source=rss",
+      "score": 22,
       "reasons": [
         "konflikt/eskalacja",
-        "duże państwa/geopolityka",
-        "czytelny tytuł"
+        "wpływ na ceny/handel",
+        "czytelny tytuł",
+        "mocny trigger portfel/paliwo"
       ],
-      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
+      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Six months after US strike on Iran school, parents still grieve\n\nSix months after a US missile strike on an Iranian school killed at least 170 people, most of them children.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Chad accuses Sudan of deadly air strike near shared border\n\nAn air strike on a fuel market near Chad&#039;s border with Sudan killed 12 and injured seven, according to officials.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -48,18 +49,20 @@
       ]
     },
     {
-      "title": "Qatar PM visits Tehran as Iran faces mounting US economic pressure",
-      "summary": "Qatar’s Prime Minister met Iran’s foreign minister in Tehran as the US vowed to intensify economic pressure on Iran.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/27/qatar-pm-visits-tehran-as-iran-faces-mounting-us-economic-pressure?traffic_source=rss",
-      "score": 9,
+      "title": "Iran says it will name its terms for reopening Strait of Hormuz",
+      "summary": "Iran to issue terms for reopening Strait of Hormuz as mediating countries send delegations to Tehran to revive talks.",
+      "link": "https://www.aljazeera.com/economy/2026/8/28/iran-says-it-will-name-its-terms-for-reopening-strait-of-hormuz?traffic_source=rss",
+      "score": 22,
       "reasons": [
         "konflikt/eskalacja",
+        "wpływ na ceny/handel",
         "duże państwa/geopolityka",
-        "czytelny tytuł"
+        "czytelny tytuł",
+        "silny trigger Ormuz"
       ],
-      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Qatar PM visits Tehran as Iran faces mounting US economic pressure\n\nQatar’s Prime Minister met Iran’s foreign minister in Tehran as the US vowed to intensify economic pressure on Iran.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "thumbnail": "ORMUZ ZAPŁONIE?",
+      "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
+      "post_text": "Iran says it will name its terms for reopening Strait of Hormuz\n\nIran to issue terms for reopening Strait of Hormuz as mediating countries send delegations to Tehran to revive talks.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
