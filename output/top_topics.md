@@ -1,23 +1,24 @@
-# Fabian Talks — top tematy (2026-08-29 20:15)
+# Fabian Talks — top tematy (2026-08-30 11:00)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 11
-**Powody:** wpływ na ceny/handel, mocny trigger portfel/paliwo
-**Tytuł źródła:** Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil
-**Link:** https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss
+## 1. ORMUZ ZAPŁONIE?
+**Score:** 27
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist
+**Link:** https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil
+Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist
 
-Venezuelan interim president says the unusual agreement will help revive her country's economy.
+Khamenei urges Gulf rulers to confront their &#039;real enemy&#039; as Iran keeps Hormuz restricted amid stalled diplomacy.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +33,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Turkiye summons Ukraine ambassador over Black Sea attacks
-**Link:** https://www.aljazeera.com/news/2026/8/29/turkiye-summons-ukraine-ambassador-over-black-sea-attacks-2?traffic_source=rss
+**Score:** 18
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** The home front: How Israel, Iran, and US leaders have been hit by the war
+**Link:** https://www.aljazeera.com/news/2026/8/30/the-home-front-how-israel-iran-and-us-leaders-have-been-hit-by-the-war?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Turkiye summons Ukraine ambassador over Black Sea attacks
+The home front: How Israel, Iran, and US leaders have been hit by the war
 
-Two Turkish-operated vessels have been struck this week as a result of the war between Russia and Ukraine.
+Six months into the US-Israel war on Iran, the governments in the three countries are fighting political wars at home.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +64,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 7
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say
-**Link:** https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss
+**Score:** 17
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Israel says Netanyahu’s son ‘urgently evacuated’ from the US after threat
+**Link:** https://www.aljazeera.com/news/2026/8/30/israel-says-netanyahus-son-urgently-evacuated-from-the-us-after-threat?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say
+Israel says Netanyahu’s son ‘urgently evacuated’ from the US after threat
 
-But they say Moscow will likely continue its "hybrid activity" against Nato members, short of direct military action.
+Right-wing activist and podcaster Yair Netanyahu lived in the US for several years before his hasty departure.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
