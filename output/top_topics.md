@@ -1,24 +1,23 @@
-# Fabian Talks — top tematy (2026-08-30 11:00)
+# Fabian Talks — top tematy (2026-08-30 20:21)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 27
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist
-**Link:** https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 13
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Trump says US will refill its petroleum reserves using Venezuelan oil
+**Link:** https://www.aljazeera.com/news/2026/8/30/trump-says-us-will-refill-its-petroleum-reserves-using-venezuelan-oil?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist
+Trump says US will refill its petroleum reserves using Venezuelan oil
 
-Khamenei urges Gulf rulers to confront their &#039;real enemy&#039; as Iran keeps Hormuz restricted amid stalled diplomacy.
+President Donald Trump says in a post that the &#039;topping out&#039; process will ‌begin shortly.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 18
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** The home front: How Israel, Iran, and US leaders have been hit by the war
-**Link:** https://www.aljazeera.com/news/2026/8/30/the-home-front-how-israel-iran-and-us-leaders-have-been-hit-by-the-war?traffic_source=rss
+## 2. CENY PÓJDĄ W GÓRĘ?
+**Score:** 11
+**Powody:** wpływ na ceny/handel, mocny trigger portfel/paliwo
+**Tytuł źródła:** Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil
+**Link:** https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-The home front: How Israel, Iran, and US leaders have been hit by the war
+Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil
 
-Six months into the US-Israel war on Iran, the governments in the three countries are fighting political wars at home.
+Venezuelan interim president says the unusual agreement will help revive her country's economy.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Israel says Netanyahu’s son ‘urgently evacuated’ from the US after threat
-**Link:** https://www.aljazeera.com/news/2026/8/30/israel-says-netanyahus-son-urgently-evacuated-from-the-us-after-threat?traffic_source=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Israeli settler rabbi says Palestinians should leave the occupied West Bank
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Israel says Netanyahu’s son ‘urgently evacuated’ from the US after threat
+Israeli settler rabbi says Palestinians should leave the occupied West Bank
 
-Right-wing activist and podcaster Yair Netanyahu lived in the US for several years before his hasty departure.
+Video shows an Israeli settler rabbi telling peace activists that non-Jews in Israel have no national rights.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
