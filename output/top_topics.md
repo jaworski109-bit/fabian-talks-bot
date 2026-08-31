@@ -1,23 +1,24 @@
-# Fabian Talks — top tematy (2026-08-30 20:21)
+# Fabian Talks — top tematy (2026-08-31 12:22)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Trump says US will refill its petroleum reserves using Venezuelan oil
-**Link:** https://www.aljazeera.com/news/2026/8/30/trump-says-us-will-refill-its-petroleum-reserves-using-venezuelan-oil?traffic_source=rss
+## 1. ORMUZ ZAPŁONIE?
+**Score:** 35
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** US and Iran trade strikes for first time in weeks
+**Link:** https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Trump says US will refill its petroleum reserves using Venezuelan oil
+US and Iran trade strikes for first time in weeks
 
-President Donald Trump says in a post that the &#039;topping out&#039; process will ‌begin shortly.
+The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,24 +32,25 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 11
-**Powody:** wpływ na ceny/handel, mocny trigger portfel/paliwo
-**Tytuł źródła:** Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil
-**Link:** https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss
+## 2. ORMUZ ZAPŁONIE?
+**Score:** 26
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** Iran attacks Jordan, UAE after US bombs Larak Island: What’s the latest?
+**Link:** https://www.aljazeera.com/news/2026/8/31/iran-attacks-jordan-uae-after-us-bombs-larak-island-whats-the-latest?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil
+Iran attacks Jordan, UAE after US bombs Larak Island: What’s the latest?
 
-Venezuelan interim president says the unusual agreement will help revive her country's economy.
+The retaliatory attacks came after the US targeted two Iranian launchers on Larak Island in the Strait of Hormuz.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +65,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
+**Score:** 15
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Israeli settler rabbi says Palestinians should leave the occupied West Bank
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss
+**Tytuł źródła:** Spain’s Sanchez says Russia, Israel spread disinformation on Ceuta crisis
+**Link:** https://www.aljazeera.com/news/2026/8/31/spains-sanchez-condemns-russia-israel-disinformation-during-ceuta-crisis?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +79,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Israeli settler rabbi says Palestinians should leave the occupied West Bank
+Spain’s Sanchez says Russia, Israel spread disinformation on Ceuta crisis
 
-Video shows an Israeli settler rabbi telling peace activists that non-Jews in Israel have no national rights.
+Sanchez cited EU research which had found that Russia ⁠and ⁠Israel both spread disinformation during the crisis.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
