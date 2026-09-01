@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-08-31 22:15)
+# Fabian Talks — top tematy (2026-09-01 10:54)
 
 ## 1. ORMUZ ZAPŁONIE?
 **Score:** 35
@@ -33,6 +33,37 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 23
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Amazon rigged $20bn worth of ad prices, US lawsuit alleges
+**Link:** https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss
+
+### Tekst na rolkę
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
+
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
+
+### Tekst pod post
+Amazon rigged $20bn worth of ad prices, US lawsuit alleges
+
+Amazon responded to the lawsuit, arguing the US Federal Trade Commission "misunderstands" their ad market.
+
+Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
+
+Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
+
+### Hook follow
+Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
+
+### Hashtagi
+#wojna #ropa #paliwo #gospodarka #geopolityka
+
+---
+
+## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 18
 **Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
 **Tytuł źródła:** Ex-congressman George Santos banned from betting platform for life
@@ -50,37 +81,6 @@ a kończą w Twoim portfelu.
 Ex-congressman George Santos banned from betting platform for life
 
 The prediction market operator Kalshi says Santos made barred trades and misleading comments that influenced prices.
-
-Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
-
-Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
-
-### Hook follow
-Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
-
-### Hashtagi
-#wojna #ropa #paliwo #gospodarka #geopolityka
-
----
-
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Lebanon asks Greece to help enforce agreement with Israel
-**Link:** https://www.aljazeera.com/news/2026/8/31/lebanon-asks-greece-to-help-enforce-agreement-with-israel?traffic_source=rss
-
-### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
-
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
-
-### Tekst pod post
-Lebanon asks Greece to help enforce agreement with Israel
-
-After Greece agrees to Israeli weapons deal, Joseph Aoun asks Athens to help advance US-brokered framework agreement.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
