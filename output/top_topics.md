@@ -1,24 +1,23 @@
-# Fabian Talks — top tematy (2026-09-02 20:22)
+# Fabian Talks — top tematy (2026-09-03 10:30)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 19
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz
-**Link:** https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 27
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Gulf insecurity fuels US energy dominance
+**Link:** https://www.aljazeera.com/opinions/2026/9/3/how-gulf-insecurity-fuels-us-energy-dominance?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz
+Gulf insecurity fuels US energy dominance
 
-Regional neighbours condemn attack this week that killed two crew members from the Philippines.
+The no-war, no-peace status quo with Iran increasingly benefits the US, its energy sector and its ally Israel.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -67,8 +66,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 17
 **Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** EU ministers in Ireland tackle Israeli settlement trade and Ukraine defence
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-26-reported-ireland-talks?traffic_source=rss
+**Tytuł źródła:** EU foreign ministers fail to break deadlock over Israel and Ukraine
+**Link:** https://www.aljazeera.com/news/2026/9/3/eu-foreign-ministers-fail-to-break-deadlock-over-israel-and-ukraine?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -79,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-EU ministers in Ireland tackle Israeli settlement trade and Ukraine defence
+EU foreign ministers fail to break deadlock over Israel and Ukraine
 
-EU ministers in Ireland have announced a mission to support Lebanon’s army but remain divided on sanctions on Israel.
+EU officials met in Ireland but failed to agree on imposing trade sanctions on Israel or military support for Ukraine.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
