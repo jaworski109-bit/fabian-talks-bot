@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-09-03 10:30)
+# Fabian Talks — top tematy (2026-09-03 20:22)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 27
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Gulf insecurity fuels US energy dominance
-**Link:** https://www.aljazeera.com/opinions/2026/9/3/how-gulf-insecurity-fuels-us-energy-dominance?traffic_source=rss
+**Score:** 17
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Foreign fighters and external support fuel Sudan’s war: UN-backed probe
+**Link:** https://www.aljazeera.com/news/2026/9/3/foreign-fighters-and-external-support-fuel-sudans-war-un-backed-probe?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Gulf insecurity fuels US energy dominance
+Foreign fighters and external support fuel Sudan’s war: UN-backed probe
 
-The no-war, no-peace status quo with Iran increasingly benefits the US, its energy sector and its ally Israel.
+Investigation says support for warring parties strengthens military capabilities, intensifies humanitarian crisis.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,25 +31,24 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ORMUZ ZAPŁONIE?
-**Score:** 19
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says
-**Link:** https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 17
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Trump calls media ‘treasonous scum’ over reports of low Iran war munitions
+**Link:** https://www.aljazeera.com/news/2026/9/3/trump-calls-media-treasonous-scum-over-reports-of-low-iran-war-munitions?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says
+Trump calls media ‘treasonous scum’ over reports of low Iran war munitions
 
-The kingdom condemns the targeting of Sidr, which was reportedly hit by unknown projectiles in the Strait of Hormuz on Monday.
+Comments latest swipe by president against critical media coverage of what experts call troubling shortages.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** EU foreign ministers fail to break deadlock over Israel and Ukraine
-**Link:** https://www.aljazeera.com/news/2026/9/3/eu-foreign-ministers-fail-to-break-deadlock-over-israel-and-ukraine?traffic_source=rss
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Gaza farmers restore seed bank to preserve local crops
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-EU foreign ministers fail to break deadlock over Israel and Ukraine
+Gaza farmers restore seed bank to preserve local crops
 
-EU officials met in Ireland but failed to agree on imposing trade sanctions on Israel or military support for Ukraine.
+Farmers are rebuilding a seed bank destroyed during Israel’s war on Gaza to preserve local crop varieties
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
