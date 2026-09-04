@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-09-03 20:22)
+# Fabian Talks — top tematy (2026-09-04 10:19)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 17
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Foreign fighters and external support fuel Sudan’s war: UN-backed probe
-**Link:** https://www.aljazeera.com/news/2026/9/3/foreign-fighters-and-external-support-fuel-sudans-war-un-backed-probe?traffic_source=rss
+**Score:** 30
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** US diesel prices hit an all-time-high
+**Link:** https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Foreign fighters and external support fuel Sudan’s war: UN-backed probe
+US diesel prices hit an all-time-high
 
-Investigation says support for warring parties strengthens military capabilities, intensifies humanitarian crisis.
+Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Trump calls media ‘treasonous scum’ over reports of low Iran war munitions
-**Link:** https://www.aljazeera.com/news/2026/9/3/trump-calls-media-treasonous-scum-over-reports-of-low-iran-war-munitions?traffic_source=rss
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Israel takes its war on Palestine into the AI age
+**Link:** https://www.aljazeera.com/opinions/2026/9/4/israel-takes-its-war-on-palestine-into-the-ai-age?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump calls media ‘treasonous scum’ over reports of low Iran war munitions
+Israel takes its war on Palestine into the AI age
 
-Comments latest swipe by president against critical media coverage of what experts call troubling shortages.
+The Hanover affair exposes a new front in Israel’s long-running effort to shape how Palestinians are understood.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -65,8 +65,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Gaza farmers restore seed bank to preserve local crops
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss
+**Tytuł źródła:** Why has the Philippine peso plunged to a record low?
+**Link:** https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Gaza farmers restore seed bank to preserve local crops
+Why has the Philippine peso plunged to a record low?
 
-Farmers are rebuilding a seed bank destroyed during Israel’s war on Gaza to preserve local crop varieties
+The Southeast Asian country&#039;s currency has plummeted amid the fallout of the Iran war and economic challenges at home.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
