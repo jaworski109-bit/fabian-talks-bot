@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-09-04 10:19)
+# Fabian Talks — top tematy (2026-09-04 20:08)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
 **Score:** 30
@@ -31,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Israel takes its war on Palestine into the AI age
-**Link:** https://www.aljazeera.com/opinions/2026/9/4/israel-takes-its-war-on-palestine-into-the-ai-age?traffic_source=rss
+## 2. CENY PÓJDĄ W GÓRĘ?
+**Score:** 19
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** October 7 attack shapes Israel’s elections and fuels political blame
+**Link:** https://www.aljazeera.com/news/2026/9/4/october-7-attack-shapes-israels-elections-and-fuels-political-blame?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Israel takes its war on Palestine into the AI age
+October 7 attack shapes Israel’s elections and fuels political blame
 
-The Hanover affair exposes a new front in Israel’s long-running effort to shape how Palestinians are understood.
+Three years on, October 7 is central to Israeli politics as Netanyahu faces pressure and deflects blame for his failures
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -65,8 +65,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Why has the Philippine peso plunged to a record low?
-**Link:** https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss
+**Tytuł źródła:** Diesel price hits all-time high in US amid Iran war woes
+**Link:** https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Why has the Philippine peso plunged to a record low?
+Diesel price hits all-time high in US amid Iran war woes
 
-The Southeast Asian country&#039;s currency has plummeted amid the fallout of the Iran war and economic challenges at home.
+Price of gasoline also sets new record for Labor Day weekend ahead of crucial midterm elections in November.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 

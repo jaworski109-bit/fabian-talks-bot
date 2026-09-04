@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T10:19:18.471714",
+  "generated_at": "2026-09-04T20:08:03.073451",
   "topics": [
     {
       "title": "US diesel prices hit an all-time-high",
@@ -26,18 +26,19 @@
       ]
     },
     {
-      "title": "Israel takes its war on Palestine into the AI age",
-      "summary": "The Hanover affair exposes a new front in Israel’s long-running effort to shape how Palestinians are understood.",
-      "link": "https://www.aljazeera.com/opinions/2026/9/4/israel-takes-its-war-on-palestine-into-the-ai-age?traffic_source=rss",
-      "score": 13,
+      "title": "October 7 attack shapes Israel’s elections and fuels political blame",
+      "summary": "Three years on, October 7 is central to Israeli politics as Netanyahu faces pressure and deflects blame for his failures",
+      "link": "https://www.aljazeera.com/news/2026/9/4/october-7-attack-shapes-israels-elections-and-fuels-political-blame?traffic_source=rss",
+      "score": 19,
       "reasons": [
         "konflikt/eskalacja",
         "duże państwa/geopolityka",
-        "czytelny tytuł"
+        "czytelny tytuł",
+        "mocny trigger portfel/paliwo"
       ],
-      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
+      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Israel takes its war on Palestine into the AI age\n\nThe Hanover affair exposes a new front in Israel’s long-running effort to shape how Palestinians are understood.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "October 7 attack shapes Israel’s elections and fuels political blame\n\nThree years on, October 7 is central to Israeli politics as Netanyahu faces pressure and deflects blame for his failures\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -48,9 +49,9 @@
       ]
     },
     {
-      "title": "Why has the Philippine peso plunged to a record low?",
-      "summary": "The Southeast Asian country&#039;s currency has plummeted amid the fallout of the Iran war and economic challenges at home.",
-      "link": "https://www.aljazeera.com/economy/2026/9/4/why-has-the-philippines-peso-plunged-to-a-record-low?traffic_source=rss",
+      "title": "Diesel price hits all-time high in US amid Iran war woes",
+      "summary": "Price of gasoline also sets new record for Labor Day weekend ahead of crucial midterm elections in November.",
+      "link": "https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes?traffic_source=rss",
       "score": 13,
       "reasons": [
         "konflikt/eskalacja",
@@ -59,7 +60,7 @@
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Why has the Philippine peso plunged to a record low?\n\nThe Southeast Asian country&#039;s currency has plummeted amid the fallout of the Iran war and economic challenges at home.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Diesel price hits all-time high in US amid Iran war woes\n\nPrice of gasoline also sets new record for Labor Day weekend ahead of crucial midterm elections in November.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
