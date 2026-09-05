@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-09-05 09:47)
+# Fabian Talks — top tematy (2026-09-05 19:47)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** US imposes sanctions on Turkish bank, prompting legal threat
-**Link:** https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 25
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** US says it hit Iran oil tankers helping finance ‘regional proxies’
+**Link:** https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US imposes sanctions on Turkish bank, prompting legal threat
+US says it hit Iran oil tankers helping finance ‘regional proxies’
 
-US sanctions Turkish bank over alleged IRGC ties, accusing it of facilitating millions in transactions for Iran.
+US strikes have hit Iranian oil tankers in the Gulf of Oman and near Iran’s Kharg island.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Oil and politics: What Trump’s ‘historic’ deal means for Venezuela
-**Link:** https://www.aljazeera.com/features/2026/9/5/oil-and-politics-what-trumps-historic-deal-means-for?traffic_source=rss
+**Score:** 20
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** US hits three Iranian oil tankers after saying its warships were targeted
+**Link:** https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Oil and politics: What Trump’s ‘historic’ deal means for Venezuela
+US hits three Iranian oil tankers after saying its warships were targeted
 
-Venezuelans are hoping for free and fair elections, but the US may prioritise oil production.
+The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
+## 3. CENY PÓJDĄ W GÓRĘ?
 **Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Russia hits Ukrainian security headquarters in drone attack, Zelensky says
-**Link:** https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** US says it hit three Iranian oil tankers after attacks on warships
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Russia hits Ukrainian security headquarters in drone attack, Zelensky says
+US says it hit three Iranian oil tankers after attacks on warships
 
-The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.
+US Central Command says its forces struck three Iranian crude oil carriers on Saturday.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
