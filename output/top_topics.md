@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-09-04 20:08)
+# Fabian Talks — top tematy (2026-09-05 09:47)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 30
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** US diesel prices hit an all-time-high
-**Link:** https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 17
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** US imposes sanctions on Turkish bank, prompting legal threat
+**Link:** https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US diesel prices hit an all-time-high
+US imposes sanctions on Turkish bank, prompting legal threat
 
-Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.
+US sanctions Turkish bank over alleged IRGC ties, accusing it of facilitating millions in transactions for Iran.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 19
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** October 7 attack shapes Israel’s elections and fuels political blame
-**Link:** https://www.aljazeera.com/news/2026/9/4/october-7-attack-shapes-israels-elections-and-fuels-political-blame?traffic_source=rss
+**Score:** 13
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Oil and politics: What Trump’s ‘historic’ deal means for Venezuela
+**Link:** https://www.aljazeera.com/features/2026/9/5/oil-and-politics-what-trumps-historic-deal-means-for?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-October 7 attack shapes Israel’s elections and fuels political blame
+Oil and politics: What Trump’s ‘historic’ deal means for Venezuela
 
-Three years on, October 7 is central to Israeli politics as Netanyahu faces pressure and deflects blame for his failures
+Venezuelans are hoping for free and fair elections, but the US may prioritise oil production.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,9 +64,9 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Diesel price hits all-time high in US amid Iran war woes
-**Link:** https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes?traffic_source=rss
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Russia hits Ukrainian security headquarters in drone attack, Zelensky says
+**Link:** https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Diesel price hits all-time high in US amid Iran war woes
+Russia hits Ukrainian security headquarters in drone attack, Zelensky says
 
-Price of gasoline also sets new record for Labor Day weekend ahead of crucial midterm elections in November.
+The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 

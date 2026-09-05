@@ -1,66 +1,65 @@
 {
-  "generated_at": "2026-09-04T20:08:03.073451",
+  "generated_at": "2026-09-05T09:47:10.166680",
   "topics": [
     {
-      "title": "US diesel prices hit an all-time-high",
-      "summary": "Fuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.",
-      "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-      "score": 30,
-      "reasons": [
-        "konflikt/eskalacja",
-        "wpływ na ceny/handel",
-        "duże państwa/geopolityka",
-        "czytelny tytuł",
-        "mocny trigger portfel/paliwo"
-      ],
-      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "US diesel prices hit an all-time-high\n\nFuel prices have soared since the Iran conflict began at the end of February, mirroring the surge in wholesale oil prices.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
-      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
-      "hashtags": [
-        "#wojna",
-        "#ropa",
-        "#paliwo",
-        "#gospodarka",
-        "#geopolityka"
-      ]
-    },
-    {
-      "title": "October 7 attack shapes Israel’s elections and fuels political blame",
-      "summary": "Three years on, October 7 is central to Israeli politics as Netanyahu faces pressure and deflects blame for his failures",
-      "link": "https://www.aljazeera.com/news/2026/9/4/october-7-attack-shapes-israels-elections-and-fuels-political-blame?traffic_source=rss",
-      "score": 19,
+      "title": "US imposes sanctions on Turkish bank, prompting legal threat",
+      "summary": "US sanctions Turkish bank over alleged IRGC ties, accusing it of facilitating millions in transactions for Iran.",
+      "link": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss",
+      "score": 17,
       "reasons": [
         "konflikt/eskalacja",
         "duże państwa/geopolityka",
-        "czytelny tytuł",
-        "mocny trigger portfel/paliwo"
-      ],
-      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "October 7 attack shapes Israel’s elections and fuels political blame\n\nThree years on, October 7 is central to Israeli politics as Netanyahu faces pressure and deflects blame for his failures\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
-      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
-      "hashtags": [
-        "#wojna",
-        "#ropa",
-        "#paliwo",
-        "#gospodarka",
-        "#geopolityka"
-      ]
-    },
-    {
-      "title": "Diesel price hits all-time high in US amid Iran war woes",
-      "summary": "Price of gasoline also sets new record for Labor Day weekend ahead of crucial midterm elections in November.",
-      "link": "https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes?traffic_source=rss",
-      "score": 13,
-      "reasons": [
-        "konflikt/eskalacja",
-        "duże państwa/geopolityka",
+        "pilność/tempo",
         "czytelny tytuł"
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Diesel price hits all-time high in US amid Iran war woes\n\nPrice of gasoline also sets new record for Labor Day weekend ahead of crucial midterm elections in November.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "US imposes sanctions on Turkish bank, prompting legal threat\n\nUS sanctions Turkish bank over alleged IRGC ties, accusing it of facilitating millions in transactions for Iran.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
+      "hashtags": [
+        "#wojna",
+        "#ropa",
+        "#paliwo",
+        "#gospodarka",
+        "#geopolityka"
+      ]
+    },
+    {
+      "title": "Oil and politics: What Trump’s ‘historic’ deal means for Venezuela",
+      "summary": "Venezuelans are hoping for free and fair elections, but the US may prioritise oil production.",
+      "link": "https://www.aljazeera.com/features/2026/9/5/oil-and-politics-what-trumps-historic-deal-means-for?traffic_source=rss",
+      "score": 13,
+      "reasons": [
+        "wpływ na ceny/handel",
+        "czytelny tytuł",
+        "mocny trigger portfel/paliwo"
+      ],
+      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
+      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
+      "post_text": "Oil and politics: What Trump’s ‘historic’ deal means for Venezuela\n\nVenezuelans are hoping for free and fair elections, but the US may prioritise oil production.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
+      "hashtags": [
+        "#wojna",
+        "#ropa",
+        "#paliwo",
+        "#gospodarka",
+        "#geopolityka"
+      ]
+    },
+    {
+      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "summary": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
+      "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+      "score": 13,
+      "reasons": [
+        "konflikt/eskalacja",
+        "duże państwa/geopolityka",
+        "pilność/tempo",
+        "czytelny tytuł"
+      ],
+      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
+      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
+      "post_text": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says\n\nThe unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
