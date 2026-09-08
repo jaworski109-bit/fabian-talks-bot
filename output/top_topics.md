@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-09-07 20:58)
+# Fabian Talks — top tematy (2026-09-08 10:24)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** The domestic armed threat facing Iran
-**Link:** https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran?traffic_source=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 25
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** As fuel prices rise again, Iran’s government urges citizens to cut back
+**Link:** https://www.aljazeera.com/news/2026/9/8/as-fuel-prices-rise-again-irans-government-urges-citizens-to-cut-back?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-The domestic armed threat facing Iran
+As fuel prices rise again, Iran’s government urges citizens to cut back
 
-External support for ethnic armed groups poses an escalating security threat to Iran, experts and state officials warn.
+New fuel pricing targets consumption above 110 litres monthly, doubling costs to 100,000 riyals per litre.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Russia shutters German consulate as diplomatic freeze deepens
-**Link:** https://www.aljazeera.com/news/2026/9/7/russia-shutters-german-consulate-as-diplomatic-freeze-deepens?traffic_source=rss
+**Score:** 19
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Trump threatens to stop sale of Canadian Bombardier jets in US
+**Link:** https://www.bbc.co.uk/news/articles/c4gj8xx5010o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Russia shutters German consulate as diplomatic freeze deepens
+Trump threatens to stop sale of Canadian Bombardier jets in US
 
-Moscow retaliates after similar move from Berlin last week citing failed drone attack on airport.
+The threat against one of Canada's largest companies comes amid an escalating trade war between the two neighbours.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
+**Score:** 17
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Israel’s plan to split the West Bank
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/7/israels-plan-to-split-the-west-bank?traffic_source=rss
+**Tytuł źródła:** How South Korea finds itself trapped in the US-Iran war
+**Link:** https://www.aljazeera.com/news/2026/9/8/how-south-korea-finds-itself-trapped-in-the-us-iran-war?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Israel’s plan to split the West Bank
+How South Korea finds itself trapped in the US-Iran war
 
-Israel&#039;s E1 plan risks splitting the West Bank in two.
+Washington is pressuring a reluctant Seoul to support its naval blockade of Iran; Tehran is threatening consequences.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
