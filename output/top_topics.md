@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-09-09 20:16)
+# Fabian Talks — top tematy (2026-09-10 10:22)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 19
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** US to ban imports of some Canadian alcohol, dairy goods and motorbikes
-**Link:** https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 29
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Iran war won't end until after crucial November elections, says Trump
+**Link:** https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US to ban imports of some Canadian alcohol, dairy goods and motorbikes
+Iran war won't end until after crucial November elections, says Trump
 
-It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.
+The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 16
-**Powody:** wpływ na ceny/handel, mocny trigger portfel/paliwo
-**Tytuł źródła:** Oil hits $100 a barrel for first time since July after US and Houthi strikes
-**Link:** https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss
+**Score:** 18
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Watch: Do Republicans blame Trump for high oil prices?
+**Link:** https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Oil hits $100 a barrel for first time since July after US and Houthi strikes
+Watch: Do Republicans blame Trump for high oil prices?
 
-Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday
+The BBC's Sarah Smith is at the Republican Party's first midterms convention in Texas, taking place as oil prices rise to $100 (£74) a barrel.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. CENY PÓJDĄ W GÓRĘ?
+## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Argentina to file criminal case against oil company operating in Falklands
-**Link:** https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Ukrainian drones strike Russian Caspian Sea port in Dagestan
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/10/aje-onl-nf_suspected-ukrainian-drones-strike-dagestan-100926?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Argentina to file criminal case against oil company operating in Falklands
+Ukrainian drones strike Russian Caspian Sea port in Dagestan
 
-The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.
+Fires and explosions were seen in Russia’s Dagestan after a Ukrainian drone attack.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
