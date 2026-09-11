@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-09-10 20:17)
+# Fabian Talks — top tematy (2026-09-11 10:23)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
 **Score:** 29
@@ -31,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 20
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, mocny trigger portfel/paliwo
-**Tytuł źródła:** Oil jumps to $105, pushing up chances of a US interest rate increase
-**Link:** https://www.aljazeera.com/economy/2026/9/10/oil-jumps-to-105-pushing-up-chances-of-a-us-interest-rate-increase?traffic_source=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 16
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** How 9/11 helped Israel sell its war on Palestinians to America
+**Link:** https://www.aljazeera.com/opinions/2026/9/11/how-9-11-helped-israel-sell-its-war-on-palestinians-to?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Oil jumps to $105, pushing up chances of a US interest rate increase
+How 9/11 helped Israel sell its war on Palestinians to America
 
-Prices spiked as attacks on oil tankers escalated amid the US-Iran war.
+The &#039;war on terror&#039; made Israeli repression easier to present as part of a shared struggle against a common enemy.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. CENY PÓJDĄ W GÓRĘ?
-**Score:** 18
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Watch: Do Republicans blame Trump for high oil prices?
-**Link:** https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 10
+**Powody:** konflikt/eskalacja, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Anthropic blocks possible attempt to use AI to make biological weapons
+**Link:** https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Watch: Do Republicans blame Trump for high oil prices?
+Anthropic blocks possible attempt to use AI to make biological weapons
 
-The BBC's Sarah Smith is at the Republican Party's first midterms convention in Texas, taking place as oil prices rise to $100 (£74) a barrel.
+The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
