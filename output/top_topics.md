@@ -1,37 +1,6 @@
-# Fabian Talks — top tematy (2026-09-12 09:53)
+# Fabian Talks — top tematy (2026-09-12 19:59)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 28
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** How global trade and oil prices could be hit by Houthi advance
-**Link:** https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss
-
-### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
-
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
-
-### Tekst pod post
-How global trade and oil prices could be hit by Houthi advance
-
-Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.
-
-Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
-
-Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
-
-### Hook follow
-Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
-
-### Hashtagi
-#wojna #ropa #paliwo #gospodarka #geopolityka
-
----
-
-## 2. CENY PÓJDĄ W GÓRĘ?
 **Score:** 24
 **Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
 **Tytuł źródła:** Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
@@ -62,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 16
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** BRICS meets in India: What’s on the agenda, why it matters
-**Link:** https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss
+**Tytuł źródła:** Iran, UAE hold first talks at BRICS summit since conflict began
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +46,40 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-BRICS meets in India: What’s on the agenda, why it matters
+Iran, UAE hold first talks at BRICS summit since conflict began
 
-This year&#039;s summit comes amid the US-Israel war on Iran, Russia&#039;s war on Ukraine and global economic challenges.
+Iran’s President has met Abu Dhabi’s Crown Prince at the BRICS summit for their highest-level talks since the war began.
+
+Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
+
+Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
+
+### Hook follow
+Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
+
+### Hashtagi
+#wojna #ropa #paliwo #gospodarka #geopolityka
+
+---
+
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Selling the war: Purges, polygraphs and propaganda
+**Link:** https://www.aljazeera.com/video/the-listening-post/2026/9/12/selling-the-war-purges-polygraphs-and-propaganda?traffic_source=rss
+
+### Tekst na rolkę
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
+
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
+
+### Tekst pod post
+Selling the war: Purges, polygraphs and propaganda
+
+The Iran war has become ever more challenging for the Trump administration to sell.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
