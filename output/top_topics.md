@@ -1,24 +1,23 @@
-# Fabian Talks — top tematy (2026-09-11 20:17)
+# Fabian Talks — top tematy (2026-09-12 09:53)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 27
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Iran says will discuss Strait of Hormuz with Gulf states on Monday
-**Link:** https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday?traffic_source=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 28
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** How global trade and oil prices could be hit by Houthi advance
+**Link:** https://www.bbc.co.uk/news/videos/cy5z02w1zxxo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran says will discuss Strait of Hormuz with Gulf states on Monday
+How global trade and oil prices could be hit by Houthi advance
 
-Iran&#039;s Foreign Ministry says the meeting in Oman is to &#039;promote better understanding among the countries of the region&#039;.
+Yemen's Houthis have seized territory near the Bab al-Mandab Strait - a key trade gateway for oil and global shipping.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** How US leaders remembered the 25th anniversary of the 9/11 attacks
-**Link:** https://www.aljazeera.com/news/2026/9/11/how-us-leaders-remembered-the-25th-anniversary-of-the-9-11?traffic_source=rss
+## 2. CENY PÓJDĄ W GÓRĘ?
+**Score:** 24
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
+**Link:** https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-How US leaders remembered the 25th anniversary of the 9/11 attacks
+Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq
 
-Trump drew parallels to the US&#039;s present-day war against Iran, while figures like Abdul El-Sayed called for inclusivity.
+Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Rising petrol costs drive sharp inflation increase in US in August
-**Link:** https://www.aljazeera.com/economy/2026/9/11/rising-petrol-costs-drive-sharp-inflation-increase-in-us-in-august?traffic_source=rss
+**Score:** 16
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** BRICS meets in India: What’s on the agenda, why it matters
+**Link:** https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Rising petrol costs drive sharp inflation increase in US in August
+BRICS meets in India: What’s on the agenda, why it matters
 
-Petrol prices jumped 3.9 percent month-to-month, accounting for one-third of the overall inflation increase in August.
+This year&#039;s summit comes amid the US-Israel war on Iran, Russia&#039;s war on Ukraine and global economic challenges.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
