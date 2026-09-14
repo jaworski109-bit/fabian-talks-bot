@@ -1,24 +1,23 @@
-# Fabian Talks — top tematy (2026-09-14 11:26)
+# Fabian Talks — top tematy (2026-09-14 21:16)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 22
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Strait of Hormuz talks postponed due to Yemen events, says Iran
-**Link:** https://www.aljazeera.com/news/2026/9/14/strait-of-hormuz-talks-postponed-due-to-yemen-events-says-iran?traffic_source=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 13
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Syria fuel price hikes test public patience with economic recovery
+**Link:** https://www.aljazeera.com/features/2026/9/14/syria-fuel-price-hikes-test-public-patience-with-economic-recovery?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Strait of Hormuz talks postponed due to Yemen events, says Iran
+Syria fuel price hikes test public patience with economic recovery
 
-Foreign Ministry spokesperson Esmaeil Baghaei says Iran does not interfere in Yemeni affairs.
+Anger rises in Syrian cities as fuel price hikes burden struggling households amid an ongoing cost-of-living crisis.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -33,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 18
+**Score:** 13
 **Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Protests break out across Syria over fuel price increases
-**Link:** https://www.aljazeera.com/news/2026/9/14/protests-break-out-across-syria-over-fuel-price-increases?traffic_source=rss
+**Tytuł źródła:** Africa's richest man launches continent's biggest share sale
+**Link:** https://www.bbc.co.uk/news/articles/cxly50gzldz9o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Protests break out across Syria over fuel price increases
+Africa's richest man launches continent's biggest share sale
 
-Demonstrators burn tyres and block highways as protests over increased fuel prices grip Syrian cities.
+Nigerian billionaire Aliko Dangote says he wants ordinary people to share in the success of his oil refinery.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
