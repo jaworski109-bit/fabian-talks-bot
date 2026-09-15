@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-09-14 21:16)
+# Fabian Talks — top tematy (2026-09-15 10:48)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
+## 1. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
 **Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Syria fuel price hikes test public patience with economic recovery
-**Link:** https://www.aljazeera.com/features/2026/9/14/syria-fuel-price-hikes-test-public-patience-with-economic-recovery?traffic_source=rss
+**Tytuł źródła:** US scraps limits on emissions from coal and gas power plants
+**Link:** https://www.bbc.co.uk/news/articles/cmly433ke05vo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Syria fuel price hikes test public patience with economic recovery
+US scraps limits on emissions from coal and gas power plants
 
-Anger rises in Syrian cities as fuel price hikes burden struggling households amid an ongoing cost-of-living crisis.
+The Environment Protection Agency says the move will save the country billions of dollars and reduce energy prices.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
+**Score:** 9
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Iran war reshapes Brics ties but also exposes divisions
-**Link:** https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss
+**Tytuł źródła:** Palestine weekly: Settlement sanctions spark diplomatic crisis
+**Link:** https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran war reshapes Brics ties but also exposes divisions
+Palestine weekly: Settlement sanctions spark diplomatic crisis
 
-Brics members agree they need a new global order but it's harder to answer what should replace it and how to get there.
+New B&#039;Tselem report frames events on ground as Israel&#039;s &#039;project of elimination&#039; of Palestinians.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
