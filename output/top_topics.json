@@ -1,19 +1,21 @@
 {
-  "generated_at": "2026-09-19T10:05:47.260068",
+  "generated_at": "2026-09-19T19:52:21.095701",
   "topics": [
     {
-      "title": "Bolivia’s Congress approves $1.9bn IMF loan amid protest threats",
-      "summary": "Unions warn that fuel subsidy cuts in the IMF deal could trigger renewed protests and rising costs.",
-      "link": "https://www.aljazeera.com/news/2026/9/19/bolivias-congress-approves-1-9bn-imf-loan-amid-protest-threats?traffic_source=rss",
-      "score": 13,
+      "title": "Millions without power as Cuba hit by latest major blackout",
+      "summary": "Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss",
+      "score": 21,
       "reasons": [
+        "konflikt/eskalacja",
         "wpływ na ceny/handel",
+        "pilność/tempo",
         "czytelny tytuł",
         "mocny trigger portfel/paliwo"
       ],
       "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Bolivia’s Congress approves $1.9bn IMF loan amid protest threats\n\nUnions warn that fuel subsidy cuts in the IMF deal could trigger renewed protests and rising costs.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Millions without power as Cuba hit by latest major blackout\n\nWidespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -24,9 +26,32 @@
       ]
     },
     {
-      "title": "Report: More US troops have died in Iran war than Pentagon says",
-      "summary": "The Pentagon publicly lists 18 US military deaths since the Iran war began.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss",
+      "title": "An unaffordable car market highlights Iran’s cost-of-living crisis",
+      "summary": "Some officials and state media have long openly described the industry as a ‘mafia’ system.",
+      "link": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss",
+      "score": 14,
+      "reasons": [
+        "konflikt/eskalacja",
+        "wpływ na ceny/handel",
+        "duże państwa/geopolityka",
+        "czytelny tytuł"
+      ],
+      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
+      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
+      "post_text": "An unaffordable car market highlights Iran’s cost-of-living crisis\n\nSome officials and state media have long openly described the industry as a ‘mafia’ system.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
+      "hashtags": [
+        "#wojna",
+        "#ropa",
+        "#paliwo",
+        "#gospodarka",
+        "#geopolityka"
+      ]
+    },
+    {
+      "title": "Israel targets paramedics in southern Lebanon",
+      "summary": "Two back-to-back Israeli air strikes hit Nabatieh in Lebanon, while a third strike targeted an ambulance team.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss",
       "score": 13,
       "reasons": [
         "konflikt/eskalacja",
@@ -35,29 +60,7 @@
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Report: More US troops have died in Iran war than Pentagon says\n\nThe Pentagon publicly lists 18 US military deaths since the Iran war began.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
-      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
-      "hashtags": [
-        "#wojna",
-        "#ropa",
-        "#paliwo",
-        "#gospodarka",
-        "#geopolityka"
-      ]
-    },
-    {
-      "title": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul",
-      "summary": "The Iranian lender has faced years of Western sanctions over alleged ties to Tehran&#039;s nuclear programme.",
-      "link": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss",
-      "score": 9,
-      "reasons": [
-        "konflikt/eskalacja",
-        "duże państwa/geopolityka",
-        "czytelny tytuł"
-      ],
-      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul\n\nThe Iranian lender has faced years of Western sanctions over alleged ties to Tehran&#039;s nuclear programme.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Israel targets paramedics in southern Lebanon\n\nTwo back-to-back Israeli air strikes hit Nabatieh in Lebanon, while a third strike targeted an ambulance team.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",

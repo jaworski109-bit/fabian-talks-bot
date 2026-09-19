@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-09-19 10:05)
+# Fabian Talks — top tematy (2026-09-19 19:52)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Bolivia’s Congress approves $1.9bn IMF loan amid protest threats
-**Link:** https://www.aljazeera.com/news/2026/9/19/bolivias-congress-approves-1-9bn-imf-loan-amid-protest-threats?traffic_source=rss
+**Score:** 21
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, pilność/tempo, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Millions without power as Cuba hit by latest major blackout
+**Link:** https://www.bbc.co.uk/news/articles/c6j9x4387lzxo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Bolivia’s Congress approves $1.9bn IMF loan amid protest threats
+Millions without power as Cuba hit by latest major blackout
 
-Unions warn that fuel subsidy cuts in the IMF deal could trigger renewed protests and rising costs.
+Widespread power outages have become increasingly common due to fuel shortages made worse by a US blockade.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Report: More US troops have died in Iran war than Pentagon says
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss
+**Score:** 14
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** An unaffordable car market highlights Iran’s cost-of-living crisis
+**Link:** https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Report: More US troops have died in Iran war than Pentagon says
+An unaffordable car market highlights Iran’s cost-of-living crisis
 
-The Pentagon publicly lists 18 US military deaths since the Iran war began.
+Some officials and state media have long openly described the industry as a ‘mafia’ system.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
+**Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul
-**Link:** https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss
+**Tytuł źródła:** Israel targets paramedics in southern Lebanon
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/19/israel-targets-paramedics-in-southern-lebanon?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul
+Israel targets paramedics in southern Lebanon
 
-The Iranian lender has faced years of Western sanctions over alleged ties to Tehran&#039;s nuclear programme.
+Two back-to-back Israeli air strikes hit Nabatieh in Lebanon, while a third strike targeted an ambulance team.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
