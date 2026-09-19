@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-09-18 20:14)
+# Fabian Talks — top tematy (2026-09-19 10:05)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
+## 1. CENY PÓJDĄ W GÓRĘ?
 **Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Iranians rally in biggest show of defiance against US since war began
-**Link:** https://www.aljazeera.com/news/2026/9/18/iranians-rally-in-biggest-show-of-defiance-against-us-since-war-began?traffic_source=rss
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Bolivia’s Congress approves $1.9bn IMF loan amid protest threats
+**Link:** https://www.aljazeera.com/news/2026/9/19/bolivias-congress-approves-1-9bn-imf-loan-amid-protest-threats?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iranians rally in biggest show of defiance against US since war began
+Bolivia’s Congress approves $1.9bn IMF loan amid protest threats
 
-Volunteers rallied through downtown Tehran to join campaign highlighting &#039;self-sacrifice&#039; for Iran.
+Unions warn that fuel subsidy cuts in the IMF deal could trigger renewed protests and rising costs.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -33,9 +33,9 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Japan raises interest rate to new 31-year high to curb rising prices
-**Link:** https://www.bbc.co.uk/news/articles/cqn74jeek06no?at_medium=RSS&at_campaign=rss
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Report: More US troops have died in Iran war than Pentagon says
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/19/report-more-us-troops-have-died-in-iran-war-than-pentagon-says?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Japan raises interest rate to new 31-year high to curb rising prices
+Report: More US troops have died in Iran war than Pentagon says
 
-Central banks around the world have hiked rates as high energy prices are pushing up inflation.
+The Pentagon publicly lists 18 US military deaths since the Iran war began.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. CENY PÓJDĄ W GÓRĘ?
-**Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** 'This is our company': Nigerians show off oil wealth after share-buying frenzy
-**Link:** https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul
+**Link:** https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-'This is our company': Nigerians show off oil wealth after share-buying frenzy
+Turkiye revokes operating licence of Iran’s Bank Mellat in Istanbul
 
-Many Nigerians buy their first ever shares - in the oil refinery owned by Africa's richest man, Aliko Dangote.
+The Iranian lender has faced years of Western sanctions over alleged ties to Tehran&#039;s nuclear programme.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
