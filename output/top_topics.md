@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-09-20 10:24)
+# Fabian Talks — top tematy (2026-09-20 20:06)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
 **Score:** 21
@@ -62,11 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. CENY PÓJDĄ W GÓRĘ?
-**Score:** 20
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says
-**Link:** https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 14
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** France’s Macron and Canada’s Carney announce plans to build stronger ties
+**Link:** https://www.aljazeera.com/news/2026/9/20/frances-macron-and-canadas-carney-announce-plans-to-build-stronger-ties?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says
+France’s Macron and Canada’s Carney announce plans to build stronger ties
 
-A major oil refinery was also hit as Moscow's mayor says 450 drones were downed during the "unprecedented attack".
+Announcement comes as Canada seeks a closer relationship with the EU amid a trade war with the US.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
