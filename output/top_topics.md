@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-09-23 10:35)
+# Fabian Talks — top tematy (2026-09-23 20:56)
 
 ## 1. ORMUZ ZAPŁONIE?
-**Score:** 29
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz
-**Tytuł źródła:** US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz
-**Link:** https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss
+**Score:** 26
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** Iran’s Pezeshkian slams ‘terrorist’ US but extols diplomacy in UN speech
+**Link:** https://www.aljazeera.com/news/2026/9/23/irans-president-slams-trumps-bullying-in-defiant-unga-speech?traffic_source=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -16,9 +16,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz
+Iran’s Pezeshkian slams ‘terrorist’ US but extols diplomacy in UN speech
 
-Tehran ties diplomatic progress to lifting shipping blockades and unfreezing assets during New York negotiations.
+Pezeshkian leaves door open for negotiations, while calling out US blockade against Iran in Strait of Hormuz.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -33,10 +33,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
+**Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** US and Iran hold first talks since June after Trump's 'annihilation' threat
-**Link:** https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss
+**Tytuł źródła:** Iran threatens countries enforcing US airline sanctions
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-mohsin-rezai-airlines-clip-mp4?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US and Iran hold first talks since June after Trump's 'annihilation' threat
+Iran threatens countries enforcing US airline sanctions
 
-The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.
+Iran has threatened countries enforcing US sanctions on its airlines, warning that their airports could face disruptions
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -66,8 +66,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Pakistan’s latest Trump bet is on drone firm already selling to India
-**Link:** https://www.aljazeera.com/news/2026/9/23/pakistans-new-drone-deal-is-with-trump-backed-firm-also-selling-to-india?traffic_source=rss
+**Tytuł źródła:** Zelenskyy: Putin is making the world ‘more dangerous’
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/23/zelenskyy-putin-is-making-the-world-more?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Pakistan’s latest Trump bet is on drone firm already selling to India
+Zelenskyy: Putin is making the world ‘more dangerous’
 
-The company&#039;s cofounder is also an ex-Israeli soldier. Pakistan does not recognise Israel.
+Ukrainian President Volodymyr Zelenskyy is warning that Russia&#039;s “never-ending war&quot; could spread throughout Europe.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
