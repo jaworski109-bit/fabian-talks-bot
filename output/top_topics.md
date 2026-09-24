@@ -1,24 +1,23 @@
-# Fabian Talks — top tematy (2026-09-23 20:56)
+# Fabian Talks — top tematy (2026-09-24 10:54)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 26
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Iran’s Pezeshkian slams ‘terrorist’ US but extols diplomacy in UN speech
-**Link:** https://www.aljazeera.com/news/2026/9/23/irans-president-slams-trumps-bullying-in-defiant-unga-speech?traffic_source=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 17
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Trump-Xi summit: Here’s what’s on the agenda, and why it matters
+**Link:** https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-whats-on-the-agenda-why-it-matters?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran’s Pezeshkian slams ‘terrorist’ US but extols diplomacy in UN speech
+Trump-Xi summit: Here’s what’s on the agenda, and why it matters
 
-Pezeshkian leaves door open for negotiations, while calling out US blockade against Iran in Strait of Hormuz.
+The leaders of the US and China are expected to discuss trade, AI and Iran in their third in-person meeting in a year.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -35,8 +34,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 2. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Iran threatens countries enforcing US airline sanctions
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-mohsin-rezai-airlines-clip-mp4?traffic_source=rss
+**Tytuł źródła:** Russian attacks kill eight people across Ukraine as US steps up diplomacy
+**Link:** https://www.aljazeera.com/news/2026/9/24/russian-attacks-kill-eight-people-across-ukraine-as-us-steps-up-diplomacy?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran threatens countries enforcing US airline sanctions
+Russian attacks kill eight people across Ukraine as US steps up diplomacy
 
-Iran has threatened countries enforcing US sanctions on its airlines, warning that their airports could face disruptions
+US and Russia engage in urgent talks to reduce war&#039;s impact on global energy during UN General Assembly.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,11 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Zelenskyy: Putin is making the world ‘more dangerous’
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/23/zelenskyy-putin-is-making-the-world-more?traffic_source=rss
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 12
+**Powody:** pilność/tempo, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** To the victor belong Venezuela’s spoils: Delcy Rodriguez’s UNGA about-face
+**Link:** https://www.aljazeera.com/opinions/2026/9/24/to-the-victor-belong-venezuelas-spoils-delcy-rodriguezs-unga-about-face?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Zelenskyy: Putin is making the world ‘more dangerous’
+To the victor belong Venezuela’s spoils: Delcy Rodriguez’s UNGA about-face
 
-Ukrainian President Volodymyr Zelenskyy is warning that Russia&#039;s “never-ending war&quot; could spread throughout Europe.
+Seven years after warning against US regime change, Venezuela’s interim president thanked the man who delivered it.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
