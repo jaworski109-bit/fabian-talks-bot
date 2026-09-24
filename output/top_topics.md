@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-09-24 10:54)
+# Fabian Talks — top tematy (2026-09-24 21:00)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
 **Score:** 17
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Trump-Xi summit: Here’s what’s on the agenda, and why it matters
-**Link:** https://www.aljazeera.com/news/2026/9/24/trump-xi-summit-whats-on-the-agenda-why-it-matters?traffic_source=rss
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Collapsing currency and inflation leave families struggling in Sudan
+**Link:** https://www.aljazeera.com/features/2026/9/24/collapsing-currency-and-inflation-leave-families-struggling-in-sudan?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump-Xi summit: Here’s what’s on the agenda, and why it matters
+Collapsing currency and inflation leave families struggling in Sudan
 
-The leaders of the US and China are expected to discuss trade, AI and Iran in their third in-person meeting in a year.
+Rising bread, sugar and meat prices strain Sudanese households already grappling with war and economic instability.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -33,9 +33,9 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Russian attacks kill eight people across Ukraine as US steps up diplomacy
-**Link:** https://www.aljazeera.com/news/2026/9/24/russian-attacks-kill-eight-people-across-ukraine-as-us-steps-up-diplomacy?traffic_source=rss
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Iranian-American group sues Trump over war
+**Link:** https://www.aljazeera.com/news/2026/9/24/iranian-american-group-sues-trump-over-war?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Russian attacks kill eight people across Ukraine as US steps up diplomacy
+Iranian-American group sues Trump over war
 
-US and Russia engage in urgent talks to reduce war&#039;s impact on global energy during UN General Assembly.
+Plaintiffs have families in Iran who have been harmed by the US war, they say.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. CENY PÓJDĄ W GÓRĘ?
-**Score:** 12
-**Powody:** pilność/tempo, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** To the victor belong Venezuela’s spoils: Delcy Rodriguez’s UNGA about-face
-**Link:** https://www.aljazeera.com/opinions/2026/9/24/to-the-victor-belong-venezuelas-spoils-delcy-rodriguezs-unga-about-face?traffic_source=rss
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 10
+**Powody:** konflikt/eskalacja, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** What’s triggered the latest violence in Ethiopia?
+**Link:** https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-To the victor belong Venezuela’s spoils: Delcy Rodriguez’s UNGA about-face
+What’s triggered the latest violence in Ethiopia?
 
-Seven years after warning against US regime change, Venezuela’s interim president thanked the man who delivered it.
+Tigrayan forces say they are in a &#039;full-blown war&#039; with the army.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
