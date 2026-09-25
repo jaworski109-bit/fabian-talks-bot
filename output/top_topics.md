@@ -1,23 +1,24 @@
-# Fabian Talks — top tematy (2026-09-24 21:00)
+# Fabian Talks — top tematy (2026-09-25 10:55)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Collapsing currency and inflation leave families struggling in Sudan
-**Link:** https://www.aljazeera.com/features/2026/9/24/collapsing-currency-and-inflation-leave-families-struggling-in-sudan?traffic_source=rss
+## 1. ORMUZ ZAPŁONIE?
+**Score:** 22
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** Iran pitches seven-day roadmap to end conflict with US
+**Link:** https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Collapsing currency and inflation leave families struggling in Sudan
+Iran pitches seven-day roadmap to end conflict with US
 
-Rising bread, sugar and meat prices strain Sudanese households already grappling with war and economic instability.
+Tehran seeks rapid implementation failed ceasefire deal, offering to open Hormuz if regional conflicts halted.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -34,8 +35,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 2. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Iranian-American group sues Trump over war
-**Link:** https://www.aljazeera.com/news/2026/9/24/iranian-american-group-sues-trump-over-war?traffic_source=rss
+**Tytuł źródła:** Rising malnutrition in Nigeria as US war on Iran raises food costs
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/25/rising-malnutrition-in-nigeria-as-us-war-on-iran-raises-food-costs?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iranian-American group sues Trump over war
+Rising malnutrition in Nigeria as US war on Iran raises food costs
 
-Plaintiffs have families in Iran who have been harmed by the US war, they say.
+The war on Iran is raising the cost of living in Nigeria.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +63,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 10
-**Powody:** konflikt/eskalacja, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** What’s triggered the latest violence in Ethiopia?
-**Link:** https://www.aljazeera.com/video/inside-story/2026/9/24/whats-triggered-the-latest-violence-in-ethiopia?traffic_source=rss
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 13
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Saudi Arabia allies line up support as Houthi attacks mount
+**Link:** https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-What’s triggered the latest violence in Ethiopia?
+Saudi Arabia allies line up support as Houthi attacks mount
 
-Tigrayan forces say they are in a &#039;full-blown war&#039; with the army.
+France is sending military to protect key Yanbu oil terminal; Pakistan and Turkiye to hold military talks with Riyadh.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
