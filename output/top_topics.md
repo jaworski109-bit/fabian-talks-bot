@@ -1,23 +1,24 @@
-# Fabian Talks — top tematy (2026-09-26 10:36)
+# Fabian Talks — top tematy (2026-09-26 20:29)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 29
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Iran war squeezes Iraq’s economy as oil revenues fall and prices rise
-**Link:** https://www.aljazeera.com/news/2026/9/26/iran-war-squeezes-iraqs-economy-as-oil-revenues-fall-and-prices-rise?traffic_source=rss
+## 1. ORMUZ ZAPŁONIE?
+**Score:** 31
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** Trump rejects Iranian offer to reopen Strait of Hormuz
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Iran war squeezes Iraq’s economy as oil revenues fall and prices rise
+Trump rejects Iranian offer to reopen Strait of Hormuz
 
-Disrupted oil exports, costlier imports, and a weaker dinar expose Iraq&#039;s economic dependence on oil, foreign goods.
+US President Donald Trump has rejected Iran’s latest proposal to reopen the Strait of Hormuz to shipping.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -34,8 +35,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 2. ORMUZ ZAPŁONIE?
 **Score:** 26
 **Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Iran pitches US a seven-day end to the war at UNGA
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/26/iran-pitches-us-a-seven-day-end-to-the-war-at-unga?traffic_source=rss
+**Tytuł źródła:** Trump rejects Iran deal to reopen Strait of Hormuz in seven days
+**Link:** https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -47,9 +48,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-Iran pitches US a seven-day end to the war at UNGA
+Trump rejects Iran deal to reopen Strait of Hormuz in seven days
 
-Iran has pitched a proposal to open the Strait of Hormuz in seven days - if the US meets its conditions.
+The US president says Tehran had only put forward the proposal because it is losing the war.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,25 +64,24 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ORMUZ ZAPŁONIE?
-**Score:** 22
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Iran offers US deal to reopen Strait of Hormuz in seven days
-**Link:** https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Republic of Ireland confirm rescheduled news conference before controversial Israel game
+**Link:** https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran offers US deal to reopen Strait of Hormuz in seven days
+Republic of Ireland confirm rescheduled news conference before controversial Israel game
 
-Asked about the Iranian proposal, a US official told the BBC "constructive discussions" were taking place through mediators.
+The Republic of Ireland will now hold their delayed news conference at 14:30 BST before they face Israel in tomorrow's Nations League fixture in Hungary - a fixture campaigners have called on them to boycott.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
