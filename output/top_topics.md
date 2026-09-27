@@ -1,24 +1,29 @@
-# Fabian Talks — top tematy (2026-09-26 20:29)
+# Fabian Talks — top tematy (2026-09-27 11:09)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 31
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Trump rejects Iranian offer to reopen Strait of Hormuz
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/26/trump-rejects-iranian-offer-to-reopen-strait-of-hormuz?traffic_source=rss
+## 1. PALIWO WYSTRZELI?
+**Score:** 40
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz, mocny trigger portfel/paliwo
+**Tytuł źródła:** Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz
+**Link:** https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+USA i Iran znowu grają Ormuzem.
+👉 Przez tę cieśninę idzie ogromna część światowej ropy.
+👉 Jedna decyzja… i ceny mogą ruszyć w górę.
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+To nie jest daleki konflikt.
+
+👉 To jest Twoja stacja paliw.
+👉 Twój rachunek.
+👉 Twój portfel.
+
+Pytanie nie brzmi czy.
+Pytanie brzmi — kiedy to poczujesz.
 
 ### Tekst pod post
-Trump rejects Iranian offer to reopen Strait of Hormuz
+Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz
 
-US President Donald Trump has rejected Iran’s latest proposal to reopen the Strait of Hormuz to shipping.
+Iran is looking for alternatives to export its oil as the US blockades its southern ports.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -33,10 +38,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ORMUZ ZAPŁONIE?
-**Score:** 26
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Trump rejects Iran deal to reopen Strait of Hormuz in seven days
-**Link:** https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss
+**Score:** 13
+**Powody:** wpływ na ceny/handel, silny trigger Ormuz
+**Tytuł źródła:** Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal
+**Link:** https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Ormuz znowu wraca na pierwszy plan.
@@ -48,9 +53,9 @@ To nie jest tylko geopolityka.
 To jest koszt życia.
 
 ### Tekst pod post
-Trump rejects Iran deal to reopen Strait of Hormuz in seven days
+Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal
 
-The US president says Tehran had only put forward the proposal because it is losing the war.
+The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -65,10 +70,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Republic of Ireland confirm rescheduled news conference before controversial Israel game
-**Link:** https://www.bbc.co.uk/sport/football/articles/c962jjl18g3ro?at_medium=RSS&at_campaign=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Israel’s Netanyahu criticises opposition uniting against him for elections
+**Link:** https://www.aljazeera.com/news/2026/9/27/israels-netanyahu-criticises-opposition-uniting-against-him-for-election?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -79,9 +84,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Republic of Ireland confirm rescheduled news conference before controversial Israel game
+Israel’s Netanyahu criticises opposition uniting against him for elections
 
-The Republic of Ireland will now hold their delayed news conference at 14:30 BST before they face Israel in tomorrow's Nations League fixture in Hungary - a fixture campaigners have called on them to boycott.
+Five opposition leaders agree to cooperate to boost voter turnout to secure a majority in the October 27 elections.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
