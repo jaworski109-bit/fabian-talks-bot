@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-09-28 22:50)
+# Fabian Talks — top tematy (2026-09-29 11:55)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 18
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Gold falls amid rising oil prices and higher US dollar
-**Link:** https://www.aljazeera.com/economy/2026/9/28/gold-falls-amid-rising-oil-prices-and-higher-us-dollar?traffic_source=rss
+## 1. USA KONTRA IRAN
+**Score:** 33
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Thousands of drivers strike in the Philippines over rising fuel prices
+**Link:** https://www.aljazeera.com/news/2026/9/29/thousands-of-drivers-strike-in-the-philippines-over-rising-fuel-prices?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Gold falls amid rising oil prices and higher US dollar
+Thousands of drivers strike in the Philippines over rising fuel prices
 
-Gold hits seven-week low; silver follows suit and records a nearly 5 percent loss.
+Transport workers blame US-Israel war on Iran for rising fuel prices as government offers free rides for commuters.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 15
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** UAE confirms Israel PM Netanyahu’s visit to Abu Dhabi
-**Link:** https://www.aljazeera.com/news/2026/9/28/uae-confirms-netanyahu-visit-to-abu-dhabi?traffic_source=rss
+**Score:** 13
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Argentina’s Milei threatens legal action over Falklands oil project
+**Link:** https://www.aljazeera.com/news/2026/9/29/argentinas-milei-threatens-legal-action-over-falklands-oil-project?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-UAE confirms Israel PM Netanyahu’s visit to Abu Dhabi
+Argentina’s Milei threatens legal action over Falklands oil project
 
-The visit took place as the Israeli prime minister battles domestic turmoil ahead of October&#039;s Knesset elections.
+Argentina gives UK two weeks to cease operations or face maritime court action.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,25 +62,24 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ORMUZ ZAPŁONIE?
+## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
-**Powody:** wpływ na ceny/handel, silny trigger Ormuz
-**Tytuł źródła:** Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal
-**Link:** https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Satellite images show Gaza in ruins three years into Israel’s genocidal war
+**Link:** https://www.aljazeera.com/news/2026/9/29/satellite-images-show-gaza-in-ruins-three-years-into-israels-genocidal-war?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal
+Satellite images show Gaza in ruins three years into Israel’s genocidal war
 
-The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments.
+Google Maps images show scale of Israel&#039;s destruction of Gaza, where more than 74,000 Palestinians have been killed.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
