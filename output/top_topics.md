@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-09-29 11:55)
+# Fabian Talks — top tematy (2026-09-29 21:44)
 
-## 1. USA KONTRA IRAN
-**Score:** 33
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Thousands of drivers strike in the Philippines over rising fuel prices
-**Link:** https://www.aljazeera.com/news/2026/9/29/thousands-of-drivers-strike-in-the-philippines-over-rising-fuel-prices?traffic_source=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Trump administration ‘must be changed’: Iran’s IRGC appeals to US voters
+**Link:** https://www.aljazeera.com/news/2026/9/29/trump-administration-must-be-changed-irans-irgc-appeals-to-us-voters?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Thousands of drivers strike in the Philippines over rising fuel prices
+Trump administration ‘must be changed’: Iran’s IRGC appeals to US voters
 
-Transport workers blame US-Israel war on Iran for rising fuel prices as government offers free rides for commuters.
+Iran&#039;s military has issued an open letter accusing Trump of lying to US citizens about the state of the ongoing war.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -34,8 +34,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 2. CENY PÓJDĄ W GÓRĘ?
 **Score:** 13
 **Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Argentina’s Milei threatens legal action over Falklands oil project
-**Link:** https://www.aljazeera.com/news/2026/9/29/argentinas-milei-threatens-legal-action-over-falklands-oil-project?traffic_source=rss
+**Tytuł źródła:** Argentina threatens legal action against UK over Falkland Islands oil exploration
+**Link:** https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Argentina’s Milei threatens legal action over Falklands oil project
+Argentina threatens legal action against UK over Falkland Islands oil exploration
 
-Argentina gives UK two weeks to cease operations or face maritime court action.
+President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,9 +64,9 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Satellite images show Gaza in ruins three years into Israel’s genocidal war
-**Link:** https://www.aljazeera.com/news/2026/9/29/satellite-images-show-gaza-in-ruins-three-years-into-israels-genocidal-war?traffic_source=rss
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, pilność/tempo
+**Tytuł źródła:** US ban on Canadian alcohol and dairy takes effect as trade war drags on
+**Link:** https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Satellite images show Gaza in ruins three years into Israel’s genocidal war
+US ban on Canadian alcohol and dairy takes effect as trade war drags on
 
-Google Maps images show scale of Israel&#039;s destruction of Gaza, where more than 74,000 Palestinians have been killed.
+It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
