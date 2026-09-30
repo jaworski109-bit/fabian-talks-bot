@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-09-29 21:44)
+# Fabian Talks — top tematy (2026-09-30 11:43)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
+**Score:** 17
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Trump administration ‘must be changed’: Iran’s IRGC appeals to US voters
-**Link:** https://www.aljazeera.com/news/2026/9/29/trump-administration-must-be-changed-irans-irgc-appeals-to-us-voters?traffic_source=rss
+**Tytuł źródła:** Girl has multiple surgeries to control infections after strike in Gaza
+**Link:** https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump administration ‘must be changed’: Iran’s IRGC appeals to US voters
+Girl has multiple surgeries to control infections after strike in Gaza
 
-Iran&#039;s military has issued an open letter accusing Trump of lying to US citizens about the state of the ongoing war.
+Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -34,8 +34,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 2. CENY PÓJDĄ W GÓRĘ?
 **Score:** 13
 **Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Argentina threatens legal action against UK over Falkland Islands oil exploration
-**Link:** https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss
+**Tytuł źródła:** Africa's richest man launches Kenya oil refinery despite land protests
+**Link:** https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Argentina threatens legal action against UK over Falkland Islands oil exploration
+Africa's richest man launches Kenya oil refinery despite land protests
 
-President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped.
+The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
+## 3. CENY PÓJDĄ W GÓRĘ?
 **Score:** 13
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, pilność/tempo
-**Tytuł źródła:** US ban on Canadian alcohol and dairy takes effect as trade war drags on
-**Link:** https://www.bbc.co.uk/news/articles/cm1j43y146d2o?at_medium=RSS&at_campaign=rss
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Somali pirates killed oil tanker crew before rescue, official tells BBC
+**Link:** https://www.bbc.co.uk/news/articles/crjw5jp2de7go?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US ban on Canadian alcohol and dairy takes effect as trade war drags on
+Somali pirates killed oil tanker crew before rescue, official tells BBC
 
-It is the latest escalation in the Canada-US trade war after negotiations collapsed in late August, with no word on when talks may resume.
+Piracy off the Somali coast has increased in recent years after dropping when international naval operations began in 2011.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
