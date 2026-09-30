@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-09-30 11:43)
+# Fabian Talks — top tematy (2026-09-30 21:44)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
 **Score:** 17
@@ -62,11 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. CENY PÓJDĄ W GÓRĘ?
-**Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Somali pirates killed oil tanker crew before rescue, official tells BBC
-**Link:** https://www.bbc.co.uk/news/articles/crjw5jp2de7go?at_medium=RSS&at_campaign=rss
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Flydubai passengers arrive in Tel Aviv after pilot stabbing
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Somali pirates killed oil tanker crew before rescue, official tells BBC
+Flydubai passengers arrive in Tel Aviv after pilot stabbing
 
-Piracy off the Somali coast has increased in recent years after dropping when international naval operations began in 2011.
+A replacement Flydubai aircraft has landed in Israel, carrying passengers from the flight on which a pilot was stabbed.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
