@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-09-30 21:44)
+# Fabian Talks — top tematy (2026-10-01 12:12)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
 **Score:** 17
@@ -31,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
+## 2. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Africa's richest man launches Kenya oil refinery despite land protests
-**Link:** https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** UAE investigates possible ‘terrorist’ link in attack on flight to Israel
+**Link:** https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Africa's richest man launches Kenya oil refinery despite land protests
+UAE investigates possible ‘terrorist’ link in attack on flight to Israel
 
-The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.
+Investigators will probe whether incident was linked to any &#039;terrorist activity or intent&#039;, UAE state media reports.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
+**Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Flydubai passengers arrive in Tel Aviv after pilot stabbing
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/9/30/flydubai-passengers-arrive-in-tel-aviv-after-pilot-stabbing?traffic_source=rss
+**Tytuł źródła:** How will investigation into Flydubai flight attack unfold?
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/1/how-will-investigation-into-flydubai-flight-attack-unfold?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Flydubai passengers arrive in Tel Aviv after pilot stabbing
+How will investigation into Flydubai flight attack unfold?
 
-A replacement Flydubai aircraft has landed in Israel, carrying passengers from the flight on which a pilot was stabbed.
+Investigators are examining what happened inside the cockpit of Flydubai flight FZ1073 to Israel.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
