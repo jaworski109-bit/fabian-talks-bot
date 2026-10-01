@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-10-01 12:12)
+# Fabian Talks — top tematy (2026-10-01 22:12)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
+**Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Girl has multiple surgeries to control infections after strike in Gaza
-**Link:** https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss
+**Tytuł źródła:** Most Americans say US-Israel war on Iran not worth fighting: Poll
+**Link:** https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Girl has multiple surgeries to control infections after strike in Gaza
+Most Americans say US-Israel war on Iran not worth fighting: Poll
 
-Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.
+Nearly 70 percent of Americans say the US-Israeli war is not worth fighting, marking a significant spike since July.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
+## 2. CENY PÓJDĄ W GÓRĘ?
 **Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** UAE investigates possible ‘terrorist’ link in attack on flight to Israel
-**Link:** https://www.aljazeera.com/news/2026/10/1/uae-investigates-possible-terrorist-link-in-attack-on-flight-to-israel?traffic_source=rss
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Africa's richest man launches Kenya oil refinery despite land protests
+**Link:** https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-UAE investigates possible ‘terrorist’ link in attack on flight to Israel
+Africa's richest man launches Kenya oil refinery despite land protests
 
-Investigators will probe whether incident was linked to any &#039;terrorist activity or intent&#039;, UAE state media reports.
+The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** How will investigation into Flydubai flight attack unfold?
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/1/how-will-investigation-into-flydubai-flight-attack-unfold?traffic_source=rss
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 11
+**Powody:** wpływ na ceny/handel, mocny trigger portfel/paliwo
+**Tytuł źródła:** Canada to fast track oil pipeline meant to diversify economy away from US
+**Link:** https://www.aljazeera.com/economy/2026/10/1/canada-to-fast-track-oil-pipeline-meant-to-diversify-economy-away-from-us?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-How will investigation into Flydubai flight attack unfold?
+Canada to fast track oil pipeline meant to diversify economy away from US
 
-Investigators are examining what happened inside the cockpit of Flydubai flight FZ1073 to Israel.
+Carney declared the pipeline a project of national interest, smoothening its way to a single federal regulatory review.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
