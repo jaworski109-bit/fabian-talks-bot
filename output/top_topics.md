@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-10-01 22:12)
+# Fabian Talks — top tematy (2026-10-02 11:42)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Most Americans say US-Israel war on Iran not worth fighting: Poll
-**Link:** https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss
+**Tytuł źródła:** FlyDubai pilot describes opening cockpit door during attack
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/2/flydubai-pilot-describes-opening-cockpit-door-during-attack?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Most Americans say US-Israel war on Iran not worth fighting: Poll
+FlyDubai pilot describes opening cockpit door during attack
 
-Nearly 70 percent of Americans say the US-Israeli war is not worth fighting, marking a significant spike since July.
+The Indian pilot who was stabbed by his co-pilot on a Flydubai flight to Israel describes the attack.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,42 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Africa's richest man launches Kenya oil refinery despite land protests
-**Link:** https://www.bbc.co.uk/news/articles/cmkg8dpwy25po?at_medium=RSS&at_campaign=rss
-
-### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
-
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
-
-### Tekst pod post
-Africa's richest man launches Kenya oil refinery despite land protests
-
-The Kenya refinery is part of Dangote's ambitious bid to expand and help industralise Africa by 2030.
-
-Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
-
-Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
-
-### Hook follow
-Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
-
-### Hashtagi
-#wojna #ropa #paliwo #gospodarka #geopolityka
-
----
-
-## 3. CENY PÓJDĄ W GÓRĘ?
+## 2. ŚWIAT WCHODZI W CHAOS?
 **Score:** 11
-**Powody:** wpływ na ceny/handel, mocny trigger portfel/paliwo
-**Tytuł źródła:** Canada to fast track oil pipeline meant to diversify economy away from US
-**Link:** https://www.aljazeera.com/economy/2026/10/1/canada-to-fast-track-oil-pipeline-meant-to-diversify-economy-away-from-us?traffic_source=rss
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** New aircraft carrier, 10,000 US troops: Is the Iran war about to escalate?
+**Link:** https://www.aljazeera.com/news/2026/10/2/new-aircraft-carrier-10000-us-troops-is-the-iran-war-about-to-escalate?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +46,40 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Canada to fast track oil pipeline meant to diversify economy away from US
+New aircraft carrier, 10,000 US troops: Is the Iran war about to escalate?
 
-Carney declared the pipeline a project of national interest, smoothening its way to a single federal regulatory review.
+By the end of November, three US aircraft carriers and two amphibious landing groups will be positioned near Iran.
+
+Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
+
+Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
+
+### Hook follow
+Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
+
+### Hashtagi
+#wojna #ropa #paliwo #gospodarka #geopolityka
+
+---
+
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 11
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo
+**Tytuł źródła:** US delivers F-16V fighter jets to Taiwan as island eyes threat from China
+**Link:** https://www.aljazeera.com/news/2026/10/2/us-delivers-f-16v-fighter-jets-to-taiwan-as-island-eyes-threat-from-china?traffic_source=rss
+
+### Tekst na rolkę
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
+
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
+
+### Tekst pod post
+US delivers F-16V fighter jets to Taiwan as island eyes threat from China
+
+Amid threats from China, Taipai is growing concerned about the Trump administration&#039;s commitment to arming the island.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
