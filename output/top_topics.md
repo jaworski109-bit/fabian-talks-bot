@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-10-04 20:45)
+# Fabian Talks — top tematy (2026-10-05 13:16)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
+**Score:** 12
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** War on Iran: Is escalation more likely than a deal?
-**Link:** https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss
+**Tytuł źródła:** The Republican consensus on Israel is starting to fracture
+**Link:** https://www.aljazeera.com/opinions/2026/10/5/the-republican-consensus-on-israel-is-starting-to-fracture?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-War on Iran: Is escalation more likely than a deal?
+The Republican consensus on Israel is starting to fracture
 
-Former Iranian and US diplomats agree that the war on Iran is likely to get worse in the coming weeks.
+Christian Zionism made support for Israel a Republican cause. America First Republicans are challenging that consensus.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Three years of genocide in Gaza through one man’s camera
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/4/three-years-of-genocide-in-gaza-through-one-mans-camera?traffic_source=rss
+**Score:** 10
+**Powody:** konflikt/eskalacja, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Yemen war: What’s the latest, as government forces claim advances?
+**Link:** https://www.aljazeera.com/news/2026/10/5/yemen-war-escalates-whats-the-latest-on-the-battlefield?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Three years of genocide in Gaza through one man’s camera
+Yemen war: What’s the latest, as government forces claim advances?
 
-For almost three years, Ibrahim Rabaa has filmed fragments of his life through Israel’s genocide in Gaza.
+After launching major military offensive to reclaim Houthi-held areas, Yemeni government says it has taken key district.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Australia investigating Flydubai co-pilot's links to country
-**Link:** https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 8
+**Powody:** czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Photos: Yemen’s hospitals struggle to operate amid persistent power outages
+**Link:** https://www.aljazeera.com/gallery/2026/10/5/photos-yemens-hospitals-struggle-to-operate-amid-persistent-power-outages?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Australia investigating Flydubai co-pilot's links to country
+Photos: Yemen’s hospitals struggle to operate amid persistent power outages
 
-State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.
+Families in Aden endure sleepless nights and spoiled food as blackouts become a defining feature of daily life.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
