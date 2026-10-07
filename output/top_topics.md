@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-10-06 22:07)
+# Fabian Talks — top tematy (2026-10-07 12:26)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Is there a MAGA after Trump?
-**Link:** https://www.aljazeera.com/video/lets-focus/2026/10/6/is-there-a-maga-after-trump?traffic_source=rss
+**Score:** 11
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** Photos: Three years of Israel’s war on Gaza as tent cities spread amid ruin
+**Link:** https://www.aljazeera.com/gallery/2026/10/7/photos-three-years-of-israels-war-on-gaza-as-tent-cities-spread-amid-ruin?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Is there a MAGA after Trump?
+Photos: Three years of Israel’s war on Gaza as tent cities spread amid ruin
 
-From the Epstein files to the war on Iran, Josh Rushing examines the cracks forming within MAGA in Trump&#039;s second term.
+Tent cities in Gaza grow as families mourn the dead, care for the injured, and endure relentless displacement.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Ship sinks and crew missing after Black Sea drone attack
-**Link:** https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss
+**Score:** 11
+**Powody:** wpływ na ceny/handel, mocny trigger portfel/paliwo
+**Tytuł źródła:** From films to streaming prices - how the Warner Bros deal could affect you
+**Link:** https://www.bbc.co.uk/news/articles/cm62ep294qxlo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Ship sinks and crew missing after Black Sea drone attack
+From films to streaming prices - how the Warner Bros deal could affect you
 
-It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.
+The deal is expected to alter the entertainment and news industries but could it mean higher prices for consumers?
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 11
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo
-**Tytuł źródła:** White House defends Trump comment to let Iran 'take out' LA and San Diego
-**Link:** https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** US military aid to Israel continues three years into Gaza genocide
+**Link:** https://www.aljazeera.com/news/2026/10/7/how-us-military-aid-to-israel-continues-three-years-into-gaza-genocide?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-White House defends Trump comment to let Iran 'take out' LA and San Diego
+US military aid to Israel continues three years into Gaza genocide
 
-Gavin Newsom called the remarks "deranged", but the White House said Trump was warning of the risk of a nuclear Iran.
+US military aid and arms transfer continue unchanged, as US public sentiment shifts.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
