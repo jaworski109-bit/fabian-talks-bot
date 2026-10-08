@@ -1,23 +1,24 @@
-# Fabian Talks — top tematy (2026-10-07 22:30)
+# Fabian Talks — top tematy (2026-10-08 12:36)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Israelis mourn 7 October attack victims three years after deadly Hamas raid
-**Link:** https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss
+## 1. ORMUZ ZAPŁONIE?
+**Score:** 26
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** The Hormuz bonus: Sailor salaries soar for transits amid Iran war
+**Link:** https://www.aljazeera.com/news/2026/10/8/the-hormuz-bonus-sailor-salaries-soar-for-transits-amid-iran-war?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Israelis mourn 7 October attack victims three years after deadly Hamas raid
+The Hormuz bonus: Sailor salaries soar for transits amid Iran war
 
-Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.
+Reports have emerged that tanker captains are earning $100,000 plus a $50,000 per-trip bonus to transit the strait.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,11 +32,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Gaza child’s autoimmune condition triggered amid Israel’s war
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/7/gaza-childs-autoimmune-condition-triggered-amid-israels-war?traffic_source=rss
+## 2. CENY PÓJDĄ W GÓRĘ?
+**Score:** 18
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says
+**Link:** https://www.bbc.co.uk/news/articles/cqlydk7796wdo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Gaza child’s autoimmune condition triggered amid Israel’s war
+Tanker hit by multiple projectiles in Gulf off Qatar, maritime agency says
 
-Gaza child’s autoimmune condition triggered amid Israel’s war
+Casualties have been reported on the vessel, identified by a maritime intelligence firm as the oil and chemical tanker, Acers.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +63,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
+## 3. CENY PÓJDĄ W GÓRĘ?
 **Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** How genocide in Gaza followed Bosnia’s painful pattern
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/7/how-genocide-in-gaza-followed-bosnias-painful-pattern?traffic_source=rss
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Can emergency reserves ease the diesel crisis?
+**Link:** https://www.aljazeera.com/video/counting-the-cost/2026/10/8/can-emergency-reserves-ease-the-diesel-crisis?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-How genocide in Gaza followed Bosnia’s painful pattern
+Can emergency reserves ease the diesel crisis?
 
-Three years into Israel’s war on Gaza, we examine patterns that echo the Srebrenica genocide in Bosnia and Herzegovina.
+The G7 plans to release emergency fuel stocks as diesel shortages raise transport costs and squeeze household budgets.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
