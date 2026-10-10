@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-10-10 11:42)
+# Fabian Talks — top tematy (2026-10-10 20:59)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
 **Score:** 24
@@ -31,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 18
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Yemen’s Taiz under siege again as food and fuel prices rise
-**Link:** https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 11
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** Photos: Thousands march across Europe to demand end to Israel’s war on Gaza
+**Link:** https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Yemen’s Taiz under siege again as food and fuel prices rise
+Photos: Thousands march across Europe to demand end to Israel’s war on Gaza
 
-Houthi advances and the closure of vital roads into Taiz have triggered shortages, reviving memories of earlier siege.
+Demonstrations in London, Berlin, and Rome denounce ongoing Israeli attacks on Gaza &#039;ceasefire&#039; anniversary.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 7
-**Powody:** wpływ na ceny/handel, czytelny tytuł
-**Tytuł źródła:** Isaias weakens after making landfall in US Gulf Coast as hurricane
-**Link:** https://www.aljazeera.com/news/2026/10/10/isaias-weakens-after-making-landfall-in-us-gulf-coast-as-hurricane?traffic_source=rss
+**Score:** 10
+**Powody:** konflikt/eskalacja, czytelny tytuł
+**Tytuł źródła:** Israeli attack destroys building in Gaza one year into ‘ceasefire’
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Isaias weakens after making landfall in US Gulf Coast as hurricane
+Israeli attack destroys building in Gaza one year into ‘ceasefire’
 
-More than 664,000 customers in Florida and Alabama have been left without power as Isaias downs trees, power lines.
+An Israeli strike destroyed a residential building in the Al-Rimal neighbourhood in Gaza City.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
