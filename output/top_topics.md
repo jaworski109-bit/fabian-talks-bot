@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-10-09 22:05)
+# Fabian Talks — top tematy (2026-10-10 11:42)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 32
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Trump announces Russian diesel deal amid soaring US fuel prices
-**Link:** https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices?traffic_source=rss
+**Score:** 24
+**Powody:** wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices
+**Link:** https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump announces Russian diesel deal amid soaring US fuel prices
+Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices
 
-Russia to supply 300,000 tonnes of diesel immediately, followed by 1.5 million more, as prices soar amid the Iran war.
+The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -34,8 +34,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 2. CENY PÓJDĄ W GÓRĘ?
 **Score:** 18
 **Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Rising fuel costs slashed Delta’s profit outlook despite strong demand
-**Link:** https://www.aljazeera.com/economy/2026/10/9/rising-fuel-costs-slashed-deltas-profit-outlook-despite-strong-demand?traffic_source=rss
+**Tytuł źródła:** Yemen’s Taiz under siege again as food and fuel prices rise
+**Link:** https://www.aljazeera.com/news/2026/10/10/yemens-taiz-under-siege-again-as-food-and-fuel-prices-rise?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Rising fuel costs slashed Delta’s profit outlook despite strong demand
+Yemen’s Taiz under siege again as food and fuel prices rise
 
-Rising fuel prices push Delta&#039;s annual fuel expenses up by $6bn, affecting its profit outlook for 2026.
+Houthi advances and the closure of vital roads into Taiz have triggered shortages, reviving memories of earlier siege.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says
-**Link:** https://www.aljazeera.com/news/2026/10/9/flydubai-co-pilot-plotted-suicide-attack-on-israel-uae-says?traffic_source=rss
+**Score:** 7
+**Powody:** wpływ na ceny/handel, czytelny tytuł
+**Tytuł źródła:** Isaias weakens after making landfall in US Gulf Coast as hurricane
+**Link:** https://www.aljazeera.com/news/2026/10/10/isaias-weakens-after-making-landfall-in-us-gulf-coast-as-hurricane?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Flydubai co-pilot plotted ‘suicide’ attack on Israel, UAE says
+Isaias weakens after making landfall in US Gulf Coast as hurricane
 
-Attorney General says suspect admitted he acted alone after preparing ‌‌psychologically ‌‌and physically for the attack.
+More than 664,000 customers in Florida and Alabama have been left without power as Isaias downs trees, power lines.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
