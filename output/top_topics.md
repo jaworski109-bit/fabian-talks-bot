@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-10-10 20:59)
+# Fabian Talks — top tematy (2026-10-11 11:55)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 24
-**Powody:** wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices
-**Link:** https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss
+**Score:** 17
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, mocny trigger portfel/paliwo
+**Tytuł źródła:** What the Iran war has done to the world’s energy supply, in charts
+**Link:** https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices
+What the Iran war has done to the world’s energy supply, in charts
 
-The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.
+Fossil fuels produce 81 percent of global energy. We look at Middle East’s role and what happens when supplies are cut.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 11
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Photos: Thousands march across Europe to demand end to Israel’s war on Gaza
-**Link:** https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss
+**Score:** 16
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka
+**Tytuł źródła:** US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Photos: Thousands march across Europe to demand end to Israel’s war on Gaza
+US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’
 
-Demonstrations in London, Berlin, and Rome denounce ongoing Israeli attacks on Gaza &#039;ceasefire&#039; anniversary.
+A US fighter jet bombed a commercial cargo ship in the Gulf of Oman, according to CENTCOM.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 10
+**Score:** 14
 **Powody:** konflikt/eskalacja, czytelny tytuł
-**Tytuł źródła:** Israeli attack destroys building in Gaza one year into ‘ceasefire’
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss
+**Tytuł źródła:** Yemen fighting expands as Houthis attack Saudi airport: What to know
+**Link:** https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Israeli attack destroys building in Gaza one year into ‘ceasefire’
+Yemen fighting expands as Houthis attack Saudi airport: What to know
 
-An Israeli strike destroyed a residential building in the Al-Rimal neighbourhood in Gaza City.
+Saudi coalition blames Houthi group for the missile strike on the main international airport in Riyadh.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
