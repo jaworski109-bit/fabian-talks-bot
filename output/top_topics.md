@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-10-11 11:55)
+# Fabian Talks — top tematy (2026-10-11 21:20)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
 **Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, mocny trigger portfel/paliwo
-**Tytuł źródła:** What the Iran war has done to the world’s energy supply, in charts
-**Link:** https://www.aljazeera.com/news/2026/10/11/what-the-iran-war-has-done-to-the-worlds-energy-supply-in-charts?traffic_source=rss
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Saudi capital airport hit by second Houthi strike in two days
+**Link:** https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-What the Iran war has done to the world’s energy supply, in charts
+Saudi capital airport hit by second Houthi strike in two days
 
-Fossil fuels produce 81 percent of global energy. We look at Middle East’s role and what happens when supplies are cut.
+The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -33,9 +33,9 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
 **Score:** 16
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka
-**Tytuł źródła:** US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/11/us-bombs-cargo-vessel-in-gulf-of-oman-trying-to-run-iran-blockade?traffic_source=rss
+**Powody:** wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Republican senator says Trump diesel agreement with Russia may be illegal
+**Link:** https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US bombs cargo vessel in Gulf of Oman ‘trying to run Iran blockade’
+Republican senator says Trump diesel agreement with Russia may be illegal
 
-A US fighter jet bombed a commercial cargo ship in the Gulf of Oman, according to CENTCOM.
+US President Trump&#039;s bid to bring down diesel prices by easing sanctions on Russia prompts rare Republican criticism.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 14
-**Powody:** konflikt/eskalacja, czytelny tytuł
-**Tytuł źródła:** Yemen fighting expands as Houthis attack Saudi airport: What to know
-**Link:** https://www.aljazeera.com/news/2026/10/11/yemen-fighting-expands-as-houthis-attack-saudi-airport-what-to-know?traffic_source=rss
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** War and high debt to dominate IMF-World Bank meetings in Bangkok
+**Link:** https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Yemen fighting expands as Houthis attack Saudi airport: What to know
+War and high debt to dominate IMF-World Bank meetings in Bangkok
 
-Saudi coalition blames Houthi group for the missile strike on the main international airport in Riyadh.
+The US-Israel war on Iran and its inflationary impact will dominate the agenda.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
