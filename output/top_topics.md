@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-10-11 21:20)
+# Fabian Talks — top tematy (2026-10-12 14:06)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 17
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Saudi capital airport hit by second Houthi strike in two days
-**Link:** https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss
+**Score:** 20
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** ‘Energy ceasefire’: What’s behind Trump’s love-hate ties to Russian oil?
+**Link:** https://www.aljazeera.com/news/2026/10/12/energy-ceasefire-whats-behind-trumps-love-hate-ties-to-russian-oil?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Saudi capital airport hit by second Houthi strike in two days
+‘Energy ceasefire’: What’s behind Trump’s love-hate ties to Russian oil?
 
-The Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.
+Trump&#039;s energy truce sparks criticism over aiding Russia&#039;s war finances amid diesel shortages and rising consumer costs.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 16
-**Powody:** wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Republican senator says Trump diesel agreement with Russia may be illegal
-**Link:** https://www.aljazeera.com/news/2026/10/11/republican-senator-says-trump-diesel-agreement-with-russia-may-be-illegal?traffic_source=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** At least 20 injured in northern Israel explosion
+**Link:** https://www.aljazeera.com/news/2026/10/12/explosion-in-northern-israel-students-and-teachers-injured?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Republican senator says Trump diesel agreement with Russia may be illegal
+At least 20 injured in northern Israel explosion
 
-US President Trump&#039;s bid to bring down diesel prices by easing sanctions on Russia prompts rare Republican criticism.
+About 20 people has been injured by an unexploded ordnance, police say, according to preliminary indications.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
+**Score:** 9
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** War and high debt to dominate IMF-World Bank meetings in Bangkok
-**Link:** https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok?traffic_source=rss
+**Tytuł źródła:** Gaza: Still Reporting
+**Link:** https://www.aljazeera.com/video/witness/2026/10/12/gaza-still-reporting?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-War and high debt to dominate IMF-World Bank meetings in Bangkok
+Gaza: Still Reporting
 
-The US-Israel war on Iran and its inflationary impact will dominate the agenda.
+When Israel orders an evacuation of Gaza City, a journalist documents the displacement while living it with her family.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
