@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-10-18 10:11)
+# Fabian Talks — top tematy (2026-10-18 19:56)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Israel’s ties with Europe are fraying. Can its election change that?
-**Link:** https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 17
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Oil facilities hit in deadly overnight attack on St Petersburg
+**Link:** https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Israel’s ties with Europe are fraying. Can its election change that?
+Oil facilities hit in deadly overnight attack on St Petersburg
 
-European condemnation is mounting, but Israel’s election offers little prospect of a material change for Palestinians.
+At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -34,8 +34,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 2. ŚWIAT WCHODZI W CHAOS?
 **Score:** 9
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** St Petersburg under attack from Ukrainian drone swarm
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss
+**Tytuł źródła:** Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says
+**Link:** https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-St Petersburg under attack from Ukrainian drone swarm
+Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says
 
-Video posted on social media shows multiple explosions in St Petersburg, Russia after a suspected Ukrainian drone swarm.
+Ukraine&#039;s president says communication between Washington and Kyiv &#039;virtually nonstop&#039;, despite a spat with Trump.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 6
-**Powody:** konflikt/eskalacja, czytelny tytuł
-**Tytuł źródła:** Food or medicine? The impossible choices facing Sudan’s chronically ill
-**Link:** https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** JERUSALEM DAILY: Settlers attack EU diplomats
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Food or medicine? The impossible choices facing Sudan’s chronically ill
+JERUSALEM DAILY: Settlers attack EU diplomats
 
-Sudanese are facing growing costs of medicine caused by the country&#039;s civil war.
+Israeli settlers attacked an EU delegation in the occupied West Bank while it was visiting olive harvesters near Taybeh.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
