@@ -1,20 +1,21 @@
 {
-  "generated_at": "2026-10-18T19:56:10.780295",
+  "generated_at": "2026-10-19T11:46:47.519970",
   "topics": [
     {
-      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
-      "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-      "score": 17,
+      "title": "Qatar warns global energy shockwaves from Iran war have yet to peak",
+      "summary": "Deputy PM calls for dialogue with Tehran, highlights US defence ties and rejects Strait of Hormuz transit fees.",
+      "link": "https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss",
+      "score": 26,
       "reasons": [
         "konflikt/eskalacja",
         "wpływ na ceny/handel",
+        "duże państwa/geopolityka",
         "czytelny tytuł",
-        "mocny trigger portfel/paliwo"
+        "silny trigger Ormuz"
       ],
-      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Oil facilities hit in deadly overnight attack on St Petersburg\n\nAt least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "thumbnail": "ORMUZ ZAPŁONIE?",
+      "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
+      "post_text": "Qatar warns global energy shockwaves from Iran war have yet to peak\n\nDeputy PM calls for dialogue with Tehran, highlights US defence ties and rejects Strait of Hormuz transit fees.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -25,18 +26,19 @@
       ]
     },
     {
-      "title": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says",
-      "summary": "Ukraine&#039;s president says communication between Washington and Kyiv &#039;virtually nonstop&#039;, despite a spat with Trump.",
-      "link": "https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss",
-      "score": 9,
+      "title": "Bomb threat forces Israel to Austria flight into emergency landing",
+      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+      "link": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss",
+      "score": 17,
       "reasons": [
         "konflikt/eskalacja",
         "duże państwa/geopolityka",
+        "pilność/tempo",
         "czytelny tytuł"
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says\n\nUkraine&#039;s president says communication between Washington and Kyiv &#039;virtually nonstop&#039;, despite a spat with Trump.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Bomb threat forces Israel to Austria flight into emergency landing\n\nThe Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -47,18 +49,17 @@
       ]
     },
     {
-      "title": "JERUSALEM DAILY: Settlers attack EU diplomats",
-      "summary": "Israeli settlers attacked an EU delegation in the occupied West Bank while it was visiting olive harvesters near Taybeh.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
-      "score": 9,
+      "title": "Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit",
+      "summary": "There have been new reports of Iranian support for the Houthis in Yemen amid a wave of attacks on Saudi cities.",
+      "link": "https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss",
+      "score": 11,
       "reasons": [
         "konflikt/eskalacja",
-        "duże państwa/geopolityka",
-        "czytelny tytuł"
+        "duże państwa/geopolityka"
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "JERUSALEM DAILY: Settlers attack EU diplomats\n\nIsraeli settlers attacked an EU delegation in the occupied West Bank while it was visiting olive harvesters near Taybeh.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit\n\nThere have been new reports of Iranian support for the Houthis in Yemen amid a wave of attacks on Saudi cities.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",

@@ -1,23 +1,24 @@
-# Fabian Talks — top tematy (2026-10-18 19:56)
+# Fabian Talks — top tematy (2026-10-19 11:46)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 17
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Oil facilities hit in deadly overnight attack on St Petersburg
-**Link:** https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss
+## 1. ORMUZ ZAPŁONIE?
+**Score:** 26
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** Qatar warns global energy shockwaves from Iran war have yet to peak
+**Link:** https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Oil facilities hit in deadly overnight attack on St Petersburg
+Qatar warns global energy shockwaves from Iran war have yet to peak
 
-At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.
+Deputy PM calls for dialogue with Tehran, highlights US defence ties and rejects Strait of Hormuz transit fees.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +33,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says
-**Link:** https://www.aljazeera.com/news/2026/10/18/russias-war-on-ukraine-must-be-brought-to-an-end-zelenskyy-says?traffic_source=rss
+**Score:** 17
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Bomb threat forces Israel to Austria flight into emergency landing
+**Link:** https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +47,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Russia’s war on Ukraine ‘must be brought to an end’, Zelenskyy says
+Bomb threat forces Israel to Austria flight into emergency landing
 
-Ukraine&#039;s president says communication between Washington and Kyiv &#039;virtually nonstop&#039;, despite a spat with Trump.
+The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +64,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** JERUSALEM DAILY: Settlers attack EU diplomats
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss
+**Score:** 11
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit
+**Link:** https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-JERUSALEM DAILY: Settlers attack EU diplomats
+Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit
 
-Israeli settlers attacked an EU delegation in the occupied West Bank while it was visiting olive harvesters near Taybeh.
+There have been new reports of Iranian support for the Houthis in Yemen amid a wave of attacks on Saudi cities.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
