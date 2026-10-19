@@ -1,24 +1,23 @@
-# Fabian Talks — top tematy (2026-10-19 11:46)
+# Fabian Talks — top tematy (2026-10-19 21:54)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 26
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Qatar warns global energy shockwaves from Iran war have yet to peak
-**Link:** https://www.aljazeera.com/news/2026/10/19/qatar-warns-global-energy-shockwaves-from-iran-war-have-yet-to-peak?traffic_source=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Could your halal pension be funding Israel’s military?
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Qatar warns global energy shockwaves from Iran war have yet to peak
+Could your halal pension be funding Israel’s military?
 
-Deputy PM calls for dialogue with Tehran, highlights US defence ties and rejects Strait of Hormuz transit fees.
+HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -33,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Bomb threat forces Israel to Austria flight into emergency landing
-**Link:** https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Benny Gantz drops out of Israel’s election race
+**Link:** https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Bomb threat forces Israel to Austria flight into emergency landing
+Benny Gantz drops out of Israel’s election race
 
-The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.
+Decision comes after polls showed his Blue and White party below the 3.25 percent threshold needed to enter the Knesset.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 11
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit
-**Link:** https://www.aljazeera.com/news/2026/10/19/iran-support-for-houthis-probed-as-yemen-war-re-erupts-and-saudi-cities-hit?traffic_source=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Inside the shadowy world of anti-Putin sabotage from within Russia
+**Link:** https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran support for Houthis probed as Yemen war re-erupts and Saudi cities hit
+Inside the shadowy world of anti-Putin sabotage from within Russia
 
-There have been new reports of Iranian support for the Houthis in Yemen amid a wave of attacks on Saudi cities.
+Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
