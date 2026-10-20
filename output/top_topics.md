@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-10-20 10:46)
+# Fabian Talks — top tematy (2026-10-20 21:06)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Palestine weekly: Israeli settlers attack journalist and diplomats
-**Link:** https://www.aljazeera.com/news/2026/10/20/palestine-weekly-israeli-settlers-attack-journalist-and-diplomats?traffic_source=rss
+**Score:** 18
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** As Macron visits Gulf, can France forge its own energy-for-security future?
+**Link:** https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Palestine weekly: Israeli settlers attack journalist and diplomats
+As Macron visits Gulf, can France forge its own energy-for-security future?
 
-Settler olive harvest attacks top 2025 total, journalist and diplomats attacked as Israel halts Gaza commercial imports.
+President Macron&#039;s Gulf visit aims to address rising energy prices and strengthen ties amid regional security concerns.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Israel’s elections 2026 explained in maps and charts
-**Link:** https://www.aljazeera.com/news/2026/10/20/israels-elections-2026-explained-in-maps-and-charts?traffic_source=rss
+## 2. CENY PÓJDĄ W GÓRĘ?
+**Score:** 16
+**Powody:** wpływ na ceny/handel, mocny trigger portfel/paliwo
+**Tytuł źródła:** Sudan army drones hit mourners and fuel market killing more than 300 people, sources say
+**Link:** https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Israel’s elections 2026 explained in maps and charts
+Sudan army drones hit mourners and fuel market killing more than 300 people, sources say
 
-Israelis vote on October 27 in the sixth election since 2019. Here’s how the system works and who gets left out.
+A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
+**Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Why Israeli Gen Z voters are drawn to the far right
-**Link:** https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss
+**Tytuł źródła:** Why the war on Iran could backfire on US regime-change goals
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Why Israeli Gen Z voters are drawn to the far right
+Why the war on Iran could backfire on US regime-change goals
 
-More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.
+Mortazavi: The war on Iran could strengthen Iranian nationalism rather than trigger regime change.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
