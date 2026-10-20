@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-10-19 21:54)
+# Fabian Talks — top tematy (2026-10-20 10:46)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
+**Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Could your halal pension be funding Israel’s military?
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss
+**Tytuł źródła:** Palestine weekly: Israeli settlers attack journalist and diplomats
+**Link:** https://www.aljazeera.com/news/2026/10/20/palestine-weekly-israeli-settlers-attack-journalist-and-diplomats?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Could your halal pension be funding Israel’s military?
+Palestine weekly: Israeli settlers attack journalist and diplomats
 
-HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.
+Settler olive harvest attacks top 2025 total, journalist and diplomats attacked as Israel halts Gaza commercial imports.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -34,8 +34,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 2. ŚWIAT WCHODZI W CHAOS?
 **Score:** 9
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Benny Gantz drops out of Israel’s election race
-**Link:** https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss
+**Tytuł źródła:** Israel’s elections 2026 explained in maps and charts
+**Link:** https://www.aljazeera.com/news/2026/10/20/israels-elections-2026-explained-in-maps-and-charts?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Benny Gantz drops out of Israel’s election race
+Israel’s elections 2026 explained in maps and charts
 
-Decision comes after polls showed his Blue and White party below the 3.25 percent threshold needed to enter the Knesset.
+Israelis vote on October 27 in the sixth election since 2019. Here’s how the system works and who gets left out.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -65,8 +65,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 9
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Inside the shadowy world of anti-Putin sabotage from within Russia
-**Link:** https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss
+**Tytuł źródła:** Why Israeli Gen Z voters are drawn to the far right
+**Link:** https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Inside the shadowy world of anti-Putin sabotage from within Russia
+Why Israeli Gen Z voters are drawn to the far right
 
-Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.
+More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
