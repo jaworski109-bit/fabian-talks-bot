@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-10-21 21:05)
+# Fabian Talks — top tematy (2026-10-22 10:57)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Iran determined to keep uranium amid increased war odds, flurry of meetings
-**Link:** https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss
+**Score:** 10
+**Powody:** wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Russia and Ukraine trade attacks despite pledging to resume peace talks
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-and-ukraine-trade-attacks-despite-pledging-to-resume-peace-talks?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran determined to keep uranium amid increased war odds, flurry of meetings
+Russia and Ukraine trade attacks despite pledging to resume peace talks
 
-Tehran had &#039;nothing new&#039; to tell Washington after latest nuclear proposals reportedly offered by mediators.
+Overnight attacks on Kyiv injured 15 people, while two were injured in Moscow as Russia said it intercepted 163 drones.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 16
-**Powody:** wpływ na ceny/handel, mocny trigger portfel/paliwo
-**Tytuł źródła:** Sudan army drones hit mourners and fuel market killing more than 300 people, sources say
-**Link:** https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 10
+**Powody:** konflikt/eskalacja, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Two killed in attack on airport in eastern Saudi Arabia, authorities say
+**Link:** https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Sudan army drones hit mourners and fuel market killing more than 300 people, sources say
+Two killed in attack on airport in eastern Saudi Arabia, authorities say
 
-A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.
+It is the latest in a series of attacks by the Houthi movement which have targeted airports and other sites in the kingdom.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 10
-**Powody:** konflikt/eskalacja, czytelny tytuł
-**Tytuł źródła:** Yemen holds mass funeral for 75 recruits killed in Houthi strike
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_funeral-in-yemen-for-recruits-killed-by-houthis-211026?traffic_source=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** In Israel election, Palestinian citizens weigh fear against disillusionment
+**Link:** https://www.aljazeera.com/news/2026/10/22/in-israel-election-palestinian-citizens-weigh-fear-against-disillusionment?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Yemen holds mass funeral for 75 recruits killed in Houthi strike
+In Israel election, Palestinian citizens weigh fear against disillusionment
 
-A mass funeral has been held in southern Yemen for 75 recruits killed in a Houthi missile strike on a training camp.
+With vote at knife’s edge, Palestinian citizens weigh principle against strategic voting in system stacked against them.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
