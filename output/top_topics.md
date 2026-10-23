@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-10-22 21:04)
+# Fabian Talks — top tematy (2026-10-23 10:50)
 
 ## 1. PALIWO WYSTRZELI?
-**Score:** 36
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, silny trigger Ormuz, mocny trigger portfel/paliwo
-**Tytuł źródła:** Iran says seven ships hit in Hormuz Strait, warns US of wider response
-**Link:** https://www.aljazeera.com/news/2026/10/22/iran-says-seven-ships-hit-in-hormuz-strait-warns-us-of-wider-response?traffic_source=rss
+**Score:** 30
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz, mocny trigger portfel/paliwo
+**Tytuł źródła:** Are global oil reserves sufficient to withstand renewed US-Iran war?
+**Link:** https://www.aljazeera.com/news/2026/10/23/are-global-oil-reserves-sufficient-to-withstand-renewed-us-iran-war?traffic_source=rss
 
 ### Tekst na rolkę
 USA i Iran znowu grają Ormuzem.
@@ -21,9 +21,9 @@ Pytanie nie brzmi czy.
 Pytanie brzmi — kiedy to poczujesz.
 
 ### Tekst pod post
-Iran says seven ships hit in Hormuz Strait, warns US of wider response
+Are global oil reserves sufficient to withstand renewed US-Iran war?
 
-The US has pushed back on the IRGC&#039;s claims, dismissing them as an attempt to increase oil prices ahead of US elections.
+With emergency stocks at multidecade lows, analysts say the world may have only a month or two if Hormuz shuts again.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -38,10 +38,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?
-**Link:** https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss
+**Score:** 27
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, mocny trigger portfel/paliwo
+**Tytuł źródła:** New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit
+**Link:** https://www.aljazeera.com/features/2026/10/23/new-electronics-reach-iran-but-prices-soar-as-govt-fees-us-sanctions-hit?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -52,9 +52,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?
+New electronics reach Iran, but prices soar as gov’t fees, US sanctions hit
 
-Some of the core issues that drove Trump&#039;s US supporters and the MAGA movement are no longer Republican talking points.
+Latest smartphones are finding their way into Iran despite sanctions and trade restrictions, but many can&#039;t afford them.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -68,11 +68,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Israel frees suspects in two settler attacks as West Bank pogroms intensify
-**Link:** https://www.aljazeera.com/news/2026/10/22/israel-frees-suspects-in-two-settler-attacks-as-west-bank-pogroms-intensify?traffic_source=rss
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 18
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Rubio turns to small Indian town as US faces high oil prices
+**Link:** https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -83,9 +83,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Israel frees suspects in two settler attacks as West Bank pogroms intensify
+Rubio turns to small Indian town as US faces high oil prices
 
-Israeli court releases nine settler suspects over West Bank attacks as investigations into recent assaults continue.
+US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
