@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-10-25 10:30)
+# Fabian Talks — top tematy (2026-10-25 20:14)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms
-**Link:** https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss
+**Tytuł źródła:** Eight killed in Gaza as Israel targets university campus and other sites
+**Link:** https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Obama’s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms
+Eight killed in Gaza as Israel targets university campus and other sites
 
-The former US president warns of rising costs, corruption and threats to democratic values ahead of the November 3 vote.
+Israeli air strike kills three security guards in one of two attacks on the Islamic University in Gaza City.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,37 +32,6 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Bots, deepfakes and surveillance: Israel’s election goes to war online
-**Link:** https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss
-
-### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
-
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
-
-### Tekst pod post
-Bots, deepfakes and surveillance: Israel’s election goes to war online
-
-Netanyahu and his rivals are tied days from the vote, and both camps are fighting with bots, deepfakes and data.
-
-Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
-
-Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
-
-### Hook follow
-Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
-
-### Hashtagi
-#wojna #ropa #paliwo #gospodarka #geopolityka
-
----
-
-## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 10
 **Powody:** konflikt/eskalacja, pilność/tempo, czytelny tytuł
 **Tytuł źródła:** Australian MP's condition improves after alleged car attack
@@ -80,6 +49,37 @@ a kończą w Twoim portfelu.
 Australian MP's condition improves after alleged car attack
 
 The independent MP is now in a serious but stable condition, according to the Melbourne hospital.
+
+Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
+
+Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
+
+### Hook follow
+Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
+
+### Hashtagi
+#wojna #ropa #paliwo #gospodarka #geopolityka
+
+---
+
+## 3. ŚWIAT WCHODZI W CHAOS?
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** US and Israel elections: New leaders, same policies?
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss
+
+### Tekst na rolkę
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
+
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
+
+### Tekst pod post
+US and Israel elections: New leaders, same policies?
+
+Israeli governments change. US presidents come and go. But settlement expansion on occupied Palestinian land continues.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
