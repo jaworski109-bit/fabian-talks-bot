@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-10-26 12:03)
+# Fabian Talks — top tematy (2026-10-26 22:09)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Do Palestinians in Gaza expect anything to change after Israel’s election?
-**Link:** https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 37
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Africa food security under threat due to Iran war, trade officials warn
+**Link:** https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Do Palestinians in Gaza expect anything to change after Israel’s election?
+Africa food security under threat due to Iran war, trade officials warn
 
-After years of war, displacement and restrictions, Gazans ask whether Israel’s election will affect their future.
+The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
+**Score:** 9
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Deeply divided Israel braces for pivotal election
-**Link:** https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss
+**Tytuł źródła:** Could the midterms change US military support for Israel?
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Deeply divided Israel braces for pivotal election
+Could the midterms change US military support for Israel?
 
-After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.
+From Texas to Michigan, Senate candidates are challenging US weapons transfers to Israel.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Suwayda remains in stasis as US signals differences with Israel on Syria
-**Link:** https://www.aljazeera.com/news/2026/10/26/suwayda-remains-in-deadlock-as-us-signals-differences-with-israel-on-syria?traffic_source=rss
+**Score:** 6
+**Powody:** konflikt/eskalacja, czytelny tytuł
+**Tytuł źródła:** Jordan arrests three suspects over deadly church attack
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Suwayda remains in stasis as US signals differences with Israel on Syria
+Jordan arrests three suspects over deadly church attack
 
-Governorate&#039;s Druze majority in deadlock with Syrian government.
+Jordanian authorities have arrested three relatives over a church attack in Karak that killed eight people.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
