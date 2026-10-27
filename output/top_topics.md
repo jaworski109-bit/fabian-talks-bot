@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-10-26 22:09)
+# Fabian Talks — top tematy (2026-10-27 11:22)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 37
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Africa food security under threat due to Iran war, trade officials warn
-**Link:** https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 10
+**Powody:** konflikt/eskalacja, czytelny tytuł
+**Tytuł źródła:** Families of victims killed in Jordanian strike deny links to church attack
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/27/families-of-victims-killed-in-jordanian-strike-deny-links-to-church-attack?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Africa food security under threat due to Iran war, trade officials warn
+Families of victims killed in Jordanian strike deny links to church attack
 
-The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.
+Jordan said it targeted ‘terrorist hideouts’ in Syria, but relatives of those killed deny any link to last week’s church
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Could the midterms change US military support for Israel?
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss
+**Score:** 10
+**Powody:** konflikt/eskalacja, czytelny tytuł
+**Tytuł źródła:** Jordan carries out deadly strike in Syria in retaliation for church attack
+**Link:** https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Could the midterms change US military support for Israel?
+Jordan carries out deadly strike in Syria in retaliation for church attack
 
-From Texas to Michigan, Senate candidates are challenging US weapons transfers to Israel.
+The attack on a village in Syria killed five people, including women and children, Syrian health officials said.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 6
-**Powody:** konflikt/eskalacja, czytelny tytuł
-**Tytuł źródła:** Jordan arrests three suspects over deadly church attack
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/26/jordan-arrests-three-suspects-over-deadly-church-attack?traffic_source=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Iran says US ‘not serious’ about talks amid Tehran meeting
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/27/iran-says-us-not-serious-about-talks-amid-tehran-meeting?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Jordan arrests three suspects over deadly church attack
+Iran says US ‘not serious’ about talks amid Tehran meeting
 
-Jordanian authorities have arrested three relatives over a church attack in Karak that killed eight people.
+Officials from Iran, Pakistan, Turkiye and Saudi Arabia held talks in Tehran in an effort to stop further escalation.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
