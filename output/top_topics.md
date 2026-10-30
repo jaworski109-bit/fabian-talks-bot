@@ -1,23 +1,29 @@
-# Fabian Talks — top tematy (2026-10-30 11:57)
+# Fabian Talks — top tematy (2026-10-30 21:51)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 27
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, mocny trigger portfel/paliwo
-**Tytuł źródła:** Oil flows are up as Iran war turmoil eases. Why do prices keep rising?
-**Link:** https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss
+## 1. PALIWO WYSTRZELI?
+**Score:** 33
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz, mocny trigger portfel/paliwo
+**Tytuł źródła:** Oman rescues 25 from burning oil tanker in Strait of Hormuz
+**Link:** https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+USA i Iran znowu grają Ormuzem.
+👉 Przez tę cieśninę idzie ogromna część światowej ropy.
+👉 Jedna decyzja… i ceny mogą ruszyć w górę.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest daleki konflikt.
+
+👉 To jest Twoja stacja paliw.
+👉 Twój rachunek.
+👉 Twój portfel.
+
+Pytanie nie brzmi czy.
+Pytanie brzmi — kiedy to poczujesz.
 
 ### Tekst pod post
-Oil flows are up as Iran war turmoil eases. Why do prices keep rising?
+Oman rescues 25 from burning oil tanker in Strait of Hormuz
 
-Brent crude prices are up more than 60 percent compared with pre-war levels, despite rebound in supply.
+Incident comes as Iran says three oil tankers were halted while attempting to use &#039;unauthorised routes&#039; to cross Hormuz.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,24 +37,25 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Russian oil refinery struck as Ukraine renews drone attacks
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/30/russian-oil-refinery-struck-as-ukraine-renews-drone-attacks?traffic_source=rss
+## 2. ORMUZ ZAPŁONIE?
+**Score:** 26
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** G20 drops group photo as Europeans refuse to stand with Lavrov
+**Link:** https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-Russian oil refinery struck as Ukraine renews drone attacks
+G20 drops group photo as Europeans refuse to stand with Lavrov
 
-Russian authorities say they intercepted more than 1,000 Ukrainian drones over multiple regions overnight.
+Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,9 +71,9 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Syrians struggle with soaring prices as crisis challenges post-Assad recovery
-**Link:** https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Israel demolishes homes of Palestinians blamed for attack on soldiers
+**Link:** https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +84,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Syrians struggle with soaring prices as crisis challenges post-Assad recovery
+Israel demolishes homes of Palestinians blamed for attack on soldiers
 
-End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.
+Troops hold at least 12 Palestinians near demolished homes as nearly 5,000 remain displaced from Hebron neighbourhoods
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
