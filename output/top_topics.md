@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-10-31 11:30)
+# Fabian Talks — top tematy (2026-10-31 20:51)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 24
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Can Democrats win the US Senate? 10 key midterm races to watch
-**Link:** https://www.aljazeera.com/news/2026/10/31/can-democrats-win-the-us-senate-10-key-midterm-races-to-watch?traffic_source=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Israel’s allegations of Qatari election interference rejected
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/31/israels-allegations-of-qatari-election-interference-rejected?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Can Democrats win the US Senate? 10 key midterm races to watch
+Israel’s allegations of Qatari election interference rejected
 
-From Texas to Maine, rising prices and the Iran war put key Senate races in play as Democrats fight for control.
+Israel’s allegations of Qatari election interference rejected
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Syrians struggle with soaring prices as crisis challenges post-Assad recovery
-**Link:** https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** At least four Palestinians killed in Gaza as Israeli attacks continue
+**Link:** https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Syrians struggle with soaring prices as crisis challenges post-Assad recovery
+At least four Palestinians killed in Gaza as Israeli attacks continue
 
-End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government.
+Israel carried out several attacks in Gaza, including shelling the Nuseirat refugee camp.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -65,8 +65,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 9
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Swiss commentary on Israeli Olympic bobsleigh team termed ‘discriminatory’
-**Link:** https://www.aljazeera.com/sports/2026/10/31/swiss-commentary-on-israeli-olympic-bobsleigh-team-termed-discriminatory?traffic_source=rss
+**Tytuł źródła:** Jerusalem Daily: Who will form Israel’s next government?
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/10/31/jerusalem-daily-who-will-form-israels-next-government?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Swiss commentary on Israeli Olympic bobsleigh team termed ‘discriminatory’
+Jerusalem Daily: Who will form Israel’s next government?
 
-Criticism of Israel&#039;s captain Adam Edelman at Winter Olympics breached discrimination rules, Swiss complaints body says.
+Netanyahu and Eisenkot are locked in a struggle to form a governing coalition in the Knesset.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
