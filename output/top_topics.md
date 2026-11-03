@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-11-02 14:27)
+# Fabian Talks — top tematy (2026-11-03 00:17)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
 **Score:** 29
@@ -31,24 +31,25 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 16
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** How would Tehran respond if the US and Israel bomb Iran again?
-**Link:** https://www.aljazeera.com/news/2026/11/2/how-would-tehran-respond-if-the-us-and-israel-bomb-iran?traffic_source=rss
+## 2. ORMUZ ZAPŁONIE?
+**Score:** 22
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
+**Tytuł źródła:** Trump signals progress on Iran deal as Tehran pushes faster ceasefire
+**Link:** https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+Ormuz znowu wraca na pierwszy plan.
+Statki, sankcje i nerwy między mocarstwami rosną.
+A kiedy ten punkt zapalny się rusza,
+świat zaczyna płacić za handel, transport i paliwa.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest tylko geopolityka.
+To jest koszt życia.
 
 ### Tekst pod post
-How would Tehran respond if the US and Israel bomb Iran again?
+Trump signals progress on Iran deal as Tehran pushes faster ceasefire
 
-Iran has retained significant offensive capability, but civilians and critical infrastructure remain largely exposed.
+Iran says its offer to reopen the Strait of Hormuz can be implemented in two days if the US agrees to terms.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +64,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 14
-**Powody:** konflikt/eskalacja, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Jordan’s King Abdullah promises to confront ‘terrorists’ after Karak attack
-**Link:** https://www.aljazeera.com/news/2026/11/2/jordans-king-abdullah-promises-to-confront-terrorists-after-karak-attack?traffic_source=rss
+**Score:** 16
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** War, tariffs and China: What the US midterms mean for the Asia-Pacific
+**Link:** https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +78,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Jordan’s King Abdullah promises to confront ‘terrorists’ after Karak attack
+War, tariffs and China: What the US midterms mean for the Asia-Pacific
 
-King tells parliament attackers ‘are not of us’ and warns that Israeli expansionism is greatest threat to the region.
+Hit hard by Trump&#039;s tariffs and the war on Iran, countries in the Asia-Pacific want &#039;enormous changes&#039; in US policies.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 

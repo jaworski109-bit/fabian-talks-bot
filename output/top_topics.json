@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T14:27:33.520270",
+  "generated_at": "2026-11-03T00:17:23.453546",
   "topics": [
     {
       "title": "Ryanair says it may freeze workers' pay and raise airfares",
@@ -26,18 +26,20 @@
       ]
     },
     {
-      "title": "How would Tehran respond if the US and Israel bomb Iran again?",
-      "summary": "Iran has retained significant offensive capability, but civilians and critical infrastructure remain largely exposed.",
-      "link": "https://www.aljazeera.com/news/2026/11/2/how-would-tehran-respond-if-the-us-and-israel-bomb-iran?traffic_source=rss",
-      "score": 16,
+      "title": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire",
+      "summary": "Iran says its offer to reopen the Strait of Hormuz can be implemented in two days if the US agrees to terms.",
+      "link": "https://www.aljazeera.com/news/2026/11/2/iran-pushing-accelerated-plan-for-ceasefire-talks-with-us?traffic_source=rss",
+      "score": 22,
       "reasons": [
         "konflikt/eskalacja",
+        "wpływ na ceny/handel",
         "duże państwa/geopolityka",
-        "czytelny tytuł"
+        "czytelny tytuł",
+        "silny trigger Ormuz"
       ],
-      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "How would Tehran respond if the US and Israel bomb Iran again?\n\nIran has retained significant offensive capability, but civilians and critical infrastructure remain largely exposed.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "thumbnail": "ORMUZ ZAPŁONIE?",
+      "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
+      "post_text": "Trump signals progress on Iran deal as Tehran pushes faster ceasefire\n\nIran says its offer to reopen the Strait of Hormuz can be implemented in two days if the US agrees to terms.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -48,18 +50,18 @@
       ]
     },
     {
-      "title": "Jordan’s King Abdullah promises to confront ‘terrorists’ after Karak attack",
-      "summary": "King tells parliament attackers ‘are not of us’ and warns that Israeli expansionism is greatest threat to the region.",
-      "link": "https://www.aljazeera.com/news/2026/11/2/jordans-king-abdullah-promises-to-confront-terrorists-after-karak-attack?traffic_source=rss",
-      "score": 14,
+      "title": "War, tariffs and China: What the US midterms mean for the Asia-Pacific",
+      "summary": "Hit hard by Trump&#039;s tariffs and the war on Iran, countries in the Asia-Pacific want &#039;enormous changes&#039; in US policies.",
+      "link": "https://www.aljazeera.com/news/2026/11/2/war-tariffs-and-china-what-the-us-midterms-mean-for-the-asia-pacific?traffic_source=rss",
+      "score": 16,
       "reasons": [
         "konflikt/eskalacja",
-        "pilność/tempo",
+        "duże państwa/geopolityka",
         "czytelny tytuł"
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Jordan’s King Abdullah promises to confront ‘terrorists’ after Karak attack\n\nKing tells parliament attackers ‘are not of us’ and warns that Israeli expansionism is greatest threat to the region.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "War, tariffs and China: What the US midterms mean for the Asia-Pacific\n\nHit hard by Trump&#039;s tariffs and the war on Iran, countries in the Asia-Pacific want &#039;enormous changes&#039; in US policies.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
