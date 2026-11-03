@@ -1,24 +1,23 @@
-# Fabian Talks — top tematy (2026-11-03 13:25)
+# Fabian Talks — top tematy (2026-11-03 22:45)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 22
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** US conducts series of ‘defensive strikes’ against Iran
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/3/us-conducts-series-of-defensive-strikes-against-iran?traffic_source=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 13
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** South Carolina shrimpers weigh costs, vote in crucial US midterms
+**Link:** https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss
 
 ### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest tylko geopolityka.
-To jest koszt życia.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US conducts series of ‘defensive strikes’ against Iran
+South Carolina shrimpers weigh costs, vote in crucial US midterms
 
-The US has carried out a series of ‘defensive strikes’ on Iranian locations near Hormuz, with explosions heard on Qeshm.
+Shrimpers worry about fuel costs, tariffs and Trump&#039;s proposed cuts to the agency that provides vital weather data.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -33,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 21
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest
-**Link:** https://www.aljazeera.com/news/2026/11/3/us-hits-qeshm-island-pezeshkian-signals-more-diplomacy-iran-war-latest?traffic_source=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -47,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US hits Qeshm Island, Pezeshkian signals more diplomacy: Iran war latest
+Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids
 
-With the first US attack on Qeshm Island since June, Iran and the US are on parallel tracks towards both peace and war.
+Al Jazeera journalist Montaser Nassar was detained in raids near Hebron.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -64,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 18
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply
-**Link:** https://www.aljazeera.com/news/2026/11/3/disruptions-of-black-sea-grain-exports-spike-global-prices?traffic_source=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Israel political deadlock leaves Netanyahu’s future hanging in the balance
+**Link:** https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Grain under fire: Russian, Ukrainian Black Sea attacks threaten food supply
+Israel political deadlock leaves Netanyahu’s future hanging in the balance
 
-Renewed strikes on Black Sea shipping imperil grain exports, drive up food prices and deepen global food insecurity.
+With neither bloc near a majority, Arab and ultra-Orthodox parties hold the key to Israel’s next government..
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
