@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-11-03 22:45)
+# Fabian Talks — top tematy (2026-11-04 13:36)
 
 ## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** South Carolina shrimpers weigh costs, vote in crucial US midterms
-**Link:** https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss
+**Score:** 17
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Houthis’ monthlong siege on Taiz creating misery for trapped Yemenis
+**Link:** https://www.aljazeera.com/news/2026/11/4/houthis-one-month-siege-on-taiz-is-creating-hell-for-yemenis-stuck-there?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-South Carolina shrimpers weigh costs, vote in crucial US midterms
+Houthis’ monthlong siege on Taiz creating misery for trapped Yemenis
 
-Shrimpers worry about fuel costs, tariffs and Trump&#039;s proposed cuts to the agency that provides vital weather data.
+Blockade prompts warnings of a &#039;catastrophe&#039; as food, water, fuel and medical supplies are unable to reach city.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
+**Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss
+**Tytuł źródła:** Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?
+**Link:** https://www.aljazeera.com/news/2026/11/4/tariffs-to-iran-war-can-democrats-reverse-trump-policy-with-midterms-win?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids
+Can Democrats stop Iran war, reverse Trump’s tariffs after midterms win?
 
-Al Jazeera journalist Montaser Nassar was detained in raids near Hebron.
+Democrats can block Trump&#039;s legislative agenda, launch investigations but don&#039;t have the numbers to override his veto.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
+**Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Israel political deadlock leaves Netanyahu’s future hanging in the balance
-**Link:** https://www.aljazeera.com/news/2026/11/3/israel-political-deadlock-leaves-netanyahus-future-hanging-in-the-balance?traffic_source=rss
+**Tytuł źródła:** Trump admits Iran war hurt Republican vote, vows to veto ‘insane’ bills
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-admits-iran-war-hurt-republican-vote-vows-to-veto-insane-bills?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Israel political deadlock leaves Netanyahu’s future hanging in the balance
+Trump admits Iran war hurt Republican vote, vows to veto ‘insane’ bills
 
-With neither bloc near a majority, Arab and ultra-Orthodox parties hold the key to Israel’s next government..
+US President Donald Trump has admitted that the war on Iran contributed to Republican losses in the midterm elections.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
