@@ -1,29 +1,23 @@
-# Fabian Talks — top tematy (2026-11-05 23:07)
+# Fabian Talks — top tematy (2026-11-06 13:33)
 
-## 1. PALIWO WYSTRZELI?
-**Score:** 37
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz, mocny trigger portfel/paliwo
-**Tytuł źródła:** Iran says tankers struck in Hormuz amid fears of new US attack
-**Link:** https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 14
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know
+**Link:** https://www.aljazeera.com/news/2026/11/6/russia-to-uae-iran-steps-up-diplomacy-amid-trump-threats-what-we-know?traffic_source=rss
 
 ### Tekst na rolkę
-USA i Iran znowu grają Ormuzem.
-👉 Przez tę cieśninę idzie ogromna część światowej ropy.
-👉 Jedna decyzja… i ceny mogą ruszyć w górę.
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
 
-To nie jest daleki konflikt.
-
-👉 To jest Twoja stacja paliw.
-👉 Twój rachunek.
-👉 Twój portfel.
-
-Pytanie nie brzmi czy.
-Pytanie brzmi — kiedy to poczujesz.
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran says tankers struck in Hormuz amid fears of new US attack
+Russia to UAE, Iran steps up diplomacy amid Trump threats: What we know
 
-Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz.
+Iran launches diplomatic offensive as US mulls resumption of war.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -40,8 +34,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 2. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Vance walks Trump tightrope with scathing election critique blaming Iran war
-**Link:** https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss
+**Tytuł źródła:** Major construction ongoing near Iran missile bases, satellite images suggest
+**Link:** https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -52,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Vance walks Trump tightrope with scathing election critique blaming Iran war
+Major construction ongoing near Iran missile bases, satellite images suggest
 
-The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.
+Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -68,11 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 12
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Who could be behind hoax bomb threats to European air travel?
-**Link:** https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 8
+**Powody:** czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Olympic champion Imane Khelif to make professional boxing debut in December
+**Link:** https://www.aljazeera.com/sports/2026/11/6/olympic-champion-imane-khelif-to-make-professional-boxing-debut-in-december?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -83,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Who could be behind hoax bomb threats to European air travel?
+Olympic champion Imane Khelif to make professional boxing debut in December
 
-There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.
+The Algerian has not fought since winning gold at Paris 2024, where she was embroiled in a gender row.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
