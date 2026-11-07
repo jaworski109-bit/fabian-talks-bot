@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-11-07 12:14)
+# Fabian Talks — top tematy (2026-11-07 21:17)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 25
-**Powody:** wpływ na ceny/handel, duże państwa/geopolityka, pilność/tempo, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** China’s e-bikes boom as fuel prices rise
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss
+## 1. ŚWIAT WCHODZI W CHAOS?
+**Score:** 18
+**Powody:** konflikt/eskalacja, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Ukraine’s Zaporizhzhia faces threat as Russian drones close in
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-China’s e-bikes boom as fuel prices rise
+Ukraine’s Zaporizhzhia faces threat as Russian drones close in
 
-E-bikes manufacturers in China are are now looking to expand to markets abroad as fuel prices stay high.
+Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. CENY PÓJDĄ W GÓRĘ?
-**Score:** 19
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** How the Iran war helped Democrats win the midterms
-**Link:** https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 14
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Latvian farmers protest over ‘blood grain’ trade with Russia
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-How the Iran war helped Democrats win the midterms
+Latvian farmers protest over ‘blood grain’ trade with Russia
 
-Tehran brought the costs of war into American homes, fuelling the backlash against Trump&#039;s party.
+Latvian farmers are protesting Russian grain transit, arguing that it helps fund Moscow’s war in Ukraine.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 16
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Trump confirms US strikes in Iran, insists ‘it’s not a war’
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/7/trump-confirms-us-strikes-in-iran-insists-its-not-a?traffic_source=rss
+**Score:** 11
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł
+**Tytuł źródła:** Abdul El-Sayed slams Trump’s tariff war with Canada
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump confirms US strikes in Iran, insists ‘it’s not a war’
+Abdul El-Sayed slams Trump’s tariff war with Canada
 
-US President Donald Trump said America has carried out ‘minor strikes’ on Iran’s Qeshm Island.
+Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
