@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-11-07 21:17)
+# Fabian Talks — top tematy (2026-11-08 12:34)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 18
-**Powody:** konflikt/eskalacja, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Ukraine’s Zaporizhzhia faces threat as Russian drones close in
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?
+**Link:** https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Ukraine’s Zaporizhzhia faces threat as Russian drones close in
+Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?
 
-Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.
+Israel&#039;s former military chief has been given the opportunity to form a government after an inconclusive election.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 14
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Latvian farmers protest over ‘blood grain’ trade with Russia
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-latvia-farmers-protest-russian-grain-transit?traffic_source=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Former Palestinian detainees at mercy of Israel amid perpetual detention
+**Link:** https://www.aljazeera.com/features/2026/11/8/former-palestinian-detainees-at-mercy-of-israel-amid-perpetual-detention?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Latvian farmers protest over ‘blood grain’ trade with Russia
+Former Palestinian detainees at mercy of Israel amid perpetual detention
 
-Latvian farmers are protesting Russian grain transit, arguing that it helps fund Moscow’s war in Ukraine.
+Former Palestinian detainees in the West Bank are being repeatedly detained by Israeli forces, affecting their families.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 11
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł
-**Tytuł źródła:** Abdul El-Sayed slams Trump’s tariff war with Canada
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/7/abdul-el-sayed-slams-trumps-tariff-war-with-canada?traffic_source=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?
+**Link:** https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Abdul El-Sayed slams Trump’s tariff war with Canada
+The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?
 
-Michigan Senator-elect Abdul El-Sayed has criticised Trump’s trade war with Canada.
+Unpolished and understated, Eisenkot offers a stark contrast to Netanyahu but risks continuing his legacy
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
