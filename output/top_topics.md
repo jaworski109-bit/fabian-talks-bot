@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-11-08 12:34)
+# Fabian Talks — top tematy (2026-11-08 21:32)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
+**Score:** 17
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?
-**Link:** https://www.aljazeera.com/news/2026/11/8/will-eisenkot-be-able-to-form-israels-next-govt-amid-divided-opposition?traffic_source=rss
+**Tytuł źródła:** Iran threatens to ‘rain down hell’ if US escalates war
+**Link:** https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Will Eisenkot be able to form Israel’s next gov’t amid divided opposition?
+Iran threatens to ‘rain down hell’ if US escalates war
 
-Israel&#039;s former military chief has been given the opportunity to form a government after an inconclusive election.
+President Trump warns that US forces are &#039;locked and loaded&#039; and ready to strike, if necessary.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Former Palestinian detainees at mercy of Israel amid perpetual detention
-**Link:** https://www.aljazeera.com/features/2026/11/8/former-palestinian-detainees-at-mercy-of-israel-amid-perpetual-detention?traffic_source=rss
+**Score:** 14
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel
+**Link:** https://www.aljazeera.com/news/2026/11/8/hundreds-of-thousands-protesters-storm-amsterdam?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Former Palestinian detainees at mercy of Israel amid perpetual detention
+Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel
 
-Former Palestinian detainees in the West Bank are being repeatedly detained by Israeli forces, affecting their families.
+Protesters seek stricter trade restrictions on Israel and a halt to all arms sales.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -65,8 +65,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 9
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?
-**Link:** https://www.aljazeera.com/news/2026/11/8/the-anti-netanyahu-can-gadi-eisenkot-give-the-world-a-different-israel?traffic_source=rss
+**Tytuł źródła:** Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-The anti-Netanyahu: Can Gadi Eisenkot give the world a different Israel?
+Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis
 
-Unpolished and understated, Eisenkot offers a stark contrast to Netanyahu but risks continuing his legacy
+Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
