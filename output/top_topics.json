@@ -1,20 +1,21 @@
 {
-  "generated_at": "2026-11-09T14:52:33.637686",
+  "generated_at": "2026-11-10T01:02:03.743628",
   "topics": [
     {
-      "title": "At least four people killed as Russia and Ukraine trade strikes overnight",
-      "summary": "Russia&#039;s second-largest oil refinery is set on fire by drones while Russian strikes target Ukrainian energy sites.",
-      "link": "https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss",
-      "score": 21,
+      "title": "Saudi Arabia reports new attack on key East-West pipeline",
+      "summary": "The oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.",
+      "link": "https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss",
+      "score": 30,
       "reasons": [
+        "konflikt/eskalacja",
         "wpływ na ceny/handel",
-        "duże państwa/geopolityka",
         "czytelny tytuł",
+        "silny trigger Ormuz",
         "mocny trigger portfel/paliwo"
       ],
-      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "At least four people killed as Russia and Ukraine trade strikes overnight\n\nRussia&#039;s second-largest oil refinery is set on fire by drones while Russian strikes target Ukrainian energy sites.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "thumbnail": "PALIWO WYSTRZELI?",
+      "reel_text": "USA i Iran znowu grają Ormuzem.\n👉 Przez tę cieśninę idzie ogromna część światowej ropy.\n👉 Jedna decyzja… i ceny mogą ruszyć w górę.\n\nTo nie jest daleki konflikt.\n\n👉 To jest Twoja stacja paliw.\n👉 Twój rachunek.\n👉 Twój portfel.\n\nPytanie nie brzmi czy.\nPytanie brzmi — kiedy to poczujesz.",
+      "post_text": "Saudi Arabia reports new attack on key East-West pipeline\n\nThe oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -25,9 +26,32 @@
       ]
     },
     {
-      "title": "Iran’s authorities harden domestic security controls amid US strike threats",
-      "summary": "Iran is cracking down on perceived security threats from alleged spies to crowds of youngsters.",
-      "link": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats?traffic_source=rss",
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+      "score": 15,
+      "reasons": [
+        "konflikt/eskalacja",
+        "duże państwa/geopolityka",
+        "czytelny tytuł",
+        "mocny trigger portfel/paliwo"
+      ],
+      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
+      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
+      "post_text": "France accuses Iran of supermarket fridge hacking\n\nTons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
+      "hashtags": [
+        "#wojna",
+        "#ropa",
+        "#paliwo",
+        "#gospodarka",
+        "#geopolityka"
+      ]
+    },
+    {
+      "title": "Iran war live: Trump says escalation ‘unlikely’, Iran demands ‘surrender’",
+      "summary": "US President Donald Trump made the remarks after meeting Qatar&#039;s prime minister in Washington, DC.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
       "score": 13,
       "reasons": [
         "konflikt/eskalacja",
@@ -36,28 +60,7 @@
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Iran’s authorities harden domestic security controls amid US strike threats\n\nIran is cracking down on perceived security threats from alleged spies to crowds of youngsters.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
-      "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
-      "hashtags": [
-        "#wojna",
-        "#ropa",
-        "#paliwo",
-        "#gospodarka",
-        "#geopolityka"
-      ]
-    },
-    {
-      "title": "Iran stands by demands to end the war as US ramps up military pressure",
-      "summary": "Talks aimed at preventing new major fighting between the US and Iran are ongoing.",
-      "link": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure?traffic_source=rss",
-      "score": 11,
-      "reasons": [
-        "konflikt/eskalacja",
-        "duże państwa/geopolityka"
-      ],
-      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Iran stands by demands to end the war as US ramps up military pressure\n\nTalks aimed at preventing new major fighting between the US and Iran are ongoing.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Iran war live: Trump says escalation ‘unlikely’, Iran demands ‘surrender’\n\nUS President Donald Trump made the remarks after meeting Qatar&#039;s prime minister in Washington, DC.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",

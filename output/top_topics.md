@@ -1,23 +1,29 @@
-# Fabian Talks — top tematy (2026-11-09 14:52)
+# Fabian Talks — top tematy (2026-11-10 01:02)
 
-## 1. CENY PÓJDĄ W GÓRĘ?
-**Score:** 21
-**Powody:** wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** At least four people killed as Russia and Ukraine trade strikes overnight
-**Link:** https://www.aljazeera.com/news/2026/11/9/at-least-one-person-killed-as-russia-and-ukraine-trade-strikes-overnight?traffic_source=rss
+## 1. PALIWO WYSTRZELI?
+**Score:** 30
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, silny trigger Ormuz, mocny trigger portfel/paliwo
+**Tytuł źródła:** Saudi Arabia reports new attack on key East-West pipeline
+**Link:** https://www.aljazeera.com/news/2026/11/9/saudi-arabia-reports-new-attack-on-key-east-west-pipeline?traffic_source=rss
 
 ### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
+USA i Iran znowu grają Ormuzem.
+👉 Przez tę cieśninę idzie ogromna część światowej ropy.
+👉 Jedna decyzja… i ceny mogą ruszyć w górę.
 
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
+To nie jest daleki konflikt.
+
+👉 To jest Twoja stacja paliw.
+👉 Twój rachunek.
+👉 Twój portfel.
+
+Pytanie nie brzmi czy.
+Pytanie brzmi — kiedy to poczujesz.
 
 ### Tekst pod post
-At least four people killed as Russia and Ukraine trade strikes overnight
+Saudi Arabia reports new attack on key East-West pipeline
 
-Russia&#039;s second-largest oil refinery is set on fire by drones while Russian strikes target Ukrainian energy sites.
+The oil pipeline runs through the desert to the coast and is essential for bypassing the Strait of Hormuz.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,11 +37,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Iran’s authorities harden domestic security controls amid US strike threats
-**Link:** https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats?traffic_source=rss
+## 2. CENY PÓJDĄ W GÓRĘ?
+**Score:** 15
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** France accuses Iran of supermarket fridge hacking
+**Link:** https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +52,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran’s authorities harden domestic security controls amid US strike threats
+France accuses Iran of supermarket fridge hacking
 
-Iran is cracking down on perceived security threats from alleged spies to crowds of youngsters.
+Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +69,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 11
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Iran stands by demands to end the war as US ramps up military pressure
-**Link:** https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure?traffic_source=rss
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Iran war live: Trump says escalation ‘unlikely’, Iran demands ‘surrender’
+**Link:** https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +83,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Iran stands by demands to end the war as US ramps up military pressure
+Iran war live: Trump says escalation ‘unlikely’, Iran demands ‘surrender’
 
-Talks aimed at preventing new major fighting between the US and Iran are ongoing.
+US President Donald Trump made the remarks after meeting Qatar&#039;s prime minister in Washington, DC.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
