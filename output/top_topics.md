@@ -1,37 +1,6 @@
-# Fabian Talks — top tematy (2026-11-10 14:04)
+# Fabian Talks — top tematy (2026-11-10 22:42)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 23
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka
-**Tytuł źródła:** Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?
-**Link:** https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean?traffic_source=rss
-
-### Tekst na rolkę
-Na świecie znowu rośnie napięcie.
-Ale najważniejsze pytanie brzmi jedno:
-czy za chwilę zapłacisz za to wyższą ceną życia?
-
-Bo największe kryzysy zaczynają się daleko,
-a kończą w Twoim portfelu.
-
-### Tekst pod post
-Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?
-
-Analysts say Trump’s comments are more likely to be political posturing than a reflection of serious policy priorities.
-
-Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
-
-Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
-
-### Hook follow
-Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
-
-### Hashtagi
-#wojna #ropa #paliwo #gospodarka #geopolityka
-
----
-
-## 2. CENY PÓJDĄ W GÓRĘ?
+## 1. CENY PÓJDĄ W GÓRĘ?
 **Score:** 15
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
 **Tytuł źródła:** Iran rejects French claims it was behind supermarket fridge hacking
@@ -62,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. CENY PÓJDĄ W GÓRĘ?
-**Score:** 11
-**Powody:** duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Nvidia spy scandal fuels debate over chip exports to China
-**Link:** https://www.aljazeera.com/economy/2026/11/10/nvidia-spy-scandal-fuels-debate-over-chip-exports-to-china?traffic_source=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** US voters want Democrats focused on ending Iran war, lowering costs: Poll
+**Link:** https://www.aljazeera.com/news/2026/11/10/most-americans-want-democrats-focused-on-ending-iran-war-lowering-costs?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +46,40 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Nvidia spy scandal fuels debate over chip exports to China
+US voters want Democrats focused on ending Iran war, lowering costs: Poll
 
-US lawmakers call for tighter restrictions on chip sales amid inquiry into Nvidia CEO&#039;s relationship with alleged spy.
+Poll shows majority of Americans want Congress to prioritise addressing rising cost of living and economic challenges.
+
+Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
+
+Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
+
+### Hook follow
+Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
+
+### Hashtagi
+#wojna #ropa #paliwo #gospodarka #geopolityka
+
+---
+
+## 3. CENY PÓJDĄ W GÓRĘ?
+**Score:** 12
+**Powody:** konflikt/eskalacja, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Spain braces for nationwide strike as anger over housing, costs boils over
+**Link:** https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over?traffic_source=rss
+
+### Tekst na rolkę
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
+
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
+
+### Tekst pod post
+Spain braces for nationwide strike as anger over housing, costs boils over
+
+The 24-hour walkout, called by Spain’s two biggest unions, is due to start on Wednesday.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
