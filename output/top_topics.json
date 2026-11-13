@@ -1,19 +1,21 @@
 {
-  "generated_at": "2026-11-12T23:03:21.848996",
+  "generated_at": "2026-11-13T13:44:38.378251",
   "topics": [
     {
-      "title": "US releases report on $12bn from Venezuelan oil, mineral resources",
-      "summary": "The report seeks to address concerns about the Trump administration&#039;s handling of revenue held in trust for Venezuela.",
-      "link": "https://www.aljazeera.com/news/2026/11/12/us-releases-report-on-12bn-from-venezuelan-oil-mineral-resources?traffic_source=rss",
-      "score": 13,
+      "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
+      "summary": "Iran’s Islamic Revolutionary Guard Corps says it destroyed a US early-warning radar in Bahrain.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss",
+      "score": 26,
       "reasons": [
+        "konflikt/eskalacja",
         "wpływ na ceny/handel",
+        "duże państwa/geopolityka",
         "czytelny tytuł",
-        "mocny trigger portfel/paliwo"
+        "silny trigger Ormuz"
       ],
-      "thumbnail": "CENY PÓJDĄ W GÓRĘ?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "US releases report on $12bn from Venezuelan oil, mineral resources\n\nThe report seeks to address concerns about the Trump administration&#039;s handling of revenue held in trust for Venezuela.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "thumbnail": "ORMUZ ZAPŁONIE?",
+      "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
+      "post_text": "Iran threatens unlimited response over Strait of Hormuz after US attack\n\nIran’s Islamic Revolutionary Guard Corps says it destroyed a US early-warning radar in Bahrain.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -24,18 +26,18 @@
       ]
     },
     {
-      "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
-      "summary": "Al Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
-      "score": 13,
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "score": 19,
       "reasons": [
         "konflikt/eskalacja",
         "duże państwa/geopolityka",
-        "czytelny tytuł"
+        "pilność/tempo"
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Al Jazeera reports from Gaza hospital attacked by Israel\n\nAl Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat\n\nDan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -46,18 +48,17 @@
       ]
     },
     {
-      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
-      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "title": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?",
+      "summary": "The US-Iran war is trapped in an ongoing &#039;no war, no peace&#039; situation, analysts say.",
+      "link": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance?traffic_source=rss",
       "score": 11,
       "reasons": [
         "konflikt/eskalacja",
-        "wpływ na ceny/handel",
-        "czytelny tytuł"
+        "duże państwa/geopolityka"
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Russian warship hit by Ukrainian drone in Gulf of Finland\n\nThe attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?\n\nThe US-Iran war is trapped in an ongoing &#039;no war, no peace&#039; situation, analysts say.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
