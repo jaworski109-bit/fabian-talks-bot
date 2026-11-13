@@ -1,38 +1,6 @@
-# Fabian Talks — top tematy (2026-11-13 13:44)
+# Fabian Talks — top tematy (2026-11-13 23:06)
 
-## 1. ORMUZ ZAPŁONIE?
-**Score:** 26
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, silny trigger Ormuz
-**Tytuł źródła:** Iran threatens unlimited response over Strait of Hormuz after US attack
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss
-
-### Tekst na rolkę
-Ormuz znowu wraca na pierwszy plan.
-Statki, sankcje i nerwy między mocarstwami rosną.
-A kiedy ten punkt zapalny się rusza,
-świat zaczyna płacić za handel, transport i paliwa.
-
-To nie jest tylko geopolityka.
-To jest koszt życia.
-
-### Tekst pod post
-Iran threatens unlimited response over Strait of Hormuz after US attack
-
-Iran’s Islamic Revolutionary Guard Corps says it destroyed a US early-warning radar in Bahrain.
-
-Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
-
-Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
-
-### Hook follow
-Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
-
-### Hashtagi
-#wojna #ropa #paliwo #gospodarka #geopolityka
-
----
-
-## 2. ŚWIAT WCHODZI W CHAOS?
+## 1. ŚWIAT WCHODZI W CHAOS?
 **Score:** 19
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo
 **Tytuł źródła:** 'We've got to run': Inside ruined Ukraine power plant under constant drone threat
@@ -63,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 11
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?
-**Link:** https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance?traffic_source=rss
+## 2. ŚWIAT WCHODZI W CHAOS?
+**Score:** 17
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** Israel bars supplies needed to treat six-year-old Gaza burn victim
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/13/israel-bars-supplies-needed-to-treat-six-year-old-gaza-burn-victim?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -78,9 +46,40 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Why is Trump saying ‘no deal necessary’ with Iran as he sidelines JD Vance?
+Israel bars supplies needed to treat six-year-old Gaza burn victim
 
-The US-Iran war is trapped in an ongoing &#039;no war, no peace&#039; situation, analysts say.
+Six-year-old burns victim Masa is one of the patients in Gaza whose recovery is under threat due to Israeli restrictions
+
+Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
+
+Myślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?
+
+### Hook follow
+Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.
+
+### Hashtagi
+#wojna #ropa #paliwo #gospodarka #geopolityka
+
+---
+
+## 3. USA KONTRA IRAN
+**Score:** 17
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Iran honours fallen soldiers in Iran-Iraq war with missile display
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss
+
+### Tekst na rolkę
+Na świecie znowu rośnie napięcie.
+Ale najważniejsze pytanie brzmi jedno:
+czy za chwilę zapłacisz za to wyższą ceną życia?
+
+Bo największe kryzysy zaczynają się daleko,
+a kończą w Twoim portfelu.
+
+### Tekst pod post
+Iran honours fallen soldiers in Iran-Iraq war with missile display
+
+Thousands gathered in Tehran for a mass funeral honouring 110 unidentified soldiers killed in the Iran-Iraq war.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
