@@ -1,19 +1,21 @@
 {
-  "generated_at": "2026-11-15T13:16:11.020352",
+  "generated_at": "2026-11-15T22:21:52.800927",
   "topics": [
     {
-      "title": "Thousands in Portugal protest against surging rental prices",
-      "summary": "Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
-      "score": 13,
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+      "link": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
+      "score": 26,
       "reasons": [
+        "konflikt/eskalacja",
         "wpływ na ceny/handel",
+        "duże państwa/geopolityka",
         "czytelny tytuł",
-        "mocny trigger portfel/paliwo"
+        "silny trigger Ormuz"
       ],
-      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
-      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Thousands in Portugal protest against surging rental prices\n\nThousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "thumbnail": "ORMUZ ZAPŁONIE?",
+      "reel_text": "Ormuz znowu wraca na pierwszy plan.\nStatki, sankcje i nerwy między mocarstwami rosną.\nA kiedy ten punkt zapalny się rusza,\nświat zaczyna płacić za handel, transport i paliwa.\n\nTo nie jest tylko geopolityka.\nTo jest koszt życia.",
+      "post_text": "Iran targets US military base in Bahrain with drone attack\n\nIt marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -46,9 +48,9 @@
       ]
     },
     {
-      "title": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
-      "summary": "Tehran says its air attacks on countries cooperating with the US are justified under international law.",
-      "link": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us?traffic_source=rss",
+      "title": "Who can force Israel to implement Gaza ceasefire deal?",
+      "summary": "Storms batter Palestinian territory as Israel restricts entry of aid.",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
       "score": 9,
       "reasons": [
         "konflikt/eskalacja",
@@ -57,7 +59,7 @@
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US\n\nTehran says its air attacks on countries cooperating with the US are justified under international law.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Who can force Israel to implement Gaza ceasefire deal?\n\nStorms batter Palestinian territory as Israel restricts entry of aid.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
