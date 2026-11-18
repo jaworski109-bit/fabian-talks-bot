@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-11-17 15:19)
+# Fabian Talks — top tematy (2026-11-18 00:20)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 21
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss
+**Score:** 17
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka
+**Tytuł źródła:** Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain
+**Link:** https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington
+Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain
 
-President Donald Trump responded to a CNN report that Iran was working on plans to attack Washington, DC
+Kuwait&#039;s military says its air defence was repelling drones as Iran and the US hit out at each other across the Gulf.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
+**Score:** 17
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Is the US-Israel war on Iran turning into a ‘frozen conflict’?
-**Link:** https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss
+**Tytuł źródła:** US Navy chief says Iran war has put ‘strain’ on maritime forces
+**Link:** https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Is the US-Israel war on Iran turning into a ‘frozen conflict’?
+US Navy chief says Iran war has put ‘strain’ on maritime forces
 
-Trump says Washington doesn&#039;t need a deal with Tehran, while Iran rejects &#039;no war, no peace&#039;. Is the war at an impasse?
+Lawmakers hound Hung Cao over expanding war, opaque leadership shake-ups, and low crew morale at confirmation hearing.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -65,8 +65,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72
-**Link:** https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss
+**Tytuł źródła:** Iran war live: Kuwait says intercepting ‘hostile’ drone attacks
+**Link:** https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72
+Iran war live: Kuwait says intercepting ‘hostile’ drone attacks
 
-Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.
+Kuwait intercepts &#039;hostile&#039; drone attacks as Bahrain issues an &#039;all-clear&#039; alert, saying danger has passed.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
