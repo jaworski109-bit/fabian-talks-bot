@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-11-18 14:54)
+# Fabian Talks — top tematy (2026-11-18 23:46)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
 **Score:** 20
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 17
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
-**Tytuł źródła:** Palestinians flee refugee camp as Israel begins operation in central Gaza
-**Link:** https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** What does Israel’s new ground offensive mean for Palestinians in Gaza?
+**Link:** https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Palestinians flee refugee camp as Israel begins operation in central Gaza
+What does Israel’s new ground offensive mean for Palestinians in Gaza?
 
-Israeli army says the operation west of the &#039;Yellow Line&#039; aims to &#039;eliminate a threat&#039;.
+Israeli tanks advance beyond the &#039;Yellow Line&#039;, forcing Palestinians to flee again in Gaza.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
+**Score:** 9
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Can the US and Iran sustain a ‘frozen war’?
-**Link:** https://www.aljazeera.com/news/2026/11/18/can-the-us-and-iran-sustain-a-frozen?traffic_source=rss
+**Tytuł źródła:** Israeli court extends Gaza doctor Abu Safia’s detention without charge
+**Link:** https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Can the US and Iran sustain a ‘frozen war’?
+Israeli court extends Gaza doctor Abu Safia’s detention without charge
 
-Tehran may eventually decide that &#039;escalating confrontation&#039; is preferable to status quo, says analyst Hamidreza Azizi.
+An Israeli court extended the detention of Abu Safia nearly two years after Israel&#039;s army detained him.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
