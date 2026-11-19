@@ -1,4 +1,4 @@
-# Fabian Talks — top tematy (2026-11-18 23:46)
+# Fabian Talks — top tematy (2026-11-19 15:00)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
 **Score:** 20
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
+**Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** What does Israel’s new ground offensive mean for Palestinians in Gaza?
-**Link:** https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss
+**Tytuł źródła:** ‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War
+**Link:** https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-What does Israel’s new ground offensive mean for Palestinians in Gaza?
+‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War
 
-Israeli tanks advance beyond the &#039;Yellow Line&#039;, forcing Palestinians to flee again in Gaza.
+The trauma Israeli soldiers bring home — and the consequences of Israel’s genocide in Gaza.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
+**Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Israeli court extends Gaza doctor Abu Safia’s detention without charge
-**Link:** https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss
+**Tytuł źródła:** Trump claims Iran is developing bioweapons: Is there any evidence?
+**Link:** https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Israeli court extends Gaza doctor Abu Safia’s detention without charge
+Trump claims Iran is developing bioweapons: Is there any evidence?
 
-An Israeli court extended the detention of Abu Safia nearly two years after Israel&#039;s army detained him.
+Trump threatens to &#039;wipe out&#039; Iran in case of attack as Tehran&#039;s capabilities remain unclear.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
