@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-11-19 15:00)
+# Fabian Talks — top tematy (2026-11-20 00:07)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 20
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka
-**Tytuł źródła:** Kuwait says it repelled first Iranian attack in two months after US strikes island
-**Link:** https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss
+**Score:** 13
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Mosque torched in Israel sparks political backlash against Netanyahu
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Kuwait says it repelled first Iranian attack in two months after US strikes island
+Mosque torched in Israel sparks political backlash against Netanyahu
 
-Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.
+A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** ‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War
-**Link:** https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss
+**Score:** 11
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka
+**Tytuł źródła:** Senate Republicans in US reject measure to limit Trump’s war powers in Iran
+**Link:** https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War
+Senate Republicans in US reject measure to limit Trump’s war powers in Iran
 
-The trauma Israeli soldiers bring home — and the consequences of Israel’s genocide in Gaza.
+The resolution was defeated 51-48. Three Republicans broke rank, voting for the measure.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
+**Score:** 9
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Trump claims Iran is developing bioweapons: Is there any evidence?
-**Link:** https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence?traffic_source=rss
+**Tytuł źródła:** Jerusalem Daily: Israel launches ground offensive in Gaza
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump claims Iran is developing bioweapons: Is there any evidence?
+Jerusalem Daily: Israel launches ground offensive in Gaza
 
-Trump threatens to &#039;wipe out&#039; Iran in case of attack as Tehran&#039;s capabilities remain unclear.
+Israel launches its first major ground offensive in central Gaza, pushing beyond the ‘Yellow Line’ it controls
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
