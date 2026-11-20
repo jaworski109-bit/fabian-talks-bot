@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-11-20 00:07)
+# Fabian Talks — top tematy (2026-11-20 14:43)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Mosque torched in Israel sparks political backlash against Netanyahu
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss
+**Tytuł źródła:** US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?
+**Link:** https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Mosque torched in Israel sparks political backlash against Netanyahu
+US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?
 
-A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.
+CENTCOM declares vessels bypassing the Iran blockade could be stopped, boarded or even seized by US forces.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 11
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka
-**Tytuł źródła:** Senate Republicans in US reject measure to limit Trump’s war powers in Iran
-**Link:** https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss
+**Score:** 9
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Trump, Putin, Xi pledge to increase global petrol supplies – but how?
+**Link:** https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Senate Republicans in US reject measure to limit Trump’s war powers in Iran
+Trump, Putin, Xi pledge to increase global petrol supplies – but how?
 
-The resolution was defeated 51-48. Three Republicans broke rank, voting for the measure.
+Analysts are sceptical about how this will be achieved amid the ongoing wars in Ukraine and Iran.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -65,8 +65,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 9
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Jerusalem Daily: Israel launches ground offensive in Gaza
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss
+**Tytuł źródła:** Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?
+**Link:** https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Jerusalem Daily: Israel launches ground offensive in Gaza
+Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?
 
-Israel launches its first major ground offensive in central Gaza, pushing beyond the ‘Yellow Line’ it controls
+NATO Article 5 says attack on one member is an attack on all. Analysts say inclusion of Ukraine &#039;stretches credulity&#039;.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
