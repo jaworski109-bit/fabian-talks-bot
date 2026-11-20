@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-11-20 14:43)
+# Fabian Talks — top tematy (2026-11-20 23:32)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?
-**Link:** https://www.aljazeera.com/news/2026/11/20/us-targets-irans-ship-to-ship-transfers-can-tehran-break-the-blockade?traffic_source=rss
+**Score:** 17
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, pilność/tempo, czytelny tytuł
+**Tytuł źródła:** What we know about the latest Russian missile strikes on Ukraine
+**Link:** https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US targets Iran’s ship-to-ship transfers: Can Tehran break the blockade?
+What we know about the latest Russian missile strikes on Ukraine
 
-CENTCOM declares vessels bypassing the Iran blockade could be stopped, boarded or even seized by US forces.
+Russia struck bridges and railway stations in the capital Kyiv in a major attack.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Trump, Putin, Xi pledge to increase global petrol supplies – but how?
-**Link:** https://www.aljazeera.com/news/2026/11/20/trump-putin-xi-pledge-to-increase-global-petrol-supplies-but-how?traffic_source=rss
+## 2. CENY PÓJDĄ W GÓRĘ?
+**Score:** 16
+**Powody:** wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Fossil fuel talks deadlock pushes COP31 climate summit into overtime
+**Link:** https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Trump, Putin, Xi pledge to increase global petrol supplies – but how?
+Fossil fuel talks deadlock pushes COP31 climate summit into overtime
 
-Analysts are sceptical about how this will be achieved amid the ongoing wars in Ukraine and Iran.
+EU warns COP31 risks turning into a &#039;fossil summit&#039; as critical climate commitments are omitted from the draft deal.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
+**Score:** 16
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?
-**Link:** https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss
+**Tytuł źródła:** Trump defends Putin relationship, warns AI data centres must stay in US
+**Link:** https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?
+Trump defends Putin relationship, warns AI data centres must stay in US
 
-NATO Article 5 says attack on one member is an attack on all. Analysts say inclusion of Ukraine &#039;stretches credulity&#039;.
+The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
