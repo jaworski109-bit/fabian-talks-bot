@@ -1,21 +1,19 @@
 {
-  "generated_at": "2026-11-21T13:59:05.512722",
+  "generated_at": "2026-11-21T22:39:53.464509",
   "topics": [
     {
-      "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
-      "summary": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as &#039;oil trustees&#039;.",
-      "link": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
-      "score": 35,
+      "title": "Bahrain says Iranian attack causes fire at industrial facility",
+      "summary": "Bahrain reports no injuries, as Iran&#039;s IRGC says it targeted US military positions at two bases in al-Riffa and Awali.",
+      "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+      "score": 13,
       "reasons": [
         "konflikt/eskalacja",
-        "wpływ na ceny/handel",
         "duże państwa/geopolityka",
-        "silny trigger Ormuz",
-        "mocny trigger portfel/paliwo"
+        "czytelny tytuł"
       ],
-      "thumbnail": "PALIWO WYSTRZELI?",
-      "reel_text": "USA i Iran znowu grają Ormuzem.\n👉 Przez tę cieśninę idzie ogromna część światowej ropy.\n👉 Jedna decyzja… i ceny mogą ruszyć w górę.\n\nTo nie jest daleki konflikt.\n\n👉 To jest Twoja stacja paliw.\n👉 Twój rachunek.\n👉 Twój portfel.\n\nPytanie nie brzmi czy.\nPytanie brzmi — kiedy to poczujesz.",
-      "post_text": "Iran says it downed US drones over Hormuz as bid to end war remains stalled\n\nIran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as &#039;oil trustees&#039;.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
+      "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
+      "post_text": "Bahrain says Iranian attack causes fire at industrial facility\n\nBahrain reports no injuries, as Iran&#039;s IRGC says it targeted US military positions at two bases in al-Riffa and Awali.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -26,19 +24,18 @@
       ]
     },
     {
-      "title": "What we know about the latest Russian missile strikes on Ukraine",
-      "summary": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
-      "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
-      "score": 17,
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "link": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "score": 11,
       "reasons": [
         "konflikt/eskalacja",
-        "duże państwa/geopolityka",
-        "pilność/tempo",
+        "wpływ na ceny/handel",
         "czytelny tytuł"
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "What we know about the latest Russian missile strikes on Ukraine\n\nRussia struck bridges and railway stations in the capital Kyiv in a major attack.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Russia-bound ship attacked in Gulf of Finland\n\nFinnish defence forces say that Ukraine was likely behind the drone attack on the vessel.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
@@ -49,19 +46,17 @@
       ]
     },
     {
-      "title": "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland",
-      "summary": "Two drones attack a cargo ship close to Russia&#039;s maritime border, causing damage and crew evacuation.",
-      "link": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
-      "score": 14,
+      "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
+      "summary": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+      "score": 10,
       "reasons": [
         "konflikt/eskalacja",
-        "wpływ na ceny/handel",
-        "duże państwa/geopolityka",
         "czytelny tytuł"
       ],
       "thumbnail": "ŚWIAT WCHODZI W CHAOS?",
       "reel_text": "Na świecie znowu rośnie napięcie.\nAle najważniejsze pytanie brzmi jedno:\nczy za chwilę zapłacisz za to wyższą ceną życia?\n\nBo największe kryzysy zaczynają się daleko,\na kończą w Twoim portfelu.",
-      "post_text": "Russia says Kaliningrad-bound ship struck by drones in Gulf of Finland\n\nTwo drones attack a cargo ship close to Russia&#039;s maritime border, causing damage and crew evacuation.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
+      "post_text": "Israeli strike hits food aid vehicle in Gaza, killing three\n\nThree Palestinians were killed in an Israeli air attack on a vehicle carrying food.\n\nTu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.\n\nMyślisz, że to realne zagrożenie dla cen… czy tylko straszenie rynków?",
       "follow_hook": "Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na rachunku.",
       "hashtags": [
         "#wojna",
