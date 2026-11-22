@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-11-21 22:39)
+# Fabian Talks — top tematy (2026-11-22 13:53)
 
-## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
-**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Bahrain says Iranian attack causes fire at industrial facility
-**Link:** https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss
+## 1. CENY PÓJDĄ W GÓRĘ?
+**Score:** 21
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa
+**Link:** https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Bahrain says Iranian attack causes fire at industrial facility
+Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa
 
-Bahrain reports no injuries, as Iran&#039;s IRGC says it targeted US military positions at two bases in al-Riffa and Awali.
+Houthi media say several people were injured in an attack on an oil company as Saudi air defences down a drone.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -32,10 +32,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 11
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel, czytelny tytuł
-**Tytuł źródła:** Russia-bound ship attacked in Gulf of Finland
-**Link:** https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss
+**Score:** 18
+**Powody:** konflikt/eskalacja, wpływ na ceny/handel, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** What’s behind Iran’s escalation of attacks in the Gulf?
+**Link:** https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Russia-bound ship attacked in Gulf of Finland
+What’s behind Iran’s escalation of attacks in the Gulf?
 
-Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.
+Tehran has ramped up attacks as the US naval blockade and sanctions campaign hurt the country economically.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 10
-**Powody:** konflikt/eskalacja, czytelny tytuł
-**Tytuł źródła:** Israeli strike hits food aid vehicle in Gaza, killing three
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss
+**Score:** 17
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** ‘Trump’s exit strategy may depend on quietly lifting Iran blockade’
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Israeli strike hits food aid vehicle in Gaza, killing three
+‘Trump’s exit strategy may depend on quietly lifting Iran blockade’
 
-Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.
+US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
