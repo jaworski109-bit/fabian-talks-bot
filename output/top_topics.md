@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-11-25 16:37)
+# Fabian Talks — top tematy (2026-11-26 01:24)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Jerusalem Daily: Israel kills Hamas’s Gaza security chief
-**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief?traffic_source=rss
+**Tytuł źródła:** Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh
+**Link:** https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Jerusalem Daily: Israel kills Hamas’s Gaza security chief
+Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh
 
-Israel assassinated Hamas’s internal security chief in Gaza City, killing him and six others in a strike
+A blast hits Sanaa after air strikes near the airport, as the Saudi coalition intercepts missiles over Riyadh.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -31,11 +31,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 2. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
-**Powody:** konflikt/eskalacja, wpływ na ceny/handel
-**Tytuł źródła:** US court convicts Huawei of theft: A history of Chinese firm’s global woes
-**Link:** https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss
+## 2. CENY PÓJDĄ W GÓRĘ?
+**Score:** 13
+**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
+**Tytuł źródła:** Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway
+**Link:** https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-US court convicts Huawei of theft: A history of Chinese firm’s global woes
+Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway
 
-Chinese tech giant has faced legal problems from Europe to Asia, and its products have been banned in trade war with US.
+Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -63,10 +63,10 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ---
 
 ## 3. ŚWIAT WCHODZI W CHAOS?
-**Score:** 9
+**Score:** 12
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** ‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia
-**Link:** https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss
+**Tytuł źródła:** Winter rains threaten 1,000 Gaza shelter sites, councils warn
+**Link:** https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia
+Winter rains threaten 1,000 Gaza shelter sites, councils warn
 
-Israel&#039;s tech sector and economy have strong ties to chip giant Nvidia, which invests billions of dollars.
+About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
