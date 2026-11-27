@@ -1,10 +1,10 @@
-# Fabian Talks — top tematy (2026-11-26 16:09)
+# Fabian Talks — top tematy (2026-11-27 01:22)
 
 ## 1. ŚWIAT WCHODZI W CHAOS?
-**Score:** 13
+**Score:** 17
 **Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
-**Tytuł źródła:** Can Trump continue with Iran war despite funding restrictions?
-**Link:** https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss
+**Tytuł źródła:** Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’
+**Link:** https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -15,9 +15,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Can Trump continue with Iran war despite funding restrictions?
+Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’
 
-A Congress budget bill could serve as a pressure tactic on Trump to end the war but could also trigger a shutdown.
+Iran&#039;s FM Abbas Araghchi says the deadly Kuwait incident is &quot;suspicious&quot; and looks like a &quot;pre-cooked recipe&quot; for war.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -34,8 +34,8 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 ## 2. CENY PÓJDĄ W GÓRĘ?
 **Score:** 13
 **Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Seven injured, four critically, after Bangkok oil refinery explosion
-**Link:** https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss
+**Tytuł źródła:** Egypt detains driver over Cairo fuel tanker fire that killed 31
+**Link:** https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -46,9 +46,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Seven injured, four critically, after Bangkok oil refinery explosion
+Egypt detains driver over Cairo fuel tanker fire that killed 31
 
-Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.
+Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
@@ -62,11 +62,11 @@ Obserwuj Fabian Talks — bo tu zobaczysz konsekwencje, zanim poczujesz je na ra
 
 ---
 
-## 3. CENY PÓJDĄ W GÓRĘ?
+## 3. ŚWIAT WCHODZI W CHAOS?
 **Score:** 13
-**Powody:** wpływ na ceny/handel, czytelny tytuł, mocny trigger portfel/paliwo
-**Tytuł źródła:** Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway
-**Link:** https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss
+**Powody:** konflikt/eskalacja, duże państwa/geopolityka, czytelny tytuł
+**Tytuł źródła:** Kushner explains the ‘good thing’ about Gaza’s destruction
+**Link:** https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss
 
 ### Tekst na rolkę
 Na świecie znowu rośnie napięcie.
@@ -77,9 +77,9 @@ Bo największe kryzysy zaczynają się daleko,
 a kończą w Twoim portfelu.
 
 ### Tekst pod post
-Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway
+Kushner explains the ‘good thing’ about Gaza’s destruction
 
-Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.
+Jared Kushner says the “good thing” about Israel’s genocidal war on Gaza is that it can be built into “something new”.
 
 Tu nie chodzi już tylko o politykę. Jeśli napięcie wokół tego tematu wzrośnie, rynek może przerzucić koszt na paliwo, transport i ceny. I właśnie dlatego to jest temat dla zwykłego człowieka, a nie tylko dla ekspertów.
 
